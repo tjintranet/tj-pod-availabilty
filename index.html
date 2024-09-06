@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ISBN Search - T&F Metadata Check Report</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        #search-container {
+            margin-bottom: 20px;
+        }
+        #isbn-input {
+            padding: 5px;
+            font-size: 16px;
+        }
+        #search-button {
+            padding: 5px 10px;
+            font-size: 16px;
+            background-color: #3498db;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        #result-container {
+            background-color: #f2f2f2;
+            border-left: 5px solid #3498db;
+            padding: 10px;
+            margin-top: 20px;
+        }
+        .not-found {
+            color: #e74c3c;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>ISBN Search - T&F Metadata Check Report</h1>
+    <div id="search-container">
+        <input type="text" id="isbn-input" placeholder="Enter ISBN">
+        <button id="search-button">Search</button>
+    </div>
+    <div id="result-container"></div>
+
+    <script>
+        document.getElementById('search-button').addEventListener('click', searchISBN);
+
+        function searchISBN() {
+            const isbn = document.getElementById('isbn-input').value.trim();
+            if (!isbn) {
+                alert('Please enter an ISBN');
+                return;
+            }
+
+            // Construct the file path based on the ISBN
+            const filePath = `/reports/${isbn}.html`;
+
+            // Fetch the HTML file
+            fetch(filePath)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Report not found');
+                    }
+                    return response.text();
+                })
+                .then(html => {
+                    document.getElementById('result-container').innerHTML = html;
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    document.getElementById('result-container').innerHTML = '<p class="not-found">Report not found for the given ISBN.</p>';
+                });
+        }
+    </script>
+</body>
+</html>
