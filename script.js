@@ -23,7 +23,6 @@ document.getElementById('isbn').addEventListener('click', function(e) {
     e.target.select();
 });
 
-// New event listener for clear button
 document.getElementById('clear-button').addEventListener('click', function() {
     const isbnInput = document.getElementById('isbn');
     isbnInput.value = '';
@@ -55,7 +54,7 @@ function searchISBN(isbn) {
             </div>
         `;
     } else {
-        resultHTML = '<div class="alert result-warning">Item not available</div>';
+        resultHTML = '<div class="alert result-warning">Item not available for POD</div>';
     }
     
     document.getElementById('result').innerHTML = resultHTML;
