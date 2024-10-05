@@ -19,9 +19,18 @@ document.getElementById('isbn').addEventListener('input', function(e) {
     document.getElementById('search-button').disabled = !isValid;
 });
 
-// New event listener for click
 document.getElementById('isbn').addEventListener('click', function(e) {
     e.target.select();
+});
+
+// New event listener for clear button
+document.getElementById('clear-button').addEventListener('click', function() {
+    const isbnInput = document.getElementById('isbn');
+    isbnInput.value = '';
+    isbnInput.classList.remove('is-valid', 'is-invalid');
+    document.getElementById('isbn-feedback').style.display = 'none';
+    document.getElementById('search-button').disabled = true;
+    document.getElementById('result').innerHTML = '';
 });
 
 async function fetchData() {
