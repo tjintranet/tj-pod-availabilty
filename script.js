@@ -19,6 +19,11 @@ document.getElementById('isbn').addEventListener('input', function(e) {
     document.getElementById('search-button').disabled = !isValid;
 });
 
+// New event listener for click
+document.getElementById('isbn').addEventListener('click', function(e) {
+    e.target.select();
+});
+
 async function fetchData() {
     try {
         const response = await fetch('data.json');
