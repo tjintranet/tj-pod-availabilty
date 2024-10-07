@@ -10,6 +10,9 @@
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
 
+    <!-- SheetJS library for Excel file processing -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.0/xlsx.full.min.js"></script>
+
     <style>
         .result-success {
             background-color: #d4edda;
@@ -79,8 +82,8 @@
                     <div class="col-md-6">
                         <form id="bulk-search-form">
                             <div class="mb-3">
-                                <label for="csv-file" class="form-label">Upload CSV file with ISBNs:</label>
-                                <input type="file" class="form-control" id="csv-file" accept=".csv" required>
+                                <label for="file-upload" class="form-label">Upload CSV or Excel file with ISBNs:</label>
+                                <input type="file" class="form-control" id="file-upload" accept=".csv,.xlsx,.xls" required>
                             </div>
                             <div class="button-group">
                                 <button type="submit" class="btn btn-primary" id="bulk-search-button">Search</button>
