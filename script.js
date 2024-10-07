@@ -32,10 +32,16 @@ document.getElementById('clear-button').addEventListener('click', function() {
 // Bulk ISBN search
 document.getElementById('bulk-search-form').addEventListener('submit', function(e) {
     e.preventDefault();
-    const fileInput = document.getElementById('csv-file');
+    const fileInput = document.getElementById('file-upload');
     const file = fileInput.files[0];
     if (file) {
-        processCSV(file);
+        if (file.name.endsWith('.csv')) {
+            processCSV(file);
+        } else if (file.name.endsWith('.xlsx') || file.name.endsWith('.xls')) {
+            processExcel(file);
+        } else {
+            alert('Unsupported file type. Please upload a CSV or Excel file.');
+        }
     }
 });
 
@@ -111,13 +117,29 @@ function processCSV(file) {
     reader.readAsText(file);
 }
 
+// Process Excel file for bulk search
+function processExcel(file) {
+    const reader = new FileReader();
+    reader.onload = function(e) {
+        const data = new Uint8Array(e.target.result);
+        const workbook = XLSX.read(data, {type: 'array'});
+        const firstSheetName = workbook.SheetNames[0];
+        const worksheet = workbook.Sheets[firstSheetName];
+        const isbns = XLSX.utils.sheet_to_json(worksheet, {header: 1})
+            .flat()
+            .filter(isbn => isbn && isbn.toString().trim() !== '');
+        processBulkISBNs(isbns);
+    };
+    reader.readAsArrayBuffer(file);
+}
+
 // Process bulk ISBNs
 function processBulkISBNs(isbns) {
     let resultHTML = '<table class="table"><thead><tr><th>ISBN</th><th>Status</th></tr></thead><tbody>';
     bulkResults = []; // Clear previous results
     
     isbns.forEach(isbn => {
-        isbn = isbn.replace(/[-\s]/g, '');
+        isbn = isbn.toString().replace(/[-\s]/g, '');
         let status, statusClass;
         if (isValidISBN13(isbn)) {
             const result = booksData.find(book => book.code === isbn);
@@ -148,7 +170,7 @@ function clearSingleSearch() {
 
 // Clear bulk upload
 function clearBulkUpload() {
-    document.getElementById('csv-file').value = '';
+    document.getElementById('file-upload').value = '';
     document.getElementById('bulk-result').innerHTML = '';
     document.getElementById('download-button').disabled = true;
     bulkResults = [];
