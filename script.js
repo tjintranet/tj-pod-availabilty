@@ -1,5 +1,7 @@
 let booksData = [];
+let bulkResults = [];
 
+// Single ISBN search
 document.getElementById('search-form').addEventListener('submit', function(e) {
     e.preventDefault();
     const isbn = document.getElementById('isbn').value;
@@ -24,14 +26,10 @@ document.getElementById('isbn').addEventListener('click', function(e) {
 });
 
 document.getElementById('clear-button').addEventListener('click', function() {
-    const isbnInput = document.getElementById('isbn');
-    isbnInput.value = '';
-    isbnInput.classList.remove('is-valid', 'is-invalid');
-    document.getElementById('isbn-feedback').style.display = 'none';
-    document.getElementById('search-button').disabled = true;
-    document.getElementById('result').innerHTML = '';
+    clearSingleSearch();
 });
 
+// Bulk ISBN search
 document.getElementById('bulk-search-form').addEventListener('submit', function(e) {
     e.preventDefault();
     const fileInput = document.getElementById('csv-file');
@@ -41,6 +39,15 @@ document.getElementById('bulk-search-form').addEventListener('submit', function(
     }
 });
 
+document.getElementById('bulk-clear-button').addEventListener('click', function() {
+    clearBulkUpload();
+});
+
+document.getElementById('download-button').addEventListener('click', function() {
+    downloadResults();
+});
+
+// Fetch ISBN data
 async function fetchData() {
     try {
         const response = await fetch('data.json');
@@ -50,6 +57,7 @@ async function fetchData() {
     }
 }
 
+// Single ISBN search function
 function searchISBN(isbn) {
     const result = booksData.find(book => book.code === isbn);
     
@@ -69,6 +77,7 @@ function searchISBN(isbn) {
     document.getElementById('result').innerHTML = resultHTML;
 }
 
+// ISBN-13 validation function
 function isValidISBN13(isbn) {
     isbn = isbn.replace(/[-\s]/g, '');
     
@@ -85,11 +94,13 @@ function isValidISBN13(isbn) {
     return isbn[12] === checksum.toString();
 }
 
+// Show feedback for invalid ISBN
 function showInvalidISBNFeedback() {
     document.getElementById('isbn').classList.add('is-invalid');
     document.getElementById('isbn-feedback').style.display = 'block';
 }
 
+// Process CSV file for bulk search
 function processCSV(file) {
     const reader = new FileReader();
     reader.onload = function(e) {
@@ -100,23 +111,65 @@ function processCSV(file) {
     reader.readAsText(file);
 }
 
+// Process bulk ISBNs
 function processBulkISBNs(isbns) {
     let resultHTML = '<table class="table"><thead><tr><th>ISBN</th><th>Status</th></tr></thead><tbody>';
+    bulkResults = []; // Clear previous results
     
     isbns.forEach(isbn => {
         isbn = isbn.replace(/[-\s]/g, '');
+        let status, statusClass;
         if (isValidISBN13(isbn)) {
             const result = booksData.find(book => book.code === isbn);
-            const status = result ? 'Available for POD' : 'Not available for POD';
-            const statusClass = result ? 'text-success' : 'text-danger';
-            resultHTML += `<tr><td>${isbn}</td><td class="${statusClass}">${status}</td></tr>`;
+            status = result ? 'Available for POD' : 'Not available for POD';
+            statusClass = result ? 'text-success' : 'text-danger';
         } else {
-            resultHTML += `<tr><td>${isbn}</td><td class="text-warning">Invalid ISBN</td></tr>`;
+            status = 'Invalid ISBN';
+            statusClass = 'text-warning';
         }
+        resultHTML += `<tr><td>${isbn}</td><td class="${statusClass}">${status}</td></tr>`;
+        bulkResults.push({ isbn, status });
     });
     
     resultHTML += '</tbody></table>';
     document.getElementById('bulk-result').innerHTML = resultHTML;
+    document.getElementById('download-button').disabled = false;
+}
+
+// Clear single search
+function clearSingleSearch() {
+    const isbnInput = document.getElementById('isbn');
+    isbnInput.value = '';
+    isbnInput.classList.remove('is-valid', 'is-invalid');
+    document.getElementById('isbn-feedback').style.display = 'none';
+    document.getElementById('search-button').disabled = true;
+    document.getElementById('result').innerHTML = '';
+}
+
+// Clear bulk upload
+function clearBulkUpload() {
+    document.getElementById('csv-file').value = '';
+    document.getElementById('bulk-result').innerHTML = '';
+    document.getElementById('download-button').disabled = true;
+    bulkResults = [];
+}
+
+// Download results as CSV
+function downloadResults() {
+    if (bulkResults.length === 0) return;
+
+    const csv = 'ISBN,Status\n' + bulkResults.map(result => `${result.isbn},"${result.status}"`).join('\n');
+    const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+    const link = document.createElement("a");
+    if (link.download !== undefined) {
+        const url = URL.createObjectURL(blob);
+        link.setAttribute("href", url);
+        link.setAttribute("download", "isbn_results.csv");
+        link.style.visibility = 'hidden';
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+    }
 }
 
 // Fetch data when the page loads
