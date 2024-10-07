@@ -82,7 +82,11 @@
                                 <label for="csv-file" class="form-label">Upload CSV file with ISBNs:</label>
                                 <input type="file" class="form-control" id="csv-file" accept=".csv" required>
                             </div>
-                            <button type="submit" class="btn btn-primary" id="bulk-search-button">Search</button>
+                            <div class="button-group">
+                                <button type="submit" class="btn btn-primary" id="bulk-search-button">Search</button>
+                                <button type="button" class="btn btn-secondary" id="bulk-clear-button">Clear</button>
+                                <button type="button" class="btn btn-success" id="download-button" disabled>Download Results</button>
+                            </div>
                         </form>
                     </div>
                 </div>
