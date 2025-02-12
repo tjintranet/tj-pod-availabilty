@@ -32,7 +32,7 @@
 <body class="bg-light">
     <div class="container py-4">
         <div class="row justify-content-center">
-            <div class="col-12">
+            <div class="col-10">
                 <div class="card shadow">
                     <div class="card-header bg-primary text-white d-flex justify-content-between align-items-center">
                         <h4 class="mb-0">TJ POD Availability Search Tool</h4>
@@ -59,7 +59,7 @@
                             <!-- Single ISBN Tab -->
                             <div class="tab-pane fade show active" id="single" role="tabpanel" aria-labelledby="single-tab">
                                 <div class="row">
-                                    <div class="col-md-10 col-lg-8">
+                                    <div class="col-12">
                                         <div class="card shadow-sm">
                                             <div class="card-header bg-light">
                                                 <h5 class="card-title mb-0">Single ISBN Search</h5>
@@ -97,7 +97,7 @@
                             <!-- Bulk Upload Tab -->
                             <div class="tab-pane fade" id="bulk" role="tabpanel" aria-labelledby="bulk-tab">
                                 <div class="row">
-                                    <div class="col-md-10 col-lg-8">
+                                    <div class="col-12">
                                         <div class="card shadow-sm">
                                             <div class="card-header bg-light">
                                                 <h5 class="card-title mb-0">Bulk ISBN Search</h5>
@@ -110,14 +110,11 @@
                                                             accept=".csv,.xlsx,.xls" required>
                                                     </div>
                                                     <div class="d-flex gap-2">
-                                                        <button type="submit" class="btn btn-primary" id="bulk-search-button">
-                                                            <i class="fas fa-search"></i> Search
+                                                        <button type="button" class="btn btn-success" id="download-button" disabled>
+                                                            <i class="fas fa-download"></i> Download Results
                                                         </button>
                                                         <button type="button" class="btn btn-secondary" id="bulk-clear-button">
                                                             <i class="fas fa-times"></i> Clear
-                                                        </button>
-                                                        <button type="button" class="btn btn-success" id="download-button" disabled>
-                                                            <i class="fas fa-download"></i> Download Results
                                                         </button>
                                                     </div>
                                                 </form>

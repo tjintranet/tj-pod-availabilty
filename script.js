@@ -17,7 +17,7 @@ document.getElementById('isbn').addEventListener('click', function(e) {
     e.target.select();
 });
 document.getElementById('clear-button').addEventListener('click', clearSingleSearch);
-document.getElementById('bulk-search-form').addEventListener('submit', handleBulkSubmit);
+document.getElementById('file-upload').addEventListener('change', handleFileChange);
 document.getElementById('bulk-clear-button').addEventListener('click', clearBulkUpload);
 document.getElementById('download-button').addEventListener('click', downloadResults);
 
@@ -31,10 +31,8 @@ function handleISBNInput(e) {
     document.getElementById('search-button').disabled = !isValid;
 }
 
-function handleBulkSubmit(e) {
-    e.preventDefault();
-    const fileInput = document.getElementById('file-upload');
-    const file = fileInput.files[0];
+function handleFileChange(e) {
+    const file = e.target.files[0];
     if (file) {
         if (file.name.toLowerCase().endsWith('.csv')) {
             processCSV(file);
@@ -42,6 +40,7 @@ function handleBulkSubmit(e) {
             processExcel(file);
         } else {
             showAlert('Unsupported file type. Please upload a CSV or Excel file.', 'danger');
+            e.target.value = '';
         }
     }
 }
@@ -51,7 +50,9 @@ function processCSV(file) {
     const reader = new FileReader();
     reader.onload = function(e) {
         const content = e.target.result;
+        console.log('CSV Content:', content);
         const isbns = content.split(/\r\n|\n/).filter(isbn => isbn.trim() !== '');
+        console.log('Parsed ISBNs:', isbns);
         processBulkISBNs(isbns);
     };
     reader.readAsText(file);
@@ -77,7 +78,11 @@ function processExcel(file) {
 async function fetchData() {
     try {
         const response = await fetch('data.json');
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
         booksData = await response.json();
+        console.log('Loaded books data:', booksData);
     } catch (error) {
         console.error('Error fetching data:', error);
         showAlert('Error loading data. Please try again later.', 'danger');
@@ -104,6 +109,12 @@ function searchISBN(isbn) {
 }
 
 function processBulkISBNs(isbns) {
+    console.log('Processing bulk ISBNs:', isbns);
+    if (!booksData || booksData.length === 0) {
+        console.error('No books data available');
+        showAlert('Error: Book data not loaded. Please refresh the page and try again.', 'danger');
+        return;
+    }
     let resultHTML = `
         <div class="table-responsive">
             <table class="table table-striped table-hover">
@@ -220,4 +231,7 @@ function downloadResults() {
 }
 
 // Initialize
-fetchData();
+document.addEventListener('DOMContentLoaded', async () => {
+    await fetchData();
+    console.log('Initialization complete');
+});
