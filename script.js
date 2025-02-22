@@ -12,6 +12,7 @@ document.getElementById('search-button').addEventListener('click', function(e) {
     }
 });
 
+// Upload spinner
 document.getElementById('isbn').addEventListener('input', handleISBNInput);
 document.getElementById('isbn').addEventListener('click', function(e) {
     e.target.select();
@@ -20,6 +21,24 @@ document.getElementById('clear-button').addEventListener('click', clearSingleSea
 document.getElementById('file-upload').addEventListener('change', handleFileChange);
 document.getElementById('bulk-clear-button').addEventListener('click', clearBulkUpload);
 document.getElementById('download-button').addEventListener('click', downloadResults);
+
+function showSpinner() {
+    document.getElementById('loading-spinner').classList.remove('d-none');
+    document.getElementById('bulk-result').innerHTML = '';
+    document.getElementById('file-upload').disabled = true;
+    document.getElementById('bulk-clear-button').disabled = true;
+}
+
+function hideSpinner() {
+    document.getElementById('loading-spinner').classList.add('d-none');
+    document.getElementById('file-upload').disabled = false;
+    document.getElementById('bulk-clear-button').disabled = false;
+}
+
+function updateProgress(processed, total) {
+    const percentage = Math.round((processed / total) * 100);
+    document.getElementById('progress-text').textContent = `${processed} of ${total} (${percentage}%)`;
+}
 
 // Input Handlers
 function handleISBNInput(e) {
@@ -47,18 +66,26 @@ function handleFileChange(e) {
 
 // File Processing
 function processCSV(file) {
+    showSpinner();
     const reader = new FileReader();
     reader.onload = function(e) {
         const content = e.target.result;
-        console.log('CSV Content:', content);
         const isbns = content.split(/\r\n|\n/).filter(isbn => isbn.trim() !== '');
-        console.log('Parsed ISBNs:', isbns);
-        processBulkISBNs(isbns);
+        
+        // Process ISBNs in chunks to prevent UI blocking
+        const chunkSize = 100;
+        const chunks = [];
+        for (let i = 0; i < isbns.length; i += chunkSize) {
+            chunks.push(isbns.slice(i, i + chunkSize));
+        }
+        
+        processChunks(chunks, isbns.length);
     };
     reader.readAsText(file);
 }
 
 function processExcel(file) {
+    showSpinner();
     const reader = new FileReader();
     reader.onload = function(e) {
         const data = new Uint8Array(e.target.result);
@@ -69,9 +96,43 @@ function processExcel(file) {
             .flat()
             .map(isbn => isbn ? isbn.toString().trim() : '')
             .filter(isbn => isbn !== '');
-        processBulkISBNs(isbns);
+
+        // Process ISBNs in chunks
+        const chunkSize = 100;
+        const chunks = [];
+        for (let i = 0; i < isbns.length; i += chunkSize) {
+            chunks.push(isbns.slice(i, i + chunkSize));
+        }
+        
+        processChunks(chunks, isbns.length);
     };
     reader.readAsArrayBuffer(file);
+}
+
+// New function to process chunks with setTimeout
+async function processChunks(chunks, totalIsbns) {
+    let processedIsbns = 0;
+    let allResults = [];
+    
+    function processNextChunk() {
+        if (chunks.length === 0) {
+            // All chunks processed
+            processBulkISBNs(allResults);
+            hideSpinner();
+            return;
+        }
+        
+        const chunk = chunks.shift();
+        processedIsbns += chunk.length;
+        allResults = allResults.concat(chunk);
+        
+        updateProgress(processedIsbns, totalIsbns);
+        
+        // Process next chunk in the next event loop iteration
+        setTimeout(processNextChunk, 0);
+    }
+    
+    processNextChunk();
 }
 
 // Data Processing
@@ -122,6 +183,7 @@ function processBulkISBNs(isbns) {
                     <tr>
                         <th>ISBN</th>
                         <th>Description</th>
+                        <th>Setup Date</th>
                         <th>Status</th>
                     </tr>
                 </thead>
@@ -131,38 +193,79 @@ function processBulkISBNs(isbns) {
     bulkResults = isbns.map(isbn => {
         isbn = isbn.toString().replace(/[-\s]/g, '');
         const result = booksData.find(book => book.code === isbn);
-        let status, statusClass, description;
+        let status, statusClass, description, setupdate;
         
         if (isValidISBN13(isbn)) {
             if (result) {
                 status = 'Available for POD';
                 statusClass = 'success';
                 description = result.description;
+                setupdate = formatDate(result.setupdate);
             } else {
                 status = 'Not available for POD';
                 statusClass = 'danger';
                 description = '-';
+                setupdate = '-';
             }
         } else {
             status = 'Invalid ISBN';
             statusClass = 'warning';
             description = '-';
+            setupdate = '-';
         }
         
         resultHTML += `
             <tr>
                 <td>${isbn}</td>
                 <td>${description || '-'}</td>
+                <td>${setupdate}</td>
                 <td><span class="badge bg-${statusClass}">${status}</span></td>
             </tr>
         `;
         
-        return { isbn, status, description };
+        return { isbn, status, description, setupdate };
     });
     
     resultHTML += '</tbody></table></div>';
     document.getElementById('bulk-result').innerHTML = resultHTML;
     document.getElementById('download-button').disabled = false;
+}
+
+function downloadResults() {
+    if (bulkResults.length === 0) return;
+    
+    const csv = 'ISBN,Description,Setup Date,Status\n' + 
+        bulkResults.map(result => `${result.isbn},"${result.description || ''}","${result.setupdate}","${result.status}"`).join('\n');
+    
+    const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+    const link = document.createElement("a");
+    
+    if (link.download !== undefined) {
+        const url = URL.createObjectURL(blob);
+        link.setAttribute("href", url);
+        link.setAttribute("download", "isbn_results.csv");
+        link.style.visibility = 'hidden';
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+    }
+}
+
+function formatDate(dateStr) {
+    if (!dateStr || dateStr === '-') return '-';
+    try {
+        const date = new Date(dateStr);
+        if (isNaN(date.getTime())) return '-';
+        
+        const day = date.getDate().toString().padStart(2, '0');
+        const month = (date.getMonth() + 1).toString().padStart(2, '0');
+        const year = date.getFullYear().toString().slice(-2);
+        
+        return `${day}-${month}-${year}`;
+    } catch (error) {
+        console.error('Error formatting date:', error);
+        return '-';
+    }
 }
 
 // Utility Functions
@@ -207,14 +310,16 @@ function clearBulkUpload() {
     document.getElementById('file-upload').value = '';
     document.getElementById('bulk-result').innerHTML = '';
     document.getElementById('download-button').disabled = true;
+    document.getElementById('loading-spinner').classList.add('d-none');
+    document.getElementById('progress-text').textContent = '';
     bulkResults = [];
 }
 
 function downloadResults() {
     if (bulkResults.length === 0) return;
     
-    const csv = 'ISBN,Description,Status\n' + 
-        bulkResults.map(result => `${result.isbn},"${result.description || ''}","${result.status}"`).join('\n');
+    const csv = 'ISBN,Description,Setup Date,Status\n' + 
+        bulkResults.map(result => `${result.isbn},"${result.description || ''}","${result.setupdate || ''}","${result.status}"`).join('\n');
     
     const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
     const link = document.createElement("a");
