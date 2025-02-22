@@ -23,14 +23,16 @@ document.getElementById('bulk-clear-button').addEventListener('click', clearBulk
 document.getElementById('download-button').addEventListener('click', downloadResults);
 
 function showSpinner() {
-    document.getElementById('loading-spinner').classList.remove('d-none');
+    const spinner = document.getElementById('loading-spinner');
+    spinner.style.display = 'block';
     document.getElementById('bulk-result').innerHTML = '';
     document.getElementById('file-upload').disabled = true;
     document.getElementById('bulk-clear-button').disabled = true;
 }
 
 function hideSpinner() {
-    document.getElementById('loading-spinner').classList.add('d-none');
+    const spinner = document.getElementById('loading-spinner');
+    spinner.style.display = 'none';
     document.getElementById('file-upload').disabled = false;
     document.getElementById('bulk-clear-button').disabled = false;
 }
@@ -73,7 +75,7 @@ function processCSV(file) {
         const isbns = content.split(/\r\n|\n/).filter(isbn => isbn.trim() !== '');
         
         // Process ISBNs in chunks to prevent UI blocking
-        const chunkSize = 100;
+        const chunkSize = 50;
         const chunks = [];
         for (let i = 0; i < isbns.length; i += chunkSize) {
             chunks.push(isbns.slice(i, i + chunkSize));
@@ -109,7 +111,7 @@ function processExcel(file) {
     reader.readAsArrayBuffer(file);
 }
 
-// New function to process chunks with setTimeout
+// Process chunks with setTimeout
 async function processChunks(chunks, totalIsbns) {
     let processedIsbns = 0;
     let allResults = [];
@@ -310,7 +312,7 @@ function clearBulkUpload() {
     document.getElementById('file-upload').value = '';
     document.getElementById('bulk-result').innerHTML = '';
     document.getElementById('download-button').disabled = true;
-    document.getElementById('loading-spinner').classList.add('d-none');
+    document.getElementById('loading-spinner').style.display = 'none';
     document.getElementById('progress-text').textContent = '';
     bulkResults = [];
 }

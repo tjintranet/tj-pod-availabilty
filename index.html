@@ -122,11 +122,13 @@
                                                 <div class="mt-4">
                                                     <h5 class="mb-3">Bulk Results:</h5>
                                                     <div id="bulk-result" class="card p-3 shadow-sm"></div>
-                                                    <div id="loading-spinner" class="text-center my-4 d-none">
-                                                        <div class="spinner-border text-primary" role="status">
-                                                            <span class="visually-hidden">Loading...</span>
+                                                    <div id="loading-spinner" style="display: none;">
+                                                        <div class="d-flex justify-content-center align-items-center my-4">
+                                                            <div class="spinner-border text-primary me-3" role="status">
+                                                                <span class="visually-hidden">Loading...</span>
+                                                            </div>
+                                                            <div class="h6 mb-0">Processing ISBNs... <span id="progress-text"></span></div>
                                                         </div>
-                                                        <p class="mt-2">Processing ISBNs... <span id="progress-text"></span></p>
                                                     </div>
                                                 </div>
                                             </div>
