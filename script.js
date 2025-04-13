@@ -1,5 +1,6 @@
 let booksData = [];
 let bulkResults = [];
+let allBulkResults = [];
 
 // Event Listeners
 document.getElementById('search-button').addEventListener('click', function(e) {
@@ -21,6 +22,9 @@ document.getElementById('clear-button').addEventListener('click', clearSingleSea
 document.getElementById('file-upload').addEventListener('change', handleFileChange);
 document.getElementById('bulk-clear-button').addEventListener('click', clearBulkUpload);
 document.getElementById('download-button').addEventListener('click', downloadResults);
+document.getElementById('show-unavailable-only').addEventListener('change', function() {
+    filterBulkResults();
+});
 
 function showSpinner() {
     const spinner = document.getElementById('loading-spinner');
@@ -178,21 +182,9 @@ function processBulkISBNs(isbns) {
         showAlert('Error: Book data not loaded. Please refresh the page and try again.', 'danger');
         return;
     }
-    let resultHTML = `
-        <div class="table-responsive">
-            <table class="table table-striped table-hover">
-                <thead>
-                    <tr>
-                        <th>ISBN</th>
-                        <th>Description</th>
-                        <th>Setup Date</th>
-                        <th>Status</th>
-                    </tr>
-                </thead>
-                <tbody>
-    `;
     
-    bulkResults = isbns.map(isbn => {
+    // Process all ISBNs and store the complete results
+    allBulkResults = isbns.map(isbn => {
         isbn = isbn.toString().replace(/[-\s]/g, '');
         const result = booksData.find(book => book.code === isbn);
         let status, statusClass, description, setupdate;
@@ -216,58 +208,71 @@ function processBulkISBNs(isbns) {
             setupdate = '-';
         }
         
-        resultHTML += `
-            <tr>
-                <td>${isbn}</td>
-                <td>${description || '-'}</td>
-                <td>${setupdate}</td>
-                <td><span class="badge bg-${statusClass}">${status}</span></td>
-            </tr>
-        `;
-        
-        return { isbn, status, description, setupdate };
+        return { isbn, status, statusClass, description, setupdate };
     });
     
-    resultHTML += '</tbody></table></div>';
-    document.getElementById('bulk-result').innerHTML = resultHTML;
+    // Apply filtering and display results
+    filterBulkResults();
+    
     document.getElementById('download-button').disabled = false;
 }
 
-function downloadResults() {
-    if (bulkResults.length === 0) return;
+function filterBulkResults() {
+    const showUnavailableOnly = document.getElementById('show-unavailable-only').checked;
     
-    const csv = 'ISBN,Description,Setup Date,Status\n' + 
-        bulkResults.map(result => `${result.isbn},"${result.description || ''}","${result.setupdate}","${result.status}"`).join('\n');
+    // Filter results based on toggle state
+    bulkResults = showUnavailableOnly 
+        ? allBulkResults.filter(result => result.status === 'Not available for POD')
+        : [...allBulkResults];
     
-    const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
-    const link = document.createElement("a");
+    // Generate HTML for the filtered results
+    let resultHTML = `
+        <div class="table-responsive">
+            <table class="table table-striped table-hover">
+                <thead>
+                    <tr>
+                        <th>ISBN</th>
+                        <th>Description</th>
+                        <th>Setup Date</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+    `;
     
-    if (link.download !== undefined) {
-        const url = URL.createObjectURL(blob);
-        link.setAttribute("href", url);
-        link.setAttribute("download", "isbn_results.csv");
-        link.style.visibility = 'hidden';
-        document.body.appendChild(link);
-        link.click();
-        document.body.removeChild(link);
+    if (bulkResults.length === 0) {
+        resultHTML += `
+            <tr>
+                <td colspan="4" class="text-center">No results found</td>
+            </tr>
+        `;
+    } else {
+        bulkResults.forEach(result => {
+            resultHTML += `
+                <tr>
+                    <td>${result.isbn}</td>
+                    <td>${result.description || '-'}</td>
+                    <td>${result.setupdate}</td>
+                    <td><span class="badge bg-${result.statusClass}">${result.status}</span></td>
+                </tr>
+            `;
+        });
     }
-}
-
-function formatDate(dateStr) {
-    if (!dateStr || dateStr === '-') return '-';
-    try {
-        const date = new Date(dateStr);
-        if (isNaN(date.getTime())) return '-';
-        
-        const day = date.getDate().toString().padStart(2, '0');
-        const month = (date.getMonth() + 1).toString().padStart(2, '0');
-        const year = date.getFullYear().toString().slice(-2);
-        
-        return `${day}-${month}-${year}`;
-    } catch (error) {
-        console.error('Error formatting date:', error);
-        return '-';
+    
+    resultHTML += '</tbody></table></div>';
+    
+    // Add a summary of results
+    if (allBulkResults.length > 0) {
+        const totalUnavailable = allBulkResults.filter(r => r.status === 'Not available for POD').length;
+        resultHTML = `
+            <div class="alert alert-info mb-3">
+                Showing ${bulkResults.length} of ${allBulkResults.length} results 
+                (${totalUnavailable} not available for POD)
+            </div>
+        ` + resultHTML;
     }
+    
+    document.getElementById('bulk-result').innerHTML = resultHTML;
 }
 
 // Utility Functions
@@ -314,7 +319,26 @@ function clearBulkUpload() {
     document.getElementById('download-button').disabled = true;
     document.getElementById('loading-spinner').style.display = 'none';
     document.getElementById('progress-text').textContent = '';
+    document.getElementById('show-unavailable-only').checked = false;
     bulkResults = [];
+    allBulkResults = [];
+}
+
+function formatDate(dateStr) {
+    if (!dateStr || dateStr === '-') return '-';
+    try {
+        const date = new Date(dateStr);
+        if (isNaN(date.getTime())) return '-';
+        
+        const day = date.getDate().toString().padStart(2, '0');
+        const month = (date.getMonth() + 1).toString().padStart(2, '0');
+        const year = date.getFullYear().toString().slice(-2);
+        
+        return `${day}-${month}-${year}`;
+    } catch (error) {
+        console.error('Error formatting date:', error);
+        return '-';
+    }
 }
 
 function downloadResults() {
