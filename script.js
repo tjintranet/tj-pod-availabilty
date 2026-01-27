@@ -76,16 +76,27 @@ function processCSV(file) {
     const reader = new FileReader();
     reader.onload = function(e) {
         const content = e.target.result;
-        const isbns = content.split(/\r\n|\n/).filter(isbn => isbn.trim() !== '');
+        const lines = content.split(/\r\n|\n/);
+        
+        // Extract only column A (first column before comma)
+        let columnAValues = lines.map(line => {
+            const firstColumnValue = line.split(',')[0].trim();
+            return firstColumnValue;
+        }).filter(value => value !== '');
+        
+        // Check for and skip header row
+        if (columnAValues.length > 0 && isLikelyHeaderRow(columnAValues[0])) {
+            columnAValues = columnAValues.slice(1);
+        }
         
         // Process ISBNs in chunks to prevent UI blocking
         const chunkSize = 50;
         const chunks = [];
-        for (let i = 0; i < isbns.length; i += chunkSize) {
-            chunks.push(isbns.slice(i, i + chunkSize));
+        for (let i = 0; i < columnAValues.length; i += chunkSize) {
+            chunks.push(columnAValues.slice(i, i + chunkSize));
         }
         
-        processChunks(chunks, isbns.length);
+        processChunks(chunks, columnAValues.length);
     };
     reader.readAsText(file);
 }
@@ -98,21 +109,35 @@ function processExcel(file) {
         const workbook = XLSX.read(data, {type: 'array'});
         const firstSheetName = workbook.SheetNames[0];
         const worksheet = workbook.Sheets[firstSheetName];
-        const isbns = XLSX.utils.sheet_to_json(worksheet, {header: 1})
-            .flat()
-            .map(isbn => isbn ? isbn.toString().trim() : '')
-            .filter(isbn => isbn !== '');
+        
+        // Extract only column A values
+        const allData = XLSX.utils.sheet_to_json(worksheet, {header: 1});
+        let columnAValues = allData.map(row => row[0] ? row[0].toString().trim() : '')
+            .filter(value => value !== '');
+        
+        // Check for and skip header row
+        if (columnAValues.length > 0 && isLikelyHeaderRow(columnAValues[0])) {
+            columnAValues = columnAValues.slice(1);
+        }
 
         // Process ISBNs in chunks
         const chunkSize = 100;
         const chunks = [];
-        for (let i = 0; i < isbns.length; i += chunkSize) {
-            chunks.push(isbns.slice(i, i + chunkSize));
+        for (let i = 0; i < columnAValues.length; i += chunkSize) {
+            chunks.push(columnAValues.slice(i, i + chunkSize));
         }
         
-        processChunks(chunks, isbns.length);
+        processChunks(chunks, columnAValues.length);
     };
     reader.readAsArrayBuffer(file);
+}
+
+// Helper function to detect if a row is a header
+function isLikelyHeaderRow(value) {
+    const lowerValue = value.toLowerCase();
+    // Check for common header keywords
+    const headerKeywords = ['isbn', 'code', 'product', 'sku', 'id', 'number', 'item', 'title'];
+    return headerKeywords.some(keyword => lowerValue.includes(keyword));
 }
 
 // Process chunks with setTimeout
