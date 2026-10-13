@@ -24290,6 +24290,11 @@
         "setupdate": "2024-03-06"
     },
     {
+        "code": "9781041158929",
+        "description": "Teens & Online Safety",
+        "setupdate": "2026-10-12"
+    },
+    {
         "code": "9780415527682",
         "description": "Essays On Classical And Marxian",
         "setupdate": "2013-03-06"
@@ -579765,11 +579770,6 @@
         "setupdate": "2023-12-05"
     },
     {
-        "code": "9781032537702",
-        "description": "Performance Management Systems Playbook",
-        "setupdate": "2023-12-05"
-    },
-    {
         "code": "9780367763992",
         "description": "Gratuitous Angst in White America",
         "setupdate": "2023-12-06"
@@ -901705,6 +901705,11 @@
         "setupdate": "2026-04-27"
     },
     {
+        "code": "9781009624848",
+        "description": "Japan After Dark",
+        "setupdate": "2026-09-18"
+    },
+    {
         "code": "9781032687858",
         "description": "Teaching African-Centered Psychology",
         "setupdate": "2026-04-27"
@@ -979780,11 +979785,6 @@
         "setupdate": "2026-09-18"
     },
     {
-        "code": "9781009624848",
-        "description": "Japan After Dark",
-        "setupdate": "2026-09-18"
-    },
-    {
         "code": "9781009296632",
         "description": "American Song & Struggle from World War II to MAGA",
         "setupdate": "2026-09-18"
@@ -982000,6 +982000,11 @@
         "setupdate": "2026-04-07"
     },
     {
+        "code": "9781032904702",
+        "description": "Community Mental Health",
+        "setupdate": "2026-10-12"
+    },
+    {
         "code": "9780752460376",
         "description": "Voices of Stanley",
         "setupdate": "2026-09-28"
@@ -982027,11 +982032,6 @@
     {
         "code": "9781009431309",
         "description": "The Cambridge History of Women & British Romanticism",
-        "setupdate": "2026-09-26"
-    },
-    {
-        "code": "9781009745529",
-        "description": "Unmaking Eden",
         "setupdate": "2026-09-26"
     },
     {
@@ -982458,6 +982458,11 @@
         "code": "9781849710626",
         "description": "Environmental Management in Organizations",
         "setupdate": "2026-09-30"
+    },
+    {
+        "code": "9781041158325",
+        "description": "Writing for Games",
+        "setupdate": "2026-10-12"
     },
     {
         "code": "9781844658664",
@@ -986435,9 +986440,44 @@
         "setupdate": "2026-10-08"
     },
     {
+        "code": "9781009745529",
+        "description": "Unmaking Eden",
+        "setupdate": "2026-09-26"
+    },
+    {
         "code": "9781782951940",
         "description": "THE MAGIC POTIONS SHOP THE EMERALD DRAGON (007)",
         "setupdate": "2026-10-10"
+    },
+    {
+        "code": "9788743814474",
+        "description": "Topics in Modal Analysis & Parameter Identification in Str",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041232582",
+        "description": "Grey Zone Conflicts in Africa",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041160007",
+        "description": "Applied Hydrodynamics",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041144212",
+        "description": "On Not Fitting In Psychoanalytic Rem(a)inders",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041161394",
+        "description": "Applied Hydrodynamics",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041293859",
+        "description": "Architecture Research in the Digital Age",
+        "setupdate": "2026-10-12"
     },
     {
         "code": "9781138107793",
@@ -987308,6 +987348,11 @@
         "code": "9780367881948",
         "description": "Shirley Jackson Influences & Confluences",
         "setupdate": "2026-10-07"
+    },
+    {
+        "code": "9780789000316",
+        "description": "The Neurobiology of Cocaine Addiction",
+        "setupdate": "2026-10-12"
     },
     {
         "code": "9780415555531",
@@ -988365,6 +988410,76 @@
         "setupdate": "2026-10-08"
     },
     {
+        "code": "9780765681744",
+        "description": "World Folklore for Storytellers Tales of Wonder Wisdom F",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9788743814467",
+        "description": "Dynamic Environments & Durability Testing 2026",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041300984",
+        "description": "Decolonising Communication for Development & Social Change",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041368755",
+        "description": "The 996 Machine",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041301264",
+        "description": "Contemporary Buddhism Mindfulness & Th\u00edch Nh\u1ea5t H\u1ea1nh\u2019s Tea",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041102861",
+        "description": "Health Communication & the Medical Humanities",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041403487",
+        "description": "The Rise & Fall of Retirement in the United States",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041152736",
+        "description": "Analog Synthesizers Understanding Performing Buying",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9788743814443",
+        "description": "Special Topics & Experimental Techniques in Structural Dyn",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041108771",
+        "description": "A History of the Italian Fashion Industry",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041251446",
+        "description": "Sets & Stability Domains",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041341161",
+        "description": "Early Grade Mathematics Teaching in Selected African Count",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781032994239",
+        "description": "Unlocking Criticalities in Thinking & Reading Skills Acros",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041013068",
+        "description": "An Introduction to the Geography of Health",
+        "setupdate": "2026-10-12"
+    },
+    {
         "code": "9781041005193",
         "description": "Process Philosophy & Technology",
         "setupdate": "2026-10-08"
@@ -988383,6 +988498,71 @@
         "code": "9781041273363",
         "description": "Gender Climate Change & the European Arctic",
         "setupdate": "2026-10-08"
+    },
+    {
+        "code": "9781032537702",
+        "description": "The Performance Management Systems Playbook",
+        "setupdate": "2023-12-05"
+    },
+    {
+        "code": "9781041323396",
+        "description": "AI for Biomedical Research Volume 1",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041145400",
+        "description": "A Practical Guide to Menopausal Medicine",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041277880",
+        "description": "Decentralized Finance",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041365341",
+        "description": "The Appropriation of Ukraines Cultural Heritage as a Legit",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041122098",
+        "description": "Routledge Handbook of Childrens Rights in Africa",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041274957",
+        "description": "Nonlinear Contingency Analysis",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041392149",
+        "description": "The Making of BRICS",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041376200",
+        "description": "Securing Future Success for Every Child",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041320333",
+        "description": "Post Qualitative Inquiry",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041102779",
+        "description": "Health Communication & the Medical Humanities",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041327219",
+        "description": "No Other",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041158912",
+        "description": "Teens & Online Safety",
+        "setupdate": "2026-10-12"
     },
     {
         "code": "9781138889392",
@@ -988418,6 +988598,11 @@
         "code": "9781107156173",
         "description": "Hope & Christian Ethics",
         "setupdate": "2026-07-27"
+    },
+    {
+        "code": "9781041376217",
+        "description": "Securing Future Success for Every Child",
+        "setupdate": "2026-10-12"
     },
     {
         "code": "9781108486439",
@@ -988530,6 +988715,61 @@
         "setupdate": "2026-10-08"
     },
     {
+        "code": "9781041377931",
+        "description": "Theories of Network Evolution & Competition Policy",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041001683",
+        "description": "Advanced Analytics in Financial Markets",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041079897",
+        "description": "Leading Higher Education in the Digital Age",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041021353",
+        "description": "Phytochemical & Pharmacological Implications of Mangroves",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041079774",
+        "description": "Leading Higher Education in the Digital Age",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041002673",
+        "description": "Applied Spatial Statistics & Econometrics",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041073383",
+        "description": "Navigating Crisis in Higher Education",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041000136",
+        "description": "Evolution of the Digestive System",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041001676",
+        "description": "Advanced Analytics in Financial Markets",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041081678",
+        "description": "Multilingual Justice in Schools",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041036630",
+        "description": "Naturalisms in Spinoza Hume & Shepherd",
+        "setupdate": "2026-10-12"
+    },
+    {
         "code": "9789633867754",
         "description": "Christian Networks in the Ottoman Empire",
         "setupdate": "2026-10-07"
@@ -988543,5 +988783,625 @@
         "code": "9780367367602",
         "description": "Death Investigation",
         "setupdate": "2026-10-08"
+    },
+    {
+        "code": "9788743814481",
+        "description": "Data Science in Engineering 2026",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041140610",
+        "description": "Maximizing Children\u2019s Memory Potential",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041301219",
+        "description": "Contemporary Buddhism Mindfulness & Th\u00edch Nh\u1ea5t H\u1ea1nh\u2019s Tea",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041208716",
+        "description": "The Poetic Art of Scenography",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041152743",
+        "description": "Analog Synthesizers Understanding Performing Buying",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041328513",
+        "description": "Comparative Environmental & Ecological Economics",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041208709",
+        "description": "The Poetic Art of Scenography",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9788743814450",
+        "description": "Computer Vision & SLDV for Structural Dynamics 2026",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041325376",
+        "description": "Post-2022 Russian War Migration & Host Country Policies",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041293781",
+        "description": "Architecture Research in the Digital Age",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041145417",
+        "description": "A Practical Guide to Menopausal Medicine",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041122470",
+        "description": "Ten Transformative Drama Games",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041015178",
+        "description": "Routledge Handbook of Sociological Perspectives on the Ame",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041052708",
+        "description": "Understanding Metals in the Environment & Human Health",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041073376",
+        "description": "Navigating Crisis in Higher Education",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041089407",
+        "description": "Black Memory Landscapes",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041002666",
+        "description": "Applied Spatial Statistics & Econometrics",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781032323138",
+        "description": "Supporting Student Learning & Independence in Higher Educa",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781032935089",
+        "description": "Community Mental Health",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781032532042",
+        "description": "Friction Stir Welding & Friction Stir Spot Welding",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781032748559",
+        "description": "The School in the United States",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781032880358",
+        "description": "Stories of Psychological Practice from Neonatal Care",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9780367678357",
+        "description": "Teacher Assessment Literacy",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041020288",
+        "description": "Effective Communication & Academic Success for Internation",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041085300",
+        "description": "Minimizing Uncertainty in the Design of Technical Systems",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781032739823",
+        "description": "Clearing the Path for School Leadership",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9780367649418",
+        "description": "Selling Spirituality",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9780367370268",
+        "description": "Carbohydrate Chemistry",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781032959030",
+        "description": "Micro- & Nano-Scale Sensors & Transducers",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781032851143",
+        "description": "Copula Models for Dependent Competing Risks",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9780367682705",
+        "description": "Leading Works in Philosophy of Law",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781032939087",
+        "description": "Libya",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781032796130",
+        "description": "The Routledge Handbook of Disaster Mitigation & Preparedne",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781032855288",
+        "description": "Perversions",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9780815362869",
+        "description": "The Routledge Handbook of Genocide Studies",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781032894492",
+        "description": "Latin American & Latinx Philosophy",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781032821481",
+        "description": "The Future of Black Creative Arts Therapists",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9780415912600",
+        "description": "Blessed Anastacia",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041013006",
+        "description": "An Introduction to the Geography of Health",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781032690292",
+        "description": "Discovering Socially Just Academic Advising",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781032605265",
+        "description": "Advances & Applications in Biotechnology Volume 4",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781032990477",
+        "description": "The Skills of Modern Advocacy",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781032762609",
+        "description": "Artificial Intelligence in Healthcare",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781032851211",
+        "description": "Copula Models for Dependent Competing Risks",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9780367647971",
+        "description": "Teacher Assessment Literacy",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781032955186",
+        "description": "Micro- & Nano-Scale Sensors & Transducers",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781032947457",
+        "description": "Strategic Brand Management",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9780367495749",
+        "description": "Carbohydrate Chemistry",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9788743814436",
+        "description": "Dynamic Substructuring & Transfer Path Analysis 2026",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781138841000",
+        "description": "Inclusive Arts Practice & Research",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781108735551",
+        "description": "Race & Inequality in American Politics",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009561365",
+        "description": "Seeds of Solidarity",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781108748643",
+        "description": "Law & Capitalism",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009869836",
+        "description": "Constitutional War Powers",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009764179",
+        "description": "Deadpan & the Nineteenth-Century Emergence of a Comic Styl",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781316514962",
+        "description": "Cognitive Abilities & the Modern World of Work",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009730051",
+        "description": "Beyond Cosmopolitanism",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009743457",
+        "description": "An Evolutionary Approach to Secular Stagnation",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009723725",
+        "description": "Tasso & Women Readers",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009742894",
+        "description": "The Digital Revolution & Institutional Change",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009753357",
+        "description": "Gender & Local Political Ambition",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781047757393",
+        "description": "In Search of Flourishing",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009879163",
+        "description": "Evolution of Violent Crime Reduction Strategies",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009676168",
+        "description": "The Social Underpinnings of Political Discontent in Latin",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009664509",
+        "description": "Truth & Relativism in Ancient Philosophy",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009709576",
+        "description": "Clausal Constructions & Clause Formation in Swedish",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009618328",
+        "description": "Strikingly Similar",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009606769",
+        "description": "African American Political Thought",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781108410397",
+        "description": "Japanese American Relocation in World War II",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781108426299",
+        "description": "Decadence",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009676144",
+        "description": "The Social Underpinnings of Political Discontent in Latin",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009730020",
+        "description": "Beyond Cosmopolitanism",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009875592",
+        "description": "Transnational Repression",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009875578",
+        "description": "Transnational Repression",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009839877",
+        "description": "Value creation & the role of firms in society",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009839921",
+        "description": "Value creation & the role of firms in society",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009879132",
+        "description": "Evolution of Violent Crime Reduction Strategies",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009714228",
+        "description": "Astrobiology Religion & Society",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009731911",
+        "description": "Geopolitics of Artificial Intelligence",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781108296779",
+        "description": "Obstetric Decision-Making & Simulation",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781316615690",
+        "description": "The Sorites Paradox",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781107451643",
+        "description": "Postgraduate Orthopaedics",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781108494168",
+        "description": "Congenital Cardiac Anesthesia",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781047757379",
+        "description": "In Search of Flourishing",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781107451254",
+        "description": "Institutional & Organizational Analysis",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781108485364",
+        "description": "Corporate Social Responsibility & Economic Responsiveness",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781108748728",
+        "description": "Essentials of Geomorphology",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781108987165",
+        "description": "Principles of Finance",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9780521196291",
+        "description": "A Global History of Modern Japan",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009322430",
+        "description": "Cognitive Neuroscience of Memory",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009561389",
+        "description": "Seeds of Solidarity",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9780521169837",
+        "description": "A Global History of Modern Japan",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009415606",
+        "description": "Vowel Reduction",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781108478854",
+        "description": "Law & Capitalism",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9780521875837",
+        "description": "Leadership Ethics",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009415583",
+        "description": "Vowel Reduction",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009664523",
+        "description": "Truth & Relativism in Ancient Philosophy",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009869867",
+        "description": "Constitutional War Powers",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009714242",
+        "description": "Astrobiology Religion & Society",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009482950",
+        "description": "Strategic Entrepreneurship",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009758017",
+        "description": "Tasso & Women Readers",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009503341",
+        "description": "The Cambridge Companion to George MacDonald",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009541190",
+        "description": "Redemption",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009606752",
+        "description": "African American Political Thought",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009888806",
+        "description": "The Science Divide",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009604123",
+        "description": "The Z\u0142oty",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009482936",
+        "description": "Strategic Entrepreneurship",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009503372",
+        "description": "The Cambridge Companion to George MacDonald",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009742900",
+        "description": "The Digital Revolution & Institutional Change",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009764162",
+        "description": "Deadpan & the Nineteenth-Century Emergence of a Comic Styl",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009548120",
+        "description": "Making Reference with Aphasia",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009709545",
+        "description": "Clausal Constructions & Clause Formation in Swedish",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009094146",
+        "description": "Cognitive Abilities & the Modern World of Work",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009888813",
+        "description": "The Science Divide",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009863179",
+        "description": "The Age of Commerce",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009451680",
+        "description": "Global Perspectives on Aging & Culture",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009074803",
+        "description": "Making Reference with Aphasia",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009604161",
+        "description": "The Z\u0142oty",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009731898",
+        "description": "Geopolitics of Artificial Intelligence",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009862899",
+        "description": "The Age of Commerce",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009451673",
+        "description": "Global Perspectives on Aging & Culture",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009753371",
+        "description": "Gender & Local Political Ambition",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9780521844949",
+        "description": "Lifespan Development & the Brain",
+        "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781009335133",
+        "description": "Lesbian Gay Bisexual Trans Intersex & Queer Psychology",
+        "setupdate": "2026-10-12"
     }
 ]
