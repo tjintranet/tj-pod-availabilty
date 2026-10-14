@@ -579770,6 +579770,16 @@
         "setupdate": "2023-12-05"
     },
     {
+        "code": "9781108842099",
+        "description": "The Cambridge World History of Sexualities",
+        "setupdate": "2026-07-27"
+    },
+    {
+        "code": "9781108425896",
+        "description": "An Incarnational Model of the Eucharist",
+        "setupdate": "2026-03-02"
+    },
+    {
         "code": "9780367763992",
         "description": "Gratuitous Angst in White America",
         "setupdate": "2023-12-06"
@@ -879815,11 +879825,6 @@
         "setupdate": "2026-03-02"
     },
     {
-        "code": "9781108425896",
-        "description": "An Incarnational Model of the Eucharist",
-        "setupdate": "2026-03-02"
-    },
-    {
         "code": "9781041135388",
         "description": "Everyday Life is Full of Math",
         "setupdate": "2026-03-02"
@@ -952160,11 +952165,6 @@
         "setupdate": "2026-07-27"
     },
     {
-        "code": "9781108842099",
-        "description": "The Cambridge World History of Sexualities",
-        "setupdate": "2026-07-27"
-    },
-    {
         "code": "9781108401388",
         "description": "Robustness Tests for Quantitative Research",
         "setupdate": "2026-07-27"
@@ -982035,6 +982035,11 @@
         "setupdate": "2026-09-26"
     },
     {
+        "code": "9781009452915",
+        "description": "Evolutionary Psychology",
+        "setupdate": "2025-10-15"
+    },
+    {
         "code": "9781009669405",
         "description": "Lectures on Classical Electromagnetism",
         "setupdate": "2026-09-26"
@@ -982743,6 +982748,11 @@
         "code": "9781842145968",
         "description": "The Art of Skin Health Restoration & Rejuvenation",
         "setupdate": "2026-09-30"
+    },
+    {
+        "code": "9781498703109",
+        "description": "Dementia",
+        "setupdate": "2026-10-13"
     },
     {
         "code": "9781138599291",
@@ -988898,6 +988908,21 @@
         "code": "9780367678357",
         "description": "Teacher Assessment Literacy",
         "setupdate": "2026-10-12"
+    },
+    {
+        "code": "9781041210993",
+        "description": "Artist Management for the Music Business",
+        "setupdate": "2026-10-13"
+    },
+    {
+        "code": "9781009714495",
+        "description": "The Origins of War & Peace in the Human Species",
+        "setupdate": "2026-10-13"
+    },
+    {
+        "code": "9781107519305",
+        "description": "AP Foreign Correspondents in Action",
+        "setupdate": "2026-10-13"
     },
     {
         "code": "9781041020288",
