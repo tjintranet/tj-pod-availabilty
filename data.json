@@ -342670,11 +342670,6 @@
         "setupdate": "2021-04-26"
     },
     {
-        "code": "9780415109789",
-        "description": "Rout Philosophy Guidebook to Mill on Utilitarianism",
-        "setupdate": "2021-04-26"
-    },
-    {
         "code": "9780415304399",
         "description": "Spirit in Man Art and Literature",
         "setupdate": "2021-04-26"
@@ -499937,11 +499932,6 @@
     {
         "code": "9781032053714",
         "description": "Postcolonial Feminism Mgmt & Organization Studies",
-        "setupdate": "2023-02-22"
-    },
-    {
-        "code": "9781138016767",
-        "description": "Politics of Logic",
         "setupdate": "2023-02-22"
     },
     {
@@ -762690,16 +762680,6 @@
         "setupdate": "2025-06-04"
     },
     {
-        "code": "9781041012009",
-        "description": "The Gower Assessment & Development Centre",
-        "setupdate": "2025-06-04"
-    },
-    {
-        "code": "9781041012016",
-        "description": "The Gower Assessment & Development Centre",
-        "setupdate": "2025-06-04"
-    },
-    {
         "code": "9781926895758",
         "description": "Quantum-Chemical Calculation Unique Molecular Syst Vol Set",
         "setupdate": "2025-06-05"
@@ -762713,6 +762693,11 @@
         "code": "9781041066415",
         "description": "50 Ways to Fool Your User",
         "setupdate": "2025-06-11"
+    },
+    {
+        "code": "9781041012016",
+        "description": "The Gower Assessment & Development Centre Part 2",
+        "setupdate": "2025-06-04"
     },
     {
         "code": "9781032527192",
@@ -918795,11 +918780,6 @@
         "setupdate": "2026-06-01"
     },
     {
-        "code": "9781108491334",
-        "description": "Aristotle on How Animals Move",
-        "setupdate": "2026-06-01"
-    },
-    {
         "code": "9781009676618",
         "description": "Between Speech & Song",
         "setupdate": "2026-06-01"
@@ -935435,11 +935415,6 @@
         "setupdate": "2026-06-25"
     },
     {
-        "code": "9781009205825",
-        "description": "The New Cambridge History of the English Language V4",
-        "setupdate": "2026-06-15"
-    },
-    {
         "code": "9781032786629",
         "description": "Interdisciplinary Design Education",
         "setupdate": "2026-06-30"
@@ -951556,11 +951531,6 @@
     },
     {
         "code": "9781107105089",
-        "description": "The Cambridge History of the Vietnam War",
-        "setupdate": "2026-07-27"
-    },
-    {
-        "code": "9781107105126",
         "description": "The Cambridge History of the Vietnam War",
         "setupdate": "2026-07-27"
     },
@@ -991945,6 +991915,36 @@
         "setupdate": "2026-10-15"
     },
     {
+        "code": "9781009205825",
+        "description": "The New Cambridge History of the English Language V4",
+        "setupdate": "2026-06-15"
+    },
+    {
+        "code": "9781107105126",
+        "description": "The Cambridge History of the Vietnam War",
+        "setupdate": "2026-07-27"
+    },
+    {
+        "code": "9781108491334",
+        "description": "Aristotle on How Animals Move",
+        "setupdate": "2026-06-01"
+    },
+    {
+        "code": "9781041012009",
+        "description": "The Gower Assessment & Development Centre Part 1",
+        "setupdate": "2025-06-04"
+    },
+    {
+        "code": "9780566077937",
+        "description": "The Gower Assessment and Development Centre Vol Set",
+        "setupdate": "2026-10-15"
+    },
+    {
+        "code": "9780415109789",
+        "description": "Routledge Philosophy GuideBook to Mill on Utilitarianism",
+        "setupdate": "2021-04-26"
+    },
+    {
         "code": "9781041012627",
         "description": "Teaching Racial Justice Theatre & Performance",
         "setupdate": "2026-10-14"
@@ -992043,6 +992043,11 @@
         "code": "9781032304793",
         "description": "The Virtual Liturgy & Ritual Artifacts in Medieval & Early",
         "setupdate": "2026-10-15"
+    },
+    {
+        "code": "9781138016767",
+        "description": "The Politics of Logic",
+        "setupdate": "2023-02-22"
     },
     {
         "code": "9781003863489",
