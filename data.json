@@ -65495,6 +65495,11 @@
         "setupdate": "2014-04-09"
     },
     {
+        "code": "9781857755350",
+        "description": "Medicine & Literature",
+        "setupdate": "2026-10-20"
+    },
+    {
         "code": "9780415758192",
         "description": "Subject In Questnsartre",
         "setupdate": "2014-04-09"
@@ -73652,11 +73657,6 @@
     {
         "code": "9781138009127",
         "description": "Libertys Folly Polish-Lithuanian",
-        "setupdate": "2014-07-09"
-    },
-    {
-        "code": "9781138009134",
-        "description": "English Local Prisons 1860-1900",
         "setupdate": "2014-07-09"
     },
     {
@@ -916850,6 +916850,11 @@
         "setupdate": "2026-05-25"
     },
     {
+        "code": "9781108419659",
+        "description": "Medieval Bruges",
+        "setupdate": "2026-08-03"
+    },
+    {
         "code": "9781108481984",
         "description": "Twentieth-Century Music in the West",
         "setupdate": "2026-05-25"
@@ -958265,11 +958270,6 @@
         "setupdate": "2026-08-03"
     },
     {
-        "code": "9781108419659",
-        "description": "Medieval Bruges",
-        "setupdate": "2026-08-03"
-    },
-    {
         "code": "9781107194588",
         "description": "Seals & Sealing in the Ancient World",
         "setupdate": "2026-08-03"
@@ -958528,6 +958528,11 @@
         "code": "9781107140202",
         "description": "The American School of Empire",
         "setupdate": "2026-08-03"
+    },
+    {
+        "code": "9780415664431",
+        "description": "Policy & Politics in Teacher Education",
+        "setupdate": "2026-10-20"
     },
     {
         "code": "9781107155237",
@@ -992475,8 +992480,18 @@
         "setupdate": "2026-10-19"
     },
     {
+        "code": "9781032723099",
+        "description": "The School in the United States",
+        "setupdate": "2026-10-20"
+    },
+    {
         "code": "9781009865678",
         "description": "Becoming an AI Researcher",
         "setupdate": "2026-10-19"
+    },
+    {
+        "code": "9781138009134",
+        "description": "English Local Prisons 1860-1900",
+        "setupdate": "2014-07-09"
     }
 ]
