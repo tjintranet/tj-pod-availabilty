@@ -29825,6 +29825,11 @@
         "setupdate": "2012-06-27"
     },
     {
+        "code": "9781009464284",
+        "description": "Making Do",
+        "setupdate": "2026-02-20"
+    },
+    {
         "code": "9780415421102",
         "description": "Military Transformation & Strategy",
         "setupdate": "2011-03-21"
@@ -73658,6 +73663,11 @@
         "code": "9781138009127",
         "description": "Libertys Folly Polish-Lithuanian",
         "setupdate": "2014-07-09"
+    },
+    {
+        "code": "9781009296632",
+        "description": "American Song & Struggle from World War II to MAGA",
+        "setupdate": "2026-09-18"
     },
     {
         "code": "9781138010512",
@@ -877900,11 +877910,6 @@
         "setupdate": "2026-07-09"
     },
     {
-        "code": "9781009464284",
-        "description": "Making Do",
-        "setupdate": "2026-02-20"
-    },
-    {
         "code": "9781107030961",
         "description": "Anzacs in the Middle East",
         "setupdate": "2026-02-20"
@@ -953200,11 +953205,6 @@
         "setupdate": "2026-07-27"
     },
     {
-        "code": "9780521302005",
-        "description": "The Cambridge Ancient History",
-        "setupdate": "2026-07-27"
-    },
-    {
         "code": "9781032745251",
         "description": "Unleashing the Power of Musical Play",
         "setupdate": "2026-07-30"
@@ -958268,6 +958268,11 @@
         "code": "9781107041813",
         "description": "The Cambridge Intellectual History of Byzantium",
         "setupdate": "2026-08-03"
+    },
+    {
+        "code": "9781009760096",
+        "description": "Rethinking Capital Punishment",
+        "setupdate": "2026-08-10"
     },
     {
         "code": "9781107194588",
@@ -970655,11 +970660,6 @@
         "setupdate": "2026-08-10"
     },
     {
-        "code": "9781009760096",
-        "description": "Rethinking Capital Punishment",
-        "setupdate": "2026-08-10"
-    },
-    {
         "code": "9781009698559",
         "description": "Equivariant Principal \u221e-Bundles",
         "setupdate": "2026-08-10"
@@ -979817,11 +979817,6 @@
     {
         "code": "9781009100366",
         "description": "Global Politics in the 21st Century",
-        "setupdate": "2026-09-18"
-    },
-    {
-        "code": "9781009296632",
-        "description": "American Song & Struggle from World War II to MAGA",
         "setupdate": "2026-09-18"
     },
     {
@@ -992485,6 +992480,11 @@
         "setupdate": "2026-10-20"
     },
     {
+        "code": "9780521302005",
+        "description": "The Cambridge Ancient History",
+        "setupdate": "2026-07-27"
+    },
+    {
         "code": "9781009865678",
         "description": "Becoming an AI Researcher",
         "setupdate": "2026-10-19"
@@ -992493,5 +992493,15 @@
         "code": "9781138009134",
         "description": "English Local Prisons 1860-1900",
         "setupdate": "2014-07-09"
+    },
+    {
+        "code": "9781138945692",
+        "description": "The Sustainable Urban Design Handbook",
+        "setupdate": "2026-10-21"
+    },
+    {
+        "code": "9781032256320",
+        "description": "Twenty-Five Women Who Shaped the Celtic World",
+        "setupdate": "2026-10-21"
     }
 ]
