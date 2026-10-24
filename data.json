@@ -62775,11 +62775,6 @@
         "setupdate": "2014-03-21"
     },
     {
-        "code": "9780415497022",
-        "description": "Psychology and Crime",
-        "setupdate": "2014-03-21"
-    },
-    {
         "code": "9780415656986",
         "description": "Ancient Near East The Basics",
         "setupdate": "2014-03-21"
@@ -235940,11 +235935,6 @@
         "setupdate": "2017-06-02"
     },
     {
-        "code": "9781138117235",
-        "description": "The Psychology of Eyewitness Identification",
-        "setupdate": "2017-06-02"
-    },
-    {
         "code": "9781138117136",
         "description": "Social Thinking and Interpersonal Behavior",
         "setupdate": "2017-06-02"
@@ -363392,11 +363382,6 @@
     {
         "code": "9780367433734",
         "description": "Africa",
-        "setupdate": "2021-07-16"
-    },
-    {
-        "code": "9780367897031",
-        "description": "Teaching Assistants Guide Effective",
         "setupdate": "2021-07-16"
     },
     {
@@ -544720,11 +544705,6 @@
         "setupdate": "2023-08-22"
     },
     {
-        "code": "9781032411439",
-        "description": "Market Photo Workshop in South Africa",
-        "setupdate": "2023-08-22"
-    },
-    {
         "code": "9780367543402",
         "description": "Domestic Interior & Self in Contemporary Photography",
         "setupdate": "2023-08-22"
@@ -681595,11 +681575,6 @@
         "setupdate": "2024-11-16"
     },
     {
-        "code": "9781560005674",
-        "description": "Choosing Presidents",
-        "setupdate": "2024-11-16"
-    },
-    {
         "code": "9781560000372",
         "description": "Between Communication & Information",
         "setupdate": "2024-11-16"
@@ -753302,11 +753277,6 @@
     {
         "code": "9781032602462",
         "description": "Supermajorities in Constitutional Courts",
-        "setupdate": "2025-05-01"
-    },
-    {
-        "code": "9781032601045",
-        "description": "Interdisciplinary Perspectives on Sustainable Development",
         "setupdate": "2025-05-01"
     },
     {
@@ -916820,6 +916790,11 @@
         "setupdate": "2026-05-25"
     },
     {
+        "code": "9781108844086",
+        "description": "The Art Collector in Early Modern Italy",
+        "setupdate": "2026-08-10"
+    },
+    {
         "code": "9780521879101",
         "description": "Frameworks Tensegrities & Symmetry",
         "setupdate": "2026-05-25"
@@ -917523,6 +917498,11 @@
         "code": "9781107074293",
         "description": "Experimental Design for Laboratory Biologists",
         "setupdate": "2026-05-25"
+    },
+    {
+        "code": "9781009431309",
+        "description": "The Cambridge History of Women & British Romanticism",
+        "setupdate": "2026-09-26"
     },
     {
         "code": "9781107075979",
@@ -918972,11 +918952,6 @@
     {
         "code": "9781108495325",
         "description": "Ignored Racism",
-        "setupdate": "2026-06-01"
-    },
-    {
-        "code": "9781108495295",
-        "description": "James Joyce & the Jesuits",
         "setupdate": "2026-06-01"
     },
     {
@@ -952325,6 +952300,11 @@
         "setupdate": "2026-07-27"
     },
     {
+        "code": "9781108495295",
+        "description": "James Joyce & the Jesuits",
+        "setupdate": "2026-06-01"
+    },
+    {
         "code": "9781316504437",
         "description": "The Cambridge History of the First World War",
         "setupdate": "2026-07-27"
@@ -959137,11 +959117,6 @@
     {
         "code": "9781466553323",
         "description": "Statistical Computing with R Second Edition",
-        "setupdate": "2026-08-03"
-    },
-    {
-        "code": "9781498795630",
-        "description": "The Analysis of Time Series",
         "setupdate": "2026-08-03"
     },
     {
@@ -970565,11 +970540,6 @@
         "setupdate": "2026-08-10"
     },
     {
-        "code": "9781108844086",
-        "description": "The Art Collector in Early Modern Italy",
-        "setupdate": "2026-08-10"
-    },
-    {
         "code": "9781108487375",
         "description": "A History of Chilean Literature",
         "setupdate": "2026-08-10"
@@ -976915,11 +976885,6 @@
         "setupdate": "2026-09-15"
     },
     {
-        "code": "9781618215314",
-        "description": "Differentiating Instruction for Gifted Learners",
-        "setupdate": "2026-09-15"
-    },
-    {
         "code": "9781780490359",
         "description": "Object Relations in Gestalt Therapy",
         "setupdate": "2026-09-15"
@@ -982092,11 +982057,6 @@
     {
         "code": "9781108439961",
         "description": "Plutarch: Selected Political Writings",
-        "setupdate": "2026-09-26"
-    },
-    {
-        "code": "9781009431309",
-        "description": "The Cambridge History of Women & British Romanticism",
         "setupdate": "2026-09-26"
     },
     {
@@ -992525,6 +992485,11 @@
         "setupdate": "2026-07-27"
     },
     {
+        "code": "9781041400257",
+        "description": "When Your Teenagers Mind Gets Loud",
+        "setupdate": "2026-10-23"
+    },
+    {
         "code": "9788743813408",
         "description": "Ecotourism & Cultural Landscapes",
         "setupdate": "2026-10-22"
@@ -992673,6 +992638,11 @@
         "code": "9781032672700",
         "description": "Agricultural & Agribusiness Law",
         "setupdate": "2026-10-22"
+    },
+    {
+        "code": "9781032411439",
+        "description": "The Market Photo Workshop in South Africa & the Born Free",
+        "setupdate": "2023-08-22"
     },
     {
         "code": "9781041197324",
