@@ -63275,6 +63275,11 @@
         "setupdate": "2014-03-24"
     },
     {
+        "code": "9780415941433",
+        "description": "Justice in General",
+        "setupdate": "2026-10-26"
+    },
+    {
         "code": "9780415722193",
         "description": "Political Ecology of the State",
         "setupdate": "2014-03-24"
@@ -63538,6 +63543,11 @@
         "code": "9780415752510",
         "description": "Give Us Bread But Give Us Roses",
         "setupdate": "2014-03-27"
+    },
+    {
+        "code": "9781560001331",
+        "description": "Tensions of Order & Freedom",
+        "setupdate": "2026-10-26"
     },
     {
         "code": "9780415752527",
@@ -64038,6 +64048,11 @@
         "code": "9781138009141",
         "description": "Stained Glass England Mid Ages",
         "setupdate": "2014-03-27"
+    },
+    {
+        "code": "9781041074830",
+        "description": "The Spanish Empire",
+        "setupdate": "2026-10-26"
     },
     {
         "code": "9781138009011",
@@ -66950,6 +66965,11 @@
         "setupdate": "2014-04-25"
     },
     {
+        "code": "9781041315919",
+        "description": "The Family Business",
+        "setupdate": "2026-10-26"
+    },
+    {
         "code": "9780415756037",
         "description": "Philosophical Darwinism",
         "setupdate": "2014-04-25"
@@ -67178,6 +67198,11 @@
         "code": "9780415759366",
         "description": "Ancient China & Postmodern War",
         "setupdate": "2014-05-06"
+    },
+    {
+        "code": "9780415306560",
+        "description": "Humor",
+        "setupdate": "2026-10-26"
     },
     {
         "code": "9780415759373",
@@ -68745,6 +68770,11 @@
         "setupdate": "2014-05-16"
     },
     {
+        "code": "9781844650019",
+        "description": "Philosophy of Music",
+        "setupdate": "2026-10-26"
+    },
+    {
         "code": "9780714680231",
         "description": "Israel the First Hundred Years",
         "setupdate": "2014-05-16"
@@ -70238,6 +70268,11 @@
         "code": "9781138007543",
         "description": "Philosophy of Education",
         "setupdate": "2014-06-04"
+    },
+    {
+        "code": "9781844651856",
+        "description": "Film Theory & Philosophy",
+        "setupdate": "2026-10-26"
     },
     {
         "code": "9781138007550",
@@ -72590,6 +72625,11 @@
         "setupdate": "2014-06-26"
     },
     {
+        "code": "9781844651474",
+        "description": "Ethics & Experience",
+        "setupdate": "2026-10-26"
+    },
+    {
         "code": "9780863773686",
         "description": "Approaches to the Development of Moral Reasoning",
         "setupdate": "2014-06-26"
@@ -72778,6 +72818,11 @@
         "code": "9780415731652",
         "description": "Supporting Successful Transition from Primary to Secondary",
         "setupdate": "2014-06-27"
+    },
+    {
+        "code": "9781844651979",
+        "description": "How to Understand Language",
+        "setupdate": "2026-10-26"
     },
     {
         "code": "9780415733182",
@@ -681430,6 +681475,11 @@
         "setupdate": "2024-11-16"
     },
     {
+        "code": "9781902683904",
+        "description": "The Philosophy of Nietzsche",
+        "setupdate": "2026-10-26"
+    },
+    {
         "code": "9781560000372",
         "description": "Between Communication & Information",
         "setupdate": "2024-11-16"
@@ -939190,6 +939240,11 @@
         "setupdate": "2026-07-06"
     },
     {
+        "code": "9781902683843",
+        "description": "How to be a Green Liberal",
+        "setupdate": "2026-10-26"
+    },
+    {
         "code": "9781108700009",
         "description": "Rebellious Passage",
         "setupdate": "2026-07-06"
@@ -992630,6 +992685,31 @@
         "setupdate": "2015-09-30"
     },
     {
+        "code": "9780415131148",
+        "description": "Brute ScienceDilemmas Animal",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781844651665",
+        "description": "Me",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415651981",
+        "description": "The Story of Analytic Philosophy",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415937788",
+        "description": "Philosophers in Conversation",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415565967",
+        "description": "Herbert Spencer Collected Writings",
+        "setupdate": "2026-10-26"
+    },
+    {
         "code": "9781041197324",
         "description": "Work Signals",
         "setupdate": "2026-10-22"
@@ -992748,6 +992828,56 @@
         "code": "9780415253802",
         "description": "The Culture Industry",
         "setupdate": "2019-06-25"
+    },
+    {
+        "code": "9780415072533",
+        "description": "Focusing on Truth",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415395557",
+        "description": "French Feminists V3",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415916387",
+        "description": "The Unfinished Project",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780815336129",
+        "description": "Theory of Value",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415651103",
+        "description": "Providence Evil & the Openness of God",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780754653479",
+        "description": "Beyond Kuhn",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780754630517",
+        "description": "Dispositional Theories of Knowledge",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780754613664",
+        "description": "An Invitation to Formal Reasoning",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780754637882",
+        "description": "Subject & Predicate in Logic & Grammar",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781844651870",
+        "description": "The Minds of the Moderns",
+        "setupdate": "2026-10-26"
     },
     {
         "code": "9781041127130",
@@ -992890,6 +993020,41 @@
         "setupdate": "2021-04-29"
     },
     {
+        "code": "9780415100939",
+        "description": "Routledge Philosophy GuideBook to Heidegger & Being & Time",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415152747",
+        "description": "A Right to Die? Teachers Guide",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415338219",
+        "description": "Jean-Francois Lyotard Vol2",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415395540",
+        "description": "French Feminists V2",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781032932903",
+        "description": "Gender & International Relations in North Africa",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780754604211",
+        "description": "Genres of Philosophy",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781902683805",
+        "description": "Mind & Body",
+        "setupdate": "2026-10-26"
+    },
+    {
         "code": "9781032711683",
         "description": "Reconstructing Women\u2019s Roles in Early Christianity",
         "setupdate": "2026-10-22"
@@ -992950,6 +993115,36 @@
         "setupdate": "2026-10-26"
     },
     {
+        "code": "9780415222686",
+        "description": "The Bounds of Reason",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415286053",
+        "description": "Biographical Dictionary of Twentieth-Century Philosophers",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415565950",
+        "description": "Herbert Spencer Collected Writings",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415095334",
+        "description": "Routledge Philosophy GuideBook to Locke on Government",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415139465",
+        "description": "The Sceptical Challenge",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415338202",
+        "description": "Jean-Francois Lyotard Vol1",
+        "setupdate": "2026-10-26"
+    },
+    {
         "code": "9781032849157",
         "description": "The Routledge Companion to the Professions & Professionali",
         "setupdate": "2026-10-22"
@@ -992998,5 +993193,740 @@
         "code": "9781849418614",
         "description": "ALICE-MIRANDA SHINES BRIGHT (005)",
         "setupdate": "2026-10-22"
+    },
+    {
+        "code": "9780415303743",
+        "description": "Action Emotion & Will",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415358378",
+        "description": "The Collected Papers of Bertrand Russell Volume 29",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415395533",
+        "description": "French Feminists V1",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415338226",
+        "description": "Jean-Francois Lyotard Vol3",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041229544",
+        "description": "Gender Equality & Asylum Law",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415862530",
+        "description": "Encyclopedia of Asian Philosophy",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780754604297",
+        "description": "The Natural Order & Other Texts",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415908313",
+        "description": "Philosophia",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415900959",
+        "description": "Nietzsches Case",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9783868385717",
+        "description": "Principles of Natural Theology",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041201779",
+        "description": "Couple & Relationship Therapy",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041290070",
+        "description": "Psychoanalysis in Practice",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041351399",
+        "description": "Fluid Mechanics",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041397359",
+        "description": "The Five Pillars of Leadership During Transition",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041228172",
+        "description": "Two-Phase Flows",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041235767",
+        "description": "Educational Research",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041217985",
+        "description": "Helping Clients Regulate Emotions & Develop Effective Copi",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041381020",
+        "description": "The New Yearbook for Phenomenology & Phenomenological Phil",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041361046",
+        "description": "Observation & the Psychoanalytic Imagination",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781032974170",
+        "description": "Building Social Connections in Autism",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415095136",
+        "description": "Nietzsche & Jewish Culture",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415565936",
+        "description": "Herbert Spencer Collected Writings",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415565943",
+        "description": "Herbert Spencer Collected Writings",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415565882",
+        "description": "Herbert Spencer Collected Writings",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415565868",
+        "description": "Herbert Spencer Collected Writings",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780754639893",
+        "description": "In Dialogue with the Greeks",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780754639886",
+        "description": "In Dialogue with the Greeks",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415565899",
+        "description": "Herbert Spencer Collected Writings",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415941440",
+        "description": "Equality",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415941457",
+        "description": "Distribution to Whom?",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415941488",
+        "description": "Desert & Entitlement",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781560009573",
+        "description": "European Existentialism",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781579580193",
+        "description": "Encyclopedia of Empiricism",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041234159",
+        "description": "Practical Human Resources for Public Managers",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781032459769",
+        "description": "The Routledge Handbook of Cantonese Linguistics",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041047421",
+        "description": "The Political Economy of Surveillance Capitalism",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041263920",
+        "description": "Dissertation as Contemporary Art",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041292586",
+        "description": "Psychoanalysis in Practice",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781032983172",
+        "description": "Service Systems Engineering & Management",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041109723",
+        "description": "Risk Management Strategies Using Fuzzy Optimization Techni",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415565929",
+        "description": "Herbert Spencer Collected Writings",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415565912",
+        "description": "Herbert Spencer Collected Writings",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415565851",
+        "description": "Herbert Spencer Collected Writings",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415910804",
+        "description": "Against Theory",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041350200",
+        "description": "The Fourth Trimester of Pregnancy",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041142218",
+        "description": "International Case Studies in Tourism Planning",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041239994",
+        "description": "Educational Research",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041369707",
+        "description": "Chinese Diasporic Writing & Culture",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041148500",
+        "description": "Language & Decolonial Currents",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041394082",
+        "description": "Strategic Human Resource Management & Development",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781032749716",
+        "description": "The Routledge Handbook of Philosophy of Desire",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781902683607",
+        "description": "Perception",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781902683744",
+        "description": "Rights & Reason",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415565905",
+        "description": "Herbert Spencer Collected Writings",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415565875",
+        "description": "Herbert Spencer Collected Writings",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415941471",
+        "description": "Social Contract & the Currency of Justice",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041360377",
+        "description": "Nurturing Resilient Kids",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041123613",
+        "description": "Nature-Based Learning for Primary Teachers",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041345459",
+        "description": "Resilience & Political Stability in the Shadow of Hybrid W",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9789048574032",
+        "description": "The Secret Life of Writing",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041216827",
+        "description": "Social Work Education in Action",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041001218",
+        "description": "Essentials of Middle & Secondary Social Studies",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041035268",
+        "description": "An Art Therapists Companion to Understanding AI",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041241553",
+        "description": "Adaptive Teaching",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041271130",
+        "description": "Socio-hydrology of the Nile",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041276166",
+        "description": "Language Matters in Namibia",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041084310",
+        "description": "Systemic Perspectives in First Responder Mental Health",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041142263",
+        "description": "Methods for Researching Global Challenges",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041201748",
+        "description": "Couple & Relationship Therapy",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415395564",
+        "description": "French Feminists V4",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041130208",
+        "description": "The Longman Standard History of Philosophy Volume 1",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781032931838",
+        "description": "The Routledge Handbook of Alternative & Participatory Jour",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041281740",
+        "description": "Food & Nutrition Across the Lifespan",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041368205",
+        "description": "Theosisdeification & the Power of Godliness",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041130222",
+        "description": "The Longman Standard History of Philosophy Volume 2",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781032834290",
+        "description": "Investigating Educational Psychology",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041007647",
+        "description": "Ontology of the Social",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041022282",
+        "description": "Advancing Language Education through Linguistics",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041161622",
+        "description": "Interpretation & Truth in Lacan & Wittgenstein",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781032961736",
+        "description": "Jews Christians Muslims",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041136859",
+        "description": "AI-Driven Data Supply Chain",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781032964676",
+        "description": "The Routledge Handbook of Religion & Politics in Latin Ame",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041239345",
+        "description": "Student Developmental Progressions in Multiplication & Div",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041312291",
+        "description": "How to be an Environmental Custodian",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041001256",
+        "description": "Essentials of Middle & Secondary Social Studies",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041192596",
+        "description": "Psychoanalytic & Group Analytic Reflections on War Trauma",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041084280",
+        "description": "Systemic Perspectives in First Responder Mental Health",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041315902",
+        "description": "The Family Business",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041148517",
+        "description": "Language & Decolonial Currents",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781032284903",
+        "description": "Food & Nutrition Across the Lifespan",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041022657",
+        "description": "The Vienna School of Interpretive Social Research",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041123620",
+        "description": "Nature-Based Learning for Primary Teachers",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041385233",
+        "description": "A U.S. History of Pilot Training & Education",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041235538",
+        "description": "Raffaella Carr\u00e0 & the Media",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041074809",
+        "description": "The Spanish Empire",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781844650675",
+        "description": "Poppers Legacy",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781844650750",
+        "description": "Reading Nietzsche",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781032356792",
+        "description": "Routledge Handbook of Sustainable Forestry",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781032486840",
+        "description": "Feminist Activism in Resistance",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041132196",
+        "description": "AI-Driven Data Supply Chain",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041306894",
+        "description": "Supreme Court Fourth Amendment Jurisprudence",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041241508",
+        "description": "Adaptive Teaching",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041274988",
+        "description": "Teaching Genocide & Holocaust Education in ELA Classrooms",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041150787",
+        "description": "Methods for Researching Global Challenges",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041368915",
+        "description": "Freud the Frankfurt School Antisemitism & the Left",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041436324",
+        "description": "Advances in Intelligent Computing & Communication Technolo",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041360346",
+        "description": "Nurturing Resilient Kids",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041397083",
+        "description": "Existential Therapy for the Challenge of Living On",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415252584",
+        "description": "Genes A Philosophical Inquiry",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781902683423",
+        "description": "Causation & Explanation",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781902683829",
+        "description": "Paradox",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041217947",
+        "description": "Helping Clients Regulate Emotions & Develop Effective Copi",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041274995",
+        "description": "Teaching Genocide & Holocaust Education in ELA Classrooms",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041394075",
+        "description": "Strategic Human Resource Management & Development",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041312260",
+        "description": "How to be an Environmental Custodian",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9789048566181",
+        "description": "The French Language & the Making of Modern Chinese Intelle",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041385226",
+        "description": "A U.S. History of Pilot Training & Education",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781032783406",
+        "description": "Walter Benjamin in the European East",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9789048571185",
+        "description": "Feminist Health Activism in Italy since the 1970s",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041306900",
+        "description": "Supreme Court Fourth Amendment Jurisprudence",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041126362",
+        "description": "Nanosensors",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041324577",
+        "description": "Argument Legitimacy Principles",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041052449",
+        "description": "An Art Therapists Companion to Understanding AI",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041010449",
+        "description": "Ontology of the Social",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041211006",
+        "description": "Artist Management for the Music Business",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041365204",
+        "description": "Observation & the Psychoanalytic Imagination",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041395317",
+        "description": "Sustainable Operations & Supply Chain Management",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041401995",
+        "description": "A Configurational Approach to Complex Systems Analysis",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9788743815136",
+        "description": "Beyond the Horizon Emerging Technologies Security Frontie",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041192602",
+        "description": "Psychoanalytic & Group Analytic Reflections on War Trauma",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041216810",
+        "description": "Social Work Education in Action",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781032554013",
+        "description": "The State Police in Italy since 1946",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781032961880",
+        "description": "Building Social Connections in Autism",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041286936",
+        "description": "Devising Flowdramas",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041161639",
+        "description": "Interpretation & Truth in Lacan & Wittgenstein",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041321927",
+        "description": "The Struggle for Respect in Urban Classrooms",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041350194",
+        "description": "The Fourth Trimester of Pregnancy",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781032957494",
+        "description": "Parent\u2019s Quick Start Guide to Special Education",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041144984",
+        "description": "Fashion & Textile Upcycling",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041276159",
+        "description": "The Entrepreneurial Journey",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9780415912105",
+        "description": "Maternal Ethics & Other Slave Moralities",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781041281726",
+        "description": "Becoming STEM Teacher Leaders",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781844651207",
+        "description": "Theodor Adorno",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781844650989",
+        "description": "The Knowledge Book",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781844650651",
+        "description": "A Sceptical Guide to Meaning & Rules",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781844652495",
+        "description": "Phenomenal Consciousness",
+        "setupdate": "2026-10-26"
+    },
+    {
+        "code": "9781857281439",
+        "description": "Gilles Deleuze",
+        "setupdate": "2026-10-26"
     }
 ]
