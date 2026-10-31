@@ -297860,6 +297860,11 @@
         "setupdate": "2018-08-22"
     },
     {
+        "code": "9781009277099",
+        "description": "The Cambridge Constitutional History of the United Kingdom",
+        "setupdate": "2026-08-10"
+    },
+    {
         "code": "9781138316591",
         "description": "Crisis and Conflict in Han China 104 Bc to Ad 9",
         "setupdate": "2018-08-22"
@@ -916180,11 +916185,6 @@
         "setupdate": "2026-05-25"
     },
     {
-        "code": "9781107002708",
-        "description": "The Reverberator",
-        "setupdate": "2026-05-25"
-    },
-    {
         "code": "9781107019515",
         "description": "The Northern Black Sea in Antiquity",
         "setupdate": "2026-05-25"
@@ -916473,6 +916473,11 @@
         "code": "9781108494120",
         "description": "Ethics in Neurosurgical Practice",
         "setupdate": "2026-05-25"
+    },
+    {
+        "code": "9781009277754",
+        "description": "The Cambridge Constitutional History of the United Kingdom",
+        "setupdate": "2026-08-10"
     },
     {
         "code": "9781108474047",
@@ -931773,6 +931778,11 @@
         "code": "9781009235808",
         "description": "Uncertain Warriors",
         "setupdate": "2026-06-22"
+    },
+    {
+        "code": "9781107002708",
+        "description": "The Reverberator",
+        "setupdate": "2026-05-25"
     },
     {
         "code": "9781009728355",
@@ -952100,6 +952110,11 @@
         "setupdate": "2026-07-27"
     },
     {
+        "code": "9780815334460",
+        "description": "Professional Accounting & Audit in Australia 1880-1900",
+        "setupdate": "2026-10-30"
+    },
+    {
         "code": "9781009660914",
         "description": "Statistical Modeling for (Actual) Hypothesis Testing",
         "setupdate": "2026-07-27"
@@ -970487,16 +970502,6 @@
     {
         "code": "9781107032026",
         "description": "A Course in Mathematical Analysis",
-        "setupdate": "2026-08-10"
-    },
-    {
-        "code": "9781009277754",
-        "description": "The Cambridge Constitutional History of the United Kingdom",
-        "setupdate": "2026-08-10"
-    },
-    {
-        "code": "9781009277099",
-        "description": "The Cambridge Constitutional History of the United Kingdom",
         "setupdate": "2026-08-10"
     },
     {
@@ -998460,6 +998465,46 @@
         "setupdate": "2026-10-29"
     },
     {
+        "code": "9781108406383",
+        "description": "The Cambridge History of the Second World War",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009551786",
+        "description": "Computability & Computational Explanation",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781107583108",
+        "description": "Language & Meaning in Literature",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009872485",
+        "description": "The Unequal Pandemic",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009866675",
+        "description": "How Propaganda Wins",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009764926",
+        "description": "Clement of Alexandria Early Christian Instruction & the 'C",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009622752",
+        "description": "Scrupulosity",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781047808293",
+        "description": "Spirit",
+        "setupdate": "2026-10-30"
+    },
+    {
         "code": "9780754653462",
         "description": "Music after Hitler 1945\u20131955",
         "setupdate": "2026-10-29"
@@ -998483,6 +998528,86 @@
         "code": "9789659036516",
         "description": "Countering Suicide Terrorism",
         "setupdate": "2026-10-29"
+    },
+    {
+        "code": "9781107583351",
+        "description": "The Cambridge History of Capitalism",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781107583283",
+        "description": "The Cambridge History of Capitalism",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781108421201",
+        "description": "Manufacturing Political Trust",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781107092631",
+        "description": "Irony",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781107074460",
+        "description": "Artists & Artistic Production in Ancient Greece",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781108470995",
+        "description": "Transparency in Health & Health Care in the United States",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781107140417",
+        "description": "The Law of Strangers",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781107146488",
+        "description": "The Historical Phonology of Tibetan Burmese & Chinese",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781108485388",
+        "description": "High-tech Internet Start-ups in India",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781316510438",
+        "description": "Badges & Incidents",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781107016569",
+        "description": "Stellar Evolution Physics",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781108406406",
+        "description": "The Cambridge History of the Second World War",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781107016576",
+        "description": "Stellar Evolution Physics",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009551793",
+        "description": "Computability & Computational Explanation",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009645249",
+        "description": "Ana\u00efs Nin in Context",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781107131897",
+        "description": "Language & Meaning in Literature",
+        "setupdate": "2026-10-30"
     },
     {
         "code": "9780415567572",
@@ -998520,6 +998645,31 @@
         "setupdate": "2026-10-29"
     },
     {
+        "code": "9781107109674",
+        "description": "Symplectic Topology & Floer Homology",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781108406413",
+        "description": "The Cambridge History of the Second World War",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009871983",
+        "description": "Leading for a Fragmented World",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781107535688",
+        "description": "Symplectic Topology and Floer Homology 2 Vols Set",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781107584594",
+        "description": "The Cambridge History of Capitalism 2 Vols Set",
+        "setupdate": "2026-10-30"
+    },
+    {
         "code": "9780754600671",
         "description": "The Correspondence between Peter the Venerable & Bernard o",
         "setupdate": "2026-10-29"
@@ -998528,6 +998678,11 @@
         "code": "9780789038371",
         "description": "Faculty Stress",
         "setupdate": "2026-10-29"
+    },
+    {
+        "code": "9781108407809",
+        "description": "The Cambridge History of the Second World War 3 Vols Set",
+        "setupdate": "2026-10-30"
     },
     {
         "code": "9780754630708",
@@ -998555,6 +998710,51 @@
         "setupdate": "2026-10-29"
     },
     {
+        "code": "9781107072459",
+        "description": "Symplectic Topology & Floer Homology",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781107043794",
+        "description": "Continuity & Change in the Native American Village",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781107059474",
+        "description": "Greek Theatre between Antiquity & Independence",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781108498418",
+        "description": "More Examples Less Theory",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781107048331",
+        "description": "Wood Ant Ecology & Conservation",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009841955",
+        "description": "A Right Not a Privilege",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009866705",
+        "description": "How Propaganda Wins",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009872034",
+        "description": "Leading for a Fragmented World",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781107602533",
+        "description": "Stellar Evolution Physics 2 Vols Set",
+        "setupdate": "2026-10-30"
+    },
+    {
         "code": "9780415662635",
         "description": "Shared Borders Shared Waters",
         "setupdate": "2026-10-29"
@@ -998563,6 +998763,16 @@
         "code": "9780415261821",
         "description": "Fans Feminisms & Quality Media",
         "setupdate": "2026-10-29"
+    },
+    {
+        "code": "9781108493253",
+        "description": "The Legal Mind",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781108830935",
+        "description": "Human Salvage",
+        "setupdate": "2026-10-30"
     },
     {
         "code": "9780415278348",
@@ -998613,6 +998823,161 @@
         "code": "9780415273466",
         "description": "Site-Selective Neurotoxicity",
         "setupdate": "2026-10-29"
+    },
+    {
+        "code": "9781009734509",
+        "description": "New Spaces for Difference",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009872478",
+        "description": "The Unequal Pandemic",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009778268",
+        "description": "As I Write Dying",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009588041",
+        "description": "The Fascist Zeitgeist",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009588058",
+        "description": "The Fascist Zeitgeist",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009749053",
+        "description": "What Did Folklore Do?",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009739146",
+        "description": "Shocks Democracy & Rural Unrest",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009583497",
+        "description": "Mental Fictionalism",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009739160",
+        "description": "Shocks Democracy & Rural Unrest",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009734158",
+        "description": "Scalar Positioning in Political Discourse",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009764957",
+        "description": "Clement of Alexandria Early Christian Instruction & the 'C",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009622721",
+        "description": "Scrupulosity",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009583510",
+        "description": "Mental Fictionalism",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009513791",
+        "description": "Another Cold War Liberalism",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009709385",
+        "description": "Magic & Disability in the Early Modern World",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009749077",
+        "description": "What Did Folklore Do?",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009513777",
+        "description": "Another Cold War Liberalism",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009283298",
+        "description": "Magic & Disability in the Early Modern World",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009442213",
+        "description": "Spirit",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009734189",
+        "description": "Scalar Positioning in Political Discourse",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781047759267",
+        "description": "Transformative Governance for Complex Socio-Ecological Sys",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009862547",
+        "description": "Flowing with AI",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781047759250",
+        "description": "Transformative Governance for Complex Socio-Ecological Sys",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009862578",
+        "description": "Flowing with AI",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009778244",
+        "description": "As I Write Dying",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009755603",
+        "description": "Agents of Inertia",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009755627",
+        "description": "Agents of Inertia",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009735292",
+        "description": "Attunement to Others",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009840323",
+        "description": "Becoming Agarwal",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009840330",
+        "description": "Becoming Agarwal",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009340236",
+        "description": "Dreams & Songs to Sing",
+        "setupdate": "2026-10-30"
     },
     {
         "code": "9780415398503",
