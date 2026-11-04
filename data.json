@@ -6395,11 +6395,6 @@
         "setupdate": "2013-11-19"
     },
     {
-        "code": "9780521867948",
-        "description": "The Letters of Samuel Beckett V2",
-        "setupdate": "2026-04-27"
-    },
-    {
         "code": "9780815373261",
         "description": "Group Care for Infants Toddlers & Twos",
         "setupdate": "2018-02-01"
@@ -57185,6 +57180,11 @@
         "setupdate": "2014-03-11"
     },
     {
+        "code": "9781009783187",
+        "description": "Value for Money",
+        "setupdate": "2026-11-03"
+    },
+    {
         "code": "9780415637190",
         "description": "Catch Them Before They Fall The Psychoanalysis",
         "setupdate": "2014-03-11"
@@ -57263,6 +57263,11 @@
         "code": "9780415632843",
         "description": "Social and Economic Benefits of Protected Areas",
         "setupdate": "2014-03-11"
+    },
+    {
+        "code": "9781047767040",
+        "description": "Expecting to Fail",
+        "setupdate": "2026-11-03"
     },
     {
         "code": "9780415523486",
@@ -58523,6 +58528,11 @@
         "code": "9780415844314",
         "description": "Asian American Students in Higher Education",
         "setupdate": "2014-03-11"
+    },
+    {
+        "code": "9781047755214",
+        "description": "Pardons",
+        "setupdate": "2026-11-03"
     },
     {
         "code": "9780415884594",
@@ -62693,6 +62703,11 @@
         "code": "9780415594585",
         "description": "Diverse Perspectives on Inclusive School Communities",
         "setupdate": "2014-03-21"
+    },
+    {
+        "code": "9781009886680",
+        "description": "Unruly Acts",
+        "setupdate": "2026-11-03"
     },
     {
         "code": "9781848720541",
@@ -357128,6 +357143,11 @@
         "code": "9780815385066",
         "description": "Ultra-Brief Cognitive Behavioral Interventions",
         "setupdate": "2021-06-09"
+    },
+    {
+        "code": "9781108429436",
+        "description": "Aegean Bronze Age Art",
+        "setupdate": "2026-06-08"
     },
     {
         "code": "9781138909113",
@@ -903750,11 +903770,6 @@
         "setupdate": "2026-05-04"
     },
     {
-        "code": "9780521867955",
-        "description": "The Letters of Samuel Beckett V3",
-        "setupdate": "2026-05-04"
-    },
-    {
         "code": "9781009532839",
         "description": "Muslim Theological Encounters with Science",
         "setupdate": "2026-05-04"
@@ -916815,6 +916830,11 @@
         "setupdate": "2026-05-25"
     },
     {
+        "code": "9781108476386",
+        "description": "The Price of Bread",
+        "setupdate": "2026-06-08"
+    },
+    {
         "code": "9781107149847",
         "description": "Law & Administration",
         "setupdate": "2026-05-25"
@@ -921230,6 +921250,11 @@
         "setupdate": "2026-06-03"
     },
     {
+        "code": "9781041281719",
+        "description": "Smashing the Sun Tzu Myth",
+        "setupdate": "2026-11-03"
+    },
+    {
         "code": "9781041326755",
         "description": "Emerging Trends in Design & Arts",
         "setupdate": "2026-06-03"
@@ -922020,6 +922045,11 @@
         "setupdate": "2026-05-14"
     },
     {
+        "code": "9781041457589",
+        "description": "Smart Sustainability",
+        "setupdate": "2026-11-03"
+    },
+    {
         "code": "9781032935744",
         "description": "Electronic Design Automation 2 Volume Set",
         "setupdate": "2026-06-10"
@@ -922300,11 +922330,6 @@
         "setupdate": "2026-06-08"
     },
     {
-        "code": "9781108476386",
-        "description": "The Price of Bread",
-        "setupdate": "2026-06-08"
-    },
-    {
         "code": "9781108476485",
         "description": "Christian Pacifism for an Environmental Age",
         "setupdate": "2026-06-08"
@@ -922403,6 +922428,11 @@
         "code": "9781439849859",
         "description": "Hazardous Materials Chemistry for Emergency Responders",
         "setupdate": "2026-06-10"
+    },
+    {
+        "code": "9781041382553",
+        "description": "Thinkers for a Complex Age",
+        "setupdate": "2026-11-03"
     },
     {
         "code": "9781841690698",
@@ -922538,6 +922568,11 @@
         "code": "9781138027794",
         "description": "Drought Research & Science-Policy Interfacing",
         "setupdate": "2026-06-10"
+    },
+    {
+        "code": "9781041349624",
+        "description": "Knowledge & Its Pretenders",
+        "setupdate": "2026-11-03"
     },
     {
         "code": "9781420054576",
@@ -922873,6 +922908,11 @@
         "code": "9781108749503",
         "description": "Outsiders at Home",
         "setupdate": "2026-07-06"
+    },
+    {
+        "code": "9781041331025",
+        "description": "How to Use SPSS\u00ae",
+        "setupdate": "2026-11-03"
     },
     {
         "code": "9781041271932",
@@ -923565,6 +923605,11 @@
         "setupdate": "2026-06-08"
     },
     {
+        "code": "9781041331032",
+        "description": "How to Use SPSS\u00ae",
+        "setupdate": "2026-11-03"
+    },
+    {
         "code": "9781009562065",
         "description": "Calvin & Perception in Early Modern Visual Culture",
         "setupdate": "2026-06-08"
@@ -924007,11 +924052,6 @@
     {
         "code": "9781108429368",
         "description": "For King & Country",
-        "setupdate": "2026-06-08"
-    },
-    {
-        "code": "9781108429436",
-        "description": "Aegean Bronze Age Art",
         "setupdate": "2026-06-08"
     },
     {
@@ -951620,6 +951660,11 @@
         "setupdate": "2026-07-27"
     },
     {
+        "code": "9781041411871",
+        "description": "Optimal Spending on Cybersecurity Measures",
+        "setupdate": "2026-11-03"
+    },
+    {
         "code": "9781009448840",
         "description": "Interrogating Nazism",
         "setupdate": "2026-07-27"
@@ -971765,6 +971810,11 @@
         "setupdate": "2026-10-05"
     },
     {
+        "code": "9781041349655",
+        "description": "Knowledge & Its Pretenders",
+        "setupdate": "2026-11-03"
+    },
+    {
         "code": "9781041008873",
         "description": "Climate Change Migration & the Global Search for Home",
         "setupdate": "2026-08-10"
@@ -972588,6 +972638,11 @@
         "code": "9780815399865",
         "description": "Managing Cultural Heritage",
         "setupdate": "2026-09-30"
+    },
+    {
+        "code": "9781032565026",
+        "description": "Of Varying Landscapes",
+        "setupdate": "2026-11-03"
     },
     {
         "code": "9781842143155",
@@ -981668,16 +981723,6 @@
         "code": "9780863884542",
         "description": "Helping Children Who are Anxious or Obsessional",
         "setupdate": "2026-09-25"
-    },
-    {
-        "code": "9780521867962",
-        "description": "The Letters of Samuel Beckett V4",
-        "setupdate": "2026-05-04"
-    },
-    {
-        "code": "9780521867931",
-        "description": "The Letters of Samuel Beckett V1",
-        "setupdate": "2026-05-04"
     },
     {
         "code": "9781405921640",
@@ -996605,6 +996650,11 @@
         "setupdate": "2026-10-27"
     },
     {
+        "code": "9781041382560",
+        "description": "Thinkers for a Complex Age",
+        "setupdate": "2026-11-03"
+    },
+    {
         "code": "9781108499392",
         "description": "The EBCOG Postgraduate Textbook of Obstetrics & Gynaecolog",
         "setupdate": "2026-10-27"
@@ -999018,5 +999068,1365 @@
         "code": "9781560244806",
         "description": "International Perspectives on State & Family Support for t",
         "setupdate": "2026-10-29"
+    },
+    {
+        "code": "9781041411895",
+        "description": "Optimal Spending on Cybersecurity Measures",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041352488",
+        "description": "Knowledge & Its Pretenders",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041449164",
+        "description": "Advancements in Intelligent Systems for Communication Ene",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041426301",
+        "description": "Neutrality & the International Monetary System",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041292753",
+        "description": "Lecture Notes on Functional Analysis",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041426318",
+        "description": "Neutrality & the International Monetary System",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041292074",
+        "description": "Governance of Artificial Intelligence",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041314141",
+        "description": "Coloniality in Gender & Development",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041304791",
+        "description": "Innovations in Architecture Design Business Society La",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781032465708",
+        "description": "Surviving & Thriving in Stepfamily Relationships",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781032914053",
+        "description": "Breakthroughs",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041133056",
+        "description": "Advances in Qualitative Research for the Health & Social S",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041051336",
+        "description": "13th Conference on Vibrations in Rotating Machinery",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041449461",
+        "description": "Innovations in Architecture Design Business Society La",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041378815",
+        "description": "Applied Warfare Psychology",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041431077",
+        "description": "Life After Crime",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041277996",
+        "description": "Advanced Artificial Intelligence in Sports Science",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041279945",
+        "description": "Challenging Picturebooks & Inclusion",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9789026518447",
+        "description": "Geotechnics for Roads Rail Tracks & Earth Structures",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041447160",
+        "description": "Smart Sustainability",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041304920",
+        "description": "Routledge Handbook of Women Peace & Security",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041389415",
+        "description": "AI Social Media & the Law in Africa",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781032891736",
+        "description": "Economic & Social History of a European Famine",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041197577",
+        "description": "Queer Southern Africa",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781032828411",
+        "description": "Beauty",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041079606",
+        "description": "Digital Transformation & the Aging Workforce",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041168355",
+        "description": "Entrepreneurial Intentions in Transitional Economies",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781032931739",
+        "description": "Creative Thinking Toolbox for the Language Classroom",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9780367858940",
+        "description": "Childhood Transition & Social Justice",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781032897899",
+        "description": "The Politics of Sedition in Long Nineteenth-Century Britai",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041076216",
+        "description": "The Outdoor Learning Professional",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9780521738279",
+        "description": "Religion War & Ethics",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009617970",
+        "description": "The Cambridge Companion to Literature & the Weird",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108822527",
+        "description": "Discovering Britain & Ireland in the Romantic Period",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009590143",
+        "description": "Kierkegaard & the Affects",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009555067",
+        "description": "The Babylonian Science of Celestial Signs",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041364917",
+        "description": "Advancements in Intelligent Systems for Communication Ene",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041380269",
+        "description": "Applied Warfare Psychology",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041076384",
+        "description": "The Outdoor Learning Professional",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041224808",
+        "description": "Eric Miller Social Scientist & Organisational Consultant",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9780521515283",
+        "description": "Koiter's Elastic Stab Solids Struct",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9780521717670",
+        "description": "Religion & War Resistance in the Plowshares Movement",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9780521233477",
+        "description": "The Cambridge Ancient History",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009507905",
+        "description": "Animals & Society in the Iron Age to the Persian Period",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009753876",
+        "description": "Michelangelo's Gifts",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009719209",
+        "description": "In Plain Sight",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009552233",
+        "description": "Reclaiming Development in the World Trading System",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009487887",
+        "description": "Ancient Israel & Ancient Egypt",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009655606",
+        "description": "China in Global Science",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781032622132",
+        "description": "Magic Masculinity & Form in English Poetry from Shakespe",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041127468",
+        "description": "Thomas De Quincey in the Context of Late-Romantic Intellec",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041123538",
+        "description": "Southern Researchers & the Politics of Knowledge Productio",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041148067",
+        "description": "Sport International Politics & the Nordic States in the C",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041197461",
+        "description": "Queer Southern Africa",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781032949499",
+        "description": "Creative Thinking Toolbox for the Language Classroom",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041102021",
+        "description": "Tackling Cyberbullying with Generative AI",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041296751",
+        "description": "The 1918 Flu Pandemic in Florence & Tuscany",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041101802",
+        "description": "Musicians The Music Industry & Mental Health",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9780521247160",
+        "description": "The Cambridge History of Political Thought 1450\u20131700",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9780521086905",
+        "description": "Science & Civilisation in China",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9780521133029",
+        "description": "Alfred North Whitehead Anthology P1",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9780521674140",
+        "description": "It Takes a Candidate",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9780521227179",
+        "description": "The Cambridge Ancient History",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9780521234474",
+        "description": "The Cambridge Ancient History",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9780521234450",
+        "description": "The Cambridge Ancient History",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9780521234467",
+        "description": "The Cambridge Ancient History",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9780521234481",
+        "description": "The Cambridge Ancient History",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9780521125758",
+        "description": "Sacred Species & Sites",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781107169289",
+        "description": "Molecular Astrophysics",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108836777",
+        "description": "Understanding Development",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9780521764865",
+        "description": "Counter Realignment",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9780521867948",
+        "description": "The Letters of Samuel Beckett V2",
+        "setupdate": "2026-04-27"
+    },
+    {
+        "code": "9780521867931",
+        "description": "The Letters of Samuel Beckett V1",
+        "setupdate": "2026-05-04"
+    },
+    {
+        "code": "9780521867955",
+        "description": "The Letters of Samuel Beckett V3",
+        "setupdate": "2026-05-04"
+    },
+    {
+        "code": "9780521867962",
+        "description": "The Letters of Samuel Beckett V4",
+        "setupdate": "2026-05-04"
+    },
+    {
+        "code": "9781108466868",
+        "description": "The Inner Life of Politics",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009456203",
+        "description": "Black Activism in the Red Party",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781107015760",
+        "description": "Seismic Imaging & Inversion",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009562683",
+        "description": "The Amarna Letters & the Scribes Who Wrote Them",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009761819",
+        "description": "Sergei Eisenstein in the Classical Tradition",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009435260",
+        "description": "Aboriginal Homelands & Economy in Australia's Western Dese",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009768757",
+        "description": "Protests & Radicalization in the Digital Age",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009772112",
+        "description": "Unraveling the World-Knot",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009768788",
+        "description": "Protests & Radicalization in the Digital Age",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009478069",
+        "description": "Scenic Calculations",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009772136",
+        "description": "Unraveling the World-Knot",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009747776",
+        "description": "Even in the Lawless Seas",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9780521871891",
+        "description": "Medicine & Empire in the Roman World",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009702676",
+        "description": "Anti-Corruption Corporate Compliance",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781047761628",
+        "description": "Disability in Black & White",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108479066",
+        "description": "Numerical Ranges of Hilbert Space Operators",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9780521692755",
+        "description": "Medicine & Empire in the Roman World",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009529662",
+        "description": "Nomads in Ancient Egypt & Nubia",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041101789",
+        "description": "Musicians The Music Industry & Mental Health",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781032914039",
+        "description": "Breakthroughs",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781032812137",
+        "description": "The Muslim Brotherhood & Ennahda",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781032256344",
+        "description": "Twenty-Five Women Who Shaped the Celtic World",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781032000862",
+        "description": "Does Faith Belong in Politics?",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781032819006",
+        "description": "Beauty",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041215318",
+        "description": "Integrating Industry 5.0 & the Circular Economy",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781032000831",
+        "description": "Does Faith Belong in Politics?",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781032935232",
+        "description": "Altered Animals Posthumanism & Technology in Contemporar",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041121077",
+        "description": "Leading for Social Impact",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041199298",
+        "description": "Green Hydrogen",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781032778341",
+        "description": "Beach Planshape Modelling",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781032951980",
+        "description": "Principles of Portfolio Choice",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041159964",
+        "description": "Blockchain Technology in Water Management & New Energy Eco",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041220930",
+        "description": "Technology-Enhanced Entrepreneurship Education & Strategic",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041121060",
+        "description": "Leading for Social Impact",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781032465715",
+        "description": "Surviving & Thriving in Stepfamily Relationships",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041226925",
+        "description": "The Nuclear Precipice",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781032909998",
+        "description": "The Critique of Pure Information",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041207672",
+        "description": "New Perspectives on Chinese Formal Semantics",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9780367858438",
+        "description": "Childhood Transition & Social Justice",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781032775050",
+        "description": "How to Philosophize in the Age of the Apocalypse",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041136583",
+        "description": "Step Back from the Edge of Disaster",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041136590",
+        "description": "Step Back from the Edge of Disaster",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9780521147934",
+        "description": "HIV/AIDS in South Africa 2ed",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108835473",
+        "description": "Understanding Genes",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009641548",
+        "description": "Bridging Political Divides",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009747769",
+        "description": "Even in the Lawless Seas",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009507912",
+        "description": "Animals & Society in the Iron Age to the Persian Period",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009702720",
+        "description": "Anti-Corruption Corporate Compliance",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009674447",
+        "description": "Marginalized Identities in Africa",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009528849",
+        "description": "The Archaeology of Food in the Amazon",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009588775",
+        "description": "Listening to Early Modern Travel Writing",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108719667",
+        "description": "The Cambridge Handbook of Gesture Studies",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108003926",
+        "description": "Journal",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781107412422",
+        "description": "Hist Carnegie Inst Washington v5",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108486071",
+        "description": "Warning about War",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009761772",
+        "description": "Sergei Eisenstein in the Classical Tradition",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781047750127",
+        "description": "Thucydides' Search for the Truth",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009588737",
+        "description": "Listening to Early Modern Travel Writing",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009617987",
+        "description": "The Cambridge Companion to Literature & the Weird",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009478076",
+        "description": "Scenic Calculations",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009548243",
+        "description": "Aboriginal Homelands & Economy in Australia's Western Dese",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009456180",
+        "description": "Black Activism in the Red Party",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009383769",
+        "description": "Consciousness & Inner Awareness",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009529679",
+        "description": "Nomads in Ancient Egypt & Nubia",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009665292",
+        "description": "Pakistani English in the Twenty-First Century",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009444057",
+        "description": "The Making of an International Investment Facilitation Fra",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009255141",
+        "description": "Governing Misinformation in Everyday Knowledge Commons",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009463997",
+        "description": "Embodied Experience in British & French Literature 1778\u201318",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009502559",
+        "description": "The Science of Music",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009555050",
+        "description": "The Babylonian Science of Celestial Signs",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009597715",
+        "description": "Twenty-First Century Media Aesthetics & the Political",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009879514",
+        "description": "Europe's Poison Pill",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009575201",
+        "description": "The Cambridge Introduction to Phillis Wheatley Peters",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108417983",
+        "description": "The Cambridge Handbook of African Linguistics",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108799232",
+        "description": "Understanding Development",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108473446",
+        "description": "Market in State",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009753838",
+        "description": "Michelangelo's Gifts",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009725286",
+        "description": "Teaching Writing in the Middle & Upper Primary Years",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108476096",
+        "description": "The Inner Life of Politics",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009562461",
+        "description": "Food & Feasts in the Hebrew Bible in Its Ancient Near East",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009641531",
+        "description": "Bridging Political Divides",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009685955",
+        "description": "The Laws & Principles of Secondary Liability",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009587501",
+        "description": "Twinship",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009740944",
+        "description": "A Kingdom of Righteousness",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009740937",
+        "description": "A Kingdom of Righteousness",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009660952",
+        "description": "Ancestry",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009774604",
+        "description": "The Episteme of Empire",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009685931",
+        "description": "The Laws & Principles of Secondary Liability",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009586405",
+        "description": "Undercover",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108450850",
+        "description": "Intensifiers in Late Modern English",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009590198",
+        "description": "Kierkegaard & the Affects",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009663076",
+        "description": "Philosophy of Mathematics from Descartes to Kant",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009573962",
+        "description": "Pacifism & Non-Violence in Contemporary Islamic Philosophy",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781107412408",
+        "description": "Hist Carnegie Inst Washington v3",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781107697188",
+        "description": "Learning & Teaching in the Early Years",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009781848",
+        "description": "Democracy Speaks",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009857307",
+        "description": "Water Allocation & Rights",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009597685",
+        "description": "Twenty-First Century Media Aesthetics & the Political",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009679077",
+        "description": "Democracy against Equality",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009679039",
+        "description": "Democracy against Equality",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009674454",
+        "description": "Marginalized Identities in Africa",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009841672",
+        "description": "Becoming Madam Europe",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781107019164",
+        "description": "The Cambridge Edition of the Poems of Rudyard Kipling",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781316514788",
+        "description": "Understanding Natural Selection",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108798310",
+        "description": "Popular Culture & the End of Antiquity in Southern Gaul c.",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781107162631",
+        "description": "Introduction to Banach Spaces: Analysis and Pro 2 Vols Set",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781107412415",
+        "description": "Hist Carnegie Inst Washington v4",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781107162624",
+        "description": "Introduction to Banach Spaces: Analysis & Probability",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009781862",
+        "description": "Democracy Speaks",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781047750172",
+        "description": "Thucydides' Search for the Truth",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009857284",
+        "description": "Water Allocation & Rights",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009787420",
+        "description": "Muslim Capitalism",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009047777",
+        "description": "Explorations in Ancient and Modern Philosophy 2 Vols Set",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108003919",
+        "description": "Journal",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108427005",
+        "description": "1989",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108726320",
+        "description": "The Cambridge Handbook of Intelligence",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108708593",
+        "description": "To Run the World",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781107019157",
+        "description": "The Cambridge Edition of the Poems of Rudyard Kipling",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009882859",
+        "description": "Human Capital Leadership",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781107480636",
+        "description": "Stress & Accent",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108414456",
+        "description": "Polynomials & the mod 2 Steenrod Algebra",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108715775",
+        "description": "Integrable Systems & Algebraic Geometry",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781316517949",
+        "description": "Explorations in Ancient & Modern Philosophy",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108836937",
+        "description": "Understanding Evo-Devo",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781316510971",
+        "description": "The Cambridge Companion to Shakespeare & War",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108987097",
+        "description": "Philosophy of Mathematics from Descartes to Kant",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781316517178",
+        "description": "Understanding Cancer",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108748360",
+        "description": "Academic Freedom & the Transnational Production of Knowled",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009882804",
+        "description": "Human Capital Leadership",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781107412392",
+        "description": "Hist Carnegie Inst Washington v1",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781107412453",
+        "description": "Centennial History of the Carnegie Institution of Washingt",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108414487",
+        "description": "Polynomials & the mod 2 Steenrod Algebra",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781107160514",
+        "description": "Introduction to Banach Spaces: Analysis & Probability",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108454346",
+        "description": "MCQs for Intensive Care Medicine",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009841658",
+        "description": "Becoming Madam Europe",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781107499089",
+        "description": "The Therapeutic Interview in Mental Health",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108984867",
+        "description": "The Irish Expatriate Novel in Late Capitalist Globalizatio",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108843164",
+        "description": "The Great War in History",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108820868",
+        "description": "Neurocritical Care",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781316511626",
+        "description": "Understanding Fertility",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009562652",
+        "description": "The Amarna Letters & the Scribes Who Wrote Them",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009098823",
+        "description": "Strategic Open Justice",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009552219",
+        "description": "Reclaiming Development in the World Trading System",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009873567",
+        "description": "Power Among Polities",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009180214",
+        "description": "Urban Undesirables",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009005203",
+        "description": "After the Virus",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009665339",
+        "description": "Pakistani English in the Twenty-First Century",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009383738",
+        "description": "Consciousness & Inner Awareness",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009562416",
+        "description": "Food & Feasts in the Hebrew Bible in Its Ancient Near East",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009528856",
+        "description": "The Archaeology of Food in the Amazon",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009102445",
+        "description": "Strategic Open Justice",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009294836",
+        "description": "The Cambridge Handbook of Technology in Language Teaching",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009101981",
+        "description": "Governing Universities in Post-Soviet Countries",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009534192",
+        "description": "Geographies of Gender",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009447171",
+        "description": "Modality in Mind",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009365253",
+        "description": "Applied Science",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009377584",
+        "description": "Planetary Pynchon",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009424462",
+        "description": "The Origins of Agriculture in the Bronze Age Indus Civiliz",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009487856",
+        "description": "Ancient Israel & Ancient Egypt",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009660969",
+        "description": "Ancestry",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009655590",
+        "description": "China in Global Science",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009566254",
+        "description": "The Logic of Corruption",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009774598",
+        "description": "The Episteme of Empire",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009787390",
+        "description": "Muslim Capitalism",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781107019171",
+        "description": "The Cambridge Edition of the Poems of Rudyard K 3 Vols Set",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781107610767",
+        "description": "Centennial History of the Carnegie Institution 5 Vols Set",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108004015",
+        "description": "Journal 2 Vols Set",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108414067",
+        "description": "Polynomials and the mod 2 Steenrod Algebra 2 Vols Set",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108785495",
+        "description": "Integrable Systems and Algebraic Geometry 2 Vols Set",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009621236",
+        "description": "Against Managerialist Research",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781108836197",
+        "description": "The Cambridge Handbook of the Minimalist Program",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781047777155",
+        "description": "Seeking Anticolonial Synergies",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009563116",
+        "description": "A Practical Guide for Women in Physics",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009428767",
+        "description": "Theorizing about Syntax",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009428774",
+        "description": "Theorizing about Syntax",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009563093",
+        "description": "A Practical Guide for Women in Physics",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009561150",
+        "description": "Experiencing Shakespeare's Theatres",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009879460",
+        "description": "Europe's Poison Pill",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009582575",
+        "description": "Pythagoreanism & Plato",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009561167",
+        "description": "Experiencing Shakespeare's Theatres",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009575249",
+        "description": "The Cambridge Introduction to Phillis Wheatley Peters",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009880770",
+        "description": "Fragmented Policy Change",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781047767095",
+        "description": "Expecting to Fail",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009582544",
+        "description": "Pythagoreanism & Plato",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009880787",
+        "description": "Fragmented Policy Change",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009886666",
+        "description": "Unruly Acts",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009843065",
+        "description": "Disclosure Laws in the Digital Era",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009761833",
+        "description": "Plato's Sophist in Antiquity",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009761864",
+        "description": "Plato's Sophist in Antiquity",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009843027",
+        "description": "Disclosure Laws in the Digital Era",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009877367",
+        "description": "Super PACs in the City",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009616942",
+        "description": "Disinformation Ideology & Public Opinion in Central Europe",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009877398",
+        "description": "Super PACs in the City",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009783170",
+        "description": "Value for Money",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781009616966",
+        "description": "Disinformation Ideology & Public Opinion in Central Europe",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781047777117",
+        "description": "Seeking Anticolonial Synergies",
+        "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781047762212",
+        "description": "Emergence & Phase Transitions in Uniform Random Graphs",
+        "setupdate": "2026-11-03"
     }
 ]
