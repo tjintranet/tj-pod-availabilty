@@ -777050,16 +777050,6 @@
         "setupdate": "2025-08-03"
     },
     {
-        "code": "9781032832920",
-        "description": "Clarks Guide Preliminary Evaluation Musculoskeletal X-rays",
-        "setupdate": "2025-08-03"
-    },
-    {
-        "code": "9781032979465",
-        "description": "Clarks Guide Preliminary Evaluation Musculoskeletal X-rays",
-        "setupdate": "2025-08-03"
-    },
-    {
         "code": "9789056996727",
         "description": "Mechatronic Systems Techniques & Applications",
         "setupdate": "2025-08-05"
@@ -777073,6 +777063,11 @@
         "code": "9780752494456",
         "description": "East Yorkshire Folk Tales",
         "setupdate": "2025-08-01"
+    },
+    {
+        "code": "9781032979465",
+        "description": "Clark\u2019s Essential Guide to Preliminary Clinical Evaluation",
+        "setupdate": "2025-08-03"
     },
     {
         "code": "9781032982137",
@@ -913330,11 +913325,6 @@
         "setupdate": "2026-05-22"
     },
     {
-        "code": "9781041120056",
-        "description": "Encyclopedia of Twentieth-Century Photography",
-        "setupdate": "2026-05-22"
-    },
-    {
         "code": "9781138028784",
         "description": "Sustainable Bridge Structures",
         "setupdate": "2026-05-22"
@@ -915520,16 +915510,6 @@
         "setupdate": "2026-05-22"
     },
     {
-        "code": "9781041120087",
-        "description": "Encyclopedia of Twentieth-Century Photography",
-        "setupdate": "2026-05-22"
-    },
-    {
-        "code": "9781041120100",
-        "description": "Encyclopedia of Twentieth-Century Photography",
-        "setupdate": "2026-05-22"
-    },
-    {
         "code": "9781138190511",
         "description": "The Development of Criminological Thought",
         "setupdate": "2026-05-22"
@@ -915553,6 +915533,11 @@
         "code": "9781138761667",
         "description": "The Metropolitan Poor Vol 5",
         "setupdate": "2026-05-28"
+    },
+    {
+        "code": "9781041120100",
+        "description": "Encyclopedia of Twentieth-Century Photography Vol 3",
+        "setupdate": "2026-05-22"
     },
     {
         "code": "1472645911026",
@@ -924053,6 +924038,11 @@
         "code": "9781108429368",
         "description": "For King & Country",
         "setupdate": "2026-06-08"
+    },
+    {
+        "code": "9781787460638",
+        "description": "STAR WARS LAST SHOT A HAN AND LANDO NOVEL (005)",
+        "setupdate": "2026-11-04"
     },
     {
         "code": "9781108431767",
@@ -981725,6 +981715,11 @@
         "setupdate": "2026-09-25"
     },
     {
+        "code": "9781041155300",
+        "description": "Reading Czes\u0142aw Mi\u0142osz",
+        "setupdate": "2026-11-04"
+    },
+    {
         "code": "9781405921640",
         "description": "ZODIAC (005)",
         "setupdate": "2026-10-14"
@@ -994165,6 +994160,11 @@
         "setupdate": "2026-10-29"
     },
     {
+        "code": "9781041363651",
+        "description": "Methods in Cancer Biology",
+        "setupdate": "2026-11-04"
+    },
+    {
         "code": "9781041192602",
         "description": "Psychoanalytic & Group Analytic Reflections on War Trauma",
         "setupdate": "2026-10-26"
@@ -999155,6 +999155,11 @@
         "setupdate": "2026-11-03"
     },
     {
+        "code": "9780815346074",
+        "description": "Methods in Cancer Biology",
+        "setupdate": "2026-11-04"
+    },
+    {
         "code": "9781041279945",
         "description": "Challenging Picturebooks & Inclusion",
         "setupdate": "2026-11-03"
@@ -999215,6 +999220,16 @@
         "setupdate": "2026-11-03"
     },
     {
+        "code": "9780714633572",
+        "description": "After the Crossing",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781032832920",
+        "description": "Clark\u2019s Essential Guide to Preliminary Clinical Evaluation",
+        "setupdate": "2025-08-03"
+    },
+    {
         "code": "9781032897899",
         "description": "The Politics of Sedition in Long Nineteenth-Century Britai",
         "setupdate": "2026-11-03"
@@ -999223,6 +999238,16 @@
         "code": "9781041076216",
         "description": "The Outdoor Learning Professional",
         "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041289104",
+        "description": "Chip Peace",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041162070",
+        "description": "Melville\u2019s (Dis)Orders",
+        "setupdate": "2026-11-04"
     },
     {
         "code": "9780521738279",
@@ -999250,6 +999275,11 @@
         "setupdate": "2026-11-03"
     },
     {
+        "code": "9781859282670",
+        "description": "Antifraternalism & Anticlericalism in the German Reformati",
+        "setupdate": "2026-11-04"
+    },
+    {
         "code": "9781041364917",
         "description": "Advancements in Intelligent Systems for Communication Ene",
         "setupdate": "2026-11-03"
@@ -999268,6 +999298,21 @@
         "code": "9781041224808",
         "description": "Eric Miller Social Scientist & Organisational Consultant",
         "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041427179",
+        "description": "Political & Cultural Conflict Today",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041394594",
+        "description": "Building Students\u2019 Self-Efficacy",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9789815352528",
+        "description": "Gravitational Biology",
+        "setupdate": "2026-11-04"
     },
     {
         "code": "9780521515283",
@@ -999350,6 +999395,51 @@
         "setupdate": "2026-11-03"
     },
     {
+        "code": "9781041429197",
+        "description": "Assessment in Educational Therapy",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041429180",
+        "description": "Assessment in Educational Therapy",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9789048560752",
+        "description": "Urban Aesthetics in China",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041443100",
+        "description": "Accumulation Exchange & Development",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041383031",
+        "description": "Responsible Supply Chain Management",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041227649",
+        "description": "Muslims Jews Christians & Pagans",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041325994",
+        "description": "Explaining Renewable Energy",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041383024",
+        "description": "Responsible Supply Chain Management",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041299509",
+        "description": "Mental Health Social Work in Context",
+        "setupdate": "2026-11-04"
+    },
+    {
         "code": "9781041296751",
         "description": "The 1918 Flu Pandemic in Florence & Tuscany",
         "setupdate": "2026-11-03"
@@ -999358,6 +999448,16 @@
         "code": "9781041101802",
         "description": "Musicians The Music Industry & Mental Health",
         "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9788743800736",
+        "description": "The Humanized Internet",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9788743815716",
+        "description": "Radar for Human Sensing Presence Identification & Diseas",
+        "setupdate": "2026-11-04"
     },
     {
         "code": "9780521247160",
@@ -999595,6 +999695,16 @@
         "setupdate": "2026-11-03"
     },
     {
+        "code": "9781041361039",
+        "description": "Autobiography in Psychoanalysis",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9780754605133",
+        "description": "Baptism & Spiritual Kinship in Early Modern England",
+        "setupdate": "2026-11-04"
+    },
+    {
         "code": "9781032951980",
         "description": "Principles of Portfolio Choice",
         "setupdate": "2026-11-03"
@@ -999655,6 +999765,36 @@
         "setupdate": "2026-11-03"
     },
     {
+        "code": "9781041096979",
+        "description": "Online Freedom of Speech & the Law",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041334187",
+        "description": "Survivor Testimonies of the Irish Rebellion of 1641",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041129479",
+        "description": "Music & Antifascism",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041370987",
+        "description": "Reflective Practice in Clinical Ethics",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9780367207861",
+        "description": "Research Methods for Photography",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781032588025",
+        "description": "Climate Justice on Earth",
+        "setupdate": "2026-11-04"
+    },
+    {
         "code": "9780521147934",
         "description": "HIV/AIDS in South Africa 2ed",
         "setupdate": "2026-11-03"
@@ -999705,6 +999845,31 @@
         "setupdate": "2026-11-03"
     },
     {
+        "code": "9781032208695",
+        "description": "Predictable Patterns of Education Policy Implementation",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781032554327",
+        "description": "The Sundarbans Mangrove Ecosystem",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041359487",
+        "description": "Eco-Design Circular Fashion & the EU",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041372158",
+        "description": "Regulating Public Procurement in India",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041023685",
+        "description": "High Impact Practices in Language & Culture Education",
+        "setupdate": "2026-11-04"
+    },
+    {
         "code": "9781108003926",
         "description": "Journal",
         "setupdate": "2026-11-03"
@@ -999738,6 +999903,56 @@
         "code": "9781009617987",
         "description": "The Cambridge Companion to Literature & the Weird",
         "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041113744",
+        "description": "Cotton Production Challenges under Climate Change Anxiety",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041291848",
+        "description": "Historical Understanding Futures Thinking & the Public W",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041303008",
+        "description": "Being & Resistance",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041023715",
+        "description": "High Impact Practices in Language & Culture Education",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041045366",
+        "description": "Liberation Psychology & Refusal",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041157250",
+        "description": "Discourses of Blackness & Anti-Blackness in Poland",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041195221",
+        "description": "Love Religion & God",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041253808",
+        "description": "DeepFakes 2.0",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041361022",
+        "description": "Autobiography in Psychoanalysis",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781032938615",
+        "description": "Organization Theory & Governance for the 21st Century",
+        "setupdate": "2026-11-04"
     },
     {
         "code": "9781009478076",
@@ -999810,6 +1000025,16 @@
         "setupdate": "2026-11-03"
     },
     {
+        "code": "9781041100980",
+        "description": "Music & Antifascism",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041288701",
+        "description": "Next-Generation Green Solvents",
+        "setupdate": "2026-11-04"
+    },
+    {
         "code": "9781108417983",
         "description": "The Cambridge Handbook of African Linguistics",
         "setupdate": "2026-11-03"
@@ -999833,6 +1000058,41 @@
         "code": "9781009725286",
         "description": "Teaching Writing in the Middle & Upper Primary Years",
         "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041045342",
+        "description": "Liberation Psychology & Refusal",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041289098",
+        "description": "Chip Peace",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9780754634904",
+        "description": "Infant Baptism in Reformation Geneva",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041235972",
+        "description": "Artificial Intelligence in Geospatial Technology",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041325987",
+        "description": "Explaining Renewable Energy",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041214045",
+        "description": "Computational Analysis for Digital Medical Imagery",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041374190",
+        "description": "The Rise of Small Island Developing States in the Indo-Pac",
+        "setupdate": "2026-11-04"
     },
     {
         "code": "9781108476096",
@@ -999880,6 +1000140,31 @@
         "setupdate": "2026-11-03"
     },
     {
+        "code": "9781041236344",
+        "description": "Climate Change & Livestock Production",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041298779",
+        "description": "Mental Health Social Work in Context",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041316916",
+        "description": "Artificial Intelligence & Agricultural Transformation in S",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041359470",
+        "description": "Eco-Design Circular Fashion & the EU",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041237396",
+        "description": "Dilemmas & Decision Making in Domestic Abuse",
+        "setupdate": "2026-11-04"
+    },
+    {
         "code": "9781009685931",
         "description": "The Laws & Principles of Secondary Liability",
         "setupdate": "2026-11-03"
@@ -999900,6 +1000185,21 @@
         "setupdate": "2026-11-03"
     },
     {
+        "code": "9781041371199",
+        "description": "Reflective Practice in Clinical Ethics",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9780754603634",
+        "description": "Music as Propaganda in the German Reformation",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041364948",
+        "description": "Leading Education Through Culture & Community in East Afri",
+        "setupdate": "2026-11-04"
+    },
+    {
         "code": "9781009663076",
         "description": "Philosophy of Mathematics from Descartes to Kant",
         "setupdate": "2026-11-03"
@@ -999908,6 +1000208,61 @@
         "code": "9781009573962",
         "description": "Pacifism & Non-Violence in Contemporary Islamic Philosophy",
         "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041170037",
+        "description": "Coaching the Introverted Client",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041334200",
+        "description": "Survivor Testimonies of the Irish Rebellion of 1641",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041236832",
+        "description": "Dilemmas & Decision Making in Domestic Abuse",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041230724",
+        "description": "Deception & Lies in Politics & Social Media",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781859283738",
+        "description": "The Jacobean Kirk 1567\u20131625",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781859283509",
+        "description": "Piety & the People",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9780367207878",
+        "description": "Research Methods for Photography",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9780754607625",
+        "description": "Huguenot Heartland",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9780754654391",
+        "description": "Reforming the Art of Dying",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781032892092",
+        "description": "Educational Game Design Fundamentals",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781032747361",
+        "description": "Communicate with Confidence",
+        "setupdate": "2026-11-04"
     },
     {
         "code": "9781107412408",
@@ -999945,9 +1000300,114 @@
         "setupdate": "2026-11-03"
     },
     {
+        "code": "9781032789729",
+        "description": "Handbook of Research on STEM Education Volume II",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781032938639",
+        "description": "Organization Theory & Governance for the 21st Century",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9780754602408",
+        "description": "Christianity & Community in the West",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9780754608660",
+        "description": "The Front-Runner of the Catholic Reformation",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9780754602781",
+        "description": "The Sixteenth-Century French Religious Book",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9780754608349",
+        "description": "William Cecil & Episcopacy 1559\u20131577",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9789048572106",
+        "description": "Transmissions & Inventions in China\u2019s Middle Period Vol 1",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781032893150",
+        "description": "Educational Game Design Fundamentals",
+        "setupdate": "2026-11-04"
+    },
+    {
         "code": "9781009674454",
         "description": "Marginalized Identities in Africa",
         "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781840142815",
+        "description": "Tudor Histories of the English Reformations 1530\u201383",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781859282205",
+        "description": "Reformations Old & New",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781859283585",
+        "description": "The Reformation in Eastern & Central Europe",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781840142808",
+        "description": "Frontiers of the Reformation",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781032208701",
+        "description": "Predictable Patterns of Education Policy Implementation",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9780367522049",
+        "description": "Sports Injuries",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9780754603405",
+        "description": "The British Union",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9780754600015",
+        "description": "The Education of a Christian Society",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9780754603436",
+        "description": "Reforming the Scottish Church",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9780754603948",
+        "description": "The Bible in the Renaissance",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781848727465",
+        "description": "40th Clinical Aphasiology Conference",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781032747309",
+        "description": "Communicate with Confidence",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781032851105",
+        "description": "Anti-Analytics",
+        "setupdate": "2026-11-04"
     },
     {
         "code": "9781009841672",
@@ -999973,6 +1000433,51 @@
         "code": "9781107162631",
         "description": "Introduction to Banach Spaces: Analysis and Pro 2 Vols Set",
         "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9780754603054",
+        "description": "The Construction of Martyrdom in the English Catholic Comm",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9780754655671",
+        "description": "Philip Melanchthon & the English Reformation",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9780863884030",
+        "description": "Depression",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781138557666",
+        "description": "Revival The Gospel of the Redman (1937)",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041120056",
+        "description": "Encyclopedia of Twentieth-Century Photography Vol 1",
+        "setupdate": "2026-05-22"
+    },
+    {
+        "code": "9781041120087",
+        "description": "Encyclopedia of Twentieth-Century Photography Vol 2",
+        "setupdate": "2026-05-22"
+    },
+    {
+        "code": "9781579583934",
+        "description": "Encyclopedia of Twentieth-Century Photography Vol Set",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9780750979504",
+        "description": "Female Tommies",
+        "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9780750941501",
+        "description": "Merlin",
+        "setupdate": "2026-11-04"
     },
     {
         "code": "9781107412415",
