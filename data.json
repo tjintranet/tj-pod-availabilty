@@ -6395,6 +6395,11 @@
         "setupdate": "2013-11-19"
     },
     {
+        "code": "9781107105102",
+        "description": "The Cambridge History of the Vietnam War",
+        "setupdate": "2026-07-27"
+    },
+    {
         "code": "9780815373261",
         "description": "Group Care for Infants Toddlers & Twos",
         "setupdate": "2018-02-01"
@@ -777050,6 +777055,21 @@
         "setupdate": "2025-08-03"
     },
     {
+        "code": "9781108472609",
+        "description": "Mark Twain in Context",
+        "setupdate": "2026-06-15"
+    },
+    {
+        "code": "9780878301003",
+        "description": "The Devils Charter",
+        "setupdate": "2026-11-05"
+    },
+    {
+        "code": "9781041343998",
+        "description": "Why Are Things So Hard To Use?",
+        "setupdate": "2026-11-05"
+    },
+    {
         "code": "9789056996727",
         "description": "Mechatronic Systems Techniques & Applications",
         "setupdate": "2025-08-05"
@@ -926700,11 +926720,6 @@
         "setupdate": "2026-06-15"
     },
     {
-        "code": "9781108472609",
-        "description": "Mark Twain in Context",
-        "setupdate": "2026-06-15"
-    },
-    {
         "code": "9781108481083",
         "description": "The Cambridge Companion to British Literature of the 1930s",
         "setupdate": "2026-06-15"
@@ -951642,11 +951657,6 @@
     {
         "code": "9780521766876",
         "description": "Computer Vision for Visual Effects",
-        "setupdate": "2026-07-27"
-    },
-    {
-        "code": "9781107105102",
-        "description": "The Cambridge History of the Vietnam War",
         "setupdate": "2026-07-27"
     },
     {
@@ -999160,6 +999170,26 @@
         "setupdate": "2026-11-04"
     },
     {
+        "code": "9780552158985",
+        "description": "44 CHARLES STREET (021)",
+        "setupdate": "2026-11-05"
+    },
+    {
+        "code": "9780552172523",
+        "description": "HARD LIMIT (012)",
+        "setupdate": "2026-11-05"
+    },
+    {
+        "code": "9781803990408",
+        "description": "The A\u2013Z of Curious Derbyshire",
+        "setupdate": "2026-11-05"
+    },
+    {
+        "code": "9781138561106",
+        "description": "Emotional Schema Therapy",
+        "setupdate": "2026-11-05"
+    },
+    {
         "code": "9781041279945",
         "description": "Challenging Picturebooks & Inclusion",
         "setupdate": "2026-11-03"
@@ -999278,6 +999308,11 @@
         "code": "9781859282670",
         "description": "Antifraternalism & Anticlericalism in the German Reformati",
         "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041122920",
+        "description": "The Guide to Play Therapy Documentation & Parent Consultat",
+        "setupdate": "2026-11-05"
     },
     {
         "code": "9781041364917",
