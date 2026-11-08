@@ -191670,11 +191670,6 @@
         "setupdate": "2016-11-01"
     },
     {
-        "code": "9780367778644",
-        "description": "Intelligence Analysis Fundamentals",
-        "setupdate": "2026-08-18"
-    },
-    {
         "code": "9780415479448",
         "description": "Breaking Barriers to Learning in Primary Schools",
         "setupdate": "2016-11-01"
@@ -405785,11 +405780,6 @@
         "setupdate": "2022-02-11"
     },
     {
-        "code": "9780367178154",
-        "description": "Age of Sustainability",
-        "setupdate": "2022-02-11"
-    },
-    {
         "code": "9780367675363",
         "description": "New Dynamics of Democracy",
         "setupdate": "2022-02-11"
@@ -418327,11 +418317,6 @@
     {
         "code": "9780367711504",
         "description": "Cybersecurity & High-Performance Computing Enviro",
-        "setupdate": "2022-04-28"
-    },
-    {
-        "code": "9781032026749",
-        "description": "Future of Arctic Human Population",
         "setupdate": "2022-04-28"
     },
     {
@@ -467885,11 +467870,6 @@
         "setupdate": "2022-10-13"
     },
     {
-        "code": "9781032202709",
-        "description": "Social Work Practice in Health",
-        "setupdate": "2022-10-13"
-    },
-    {
         "code": "9780367638337",
         "description": "Aesthetics of Film Production",
         "setupdate": "2022-10-13"
@@ -477782,11 +477762,6 @@
     {
         "code": "9781032065816",
         "description": "Scientific Understanding Representation",
-        "setupdate": "2022-11-03"
-    },
-    {
-        "code": "9781032129433",
-        "description": "Social Entrepreneurship",
         "setupdate": "2022-11-03"
     },
     {
@@ -621903,11 +621878,6 @@
         "code": "9781032432816",
         "description": "Origins of Life Volume II",
         "setupdate": "2024-08-13"
-    },
-    {
-        "code": "9780415488754",
-        "description": "Jerusalem in the Time of the Crusades",
-        "setupdate": "2024-08-09"
     },
     {
         "code": "9780419217701",
@@ -849125,11 +849095,6 @@
         "setupdate": "2025-10-20"
     },
     {
-        "code": "9781032655994",
-        "description": "Industrialization & Under-developed Countries",
-        "setupdate": "2025-10-20"
-    },
-    {
         "code": "9781032642437",
         "description": "The Politics of Repeal",
         "setupdate": "2025-10-20"
@@ -903653,6 +903618,11 @@
         "code": "9781009157957",
         "description": "Global Warming of 1.5\u00b0C",
         "setupdate": "2026-05-04"
+    },
+    {
+        "code": "9781032643205",
+        "description": "Colour Your Cortex",
+        "setupdate": "2026-11-07"
     },
     {
         "code": "9781009200981",
@@ -999318,6 +999288,11 @@
         "code": "9781041253334",
         "description": "Reimagining Culturally Responsive Learning Spaces",
         "setupdate": "2026-11-06"
+    },
+    {
+        "code": "9781032026749",
+        "description": "The Future of the Arctic Human Population",
+        "setupdate": "2022-04-28"
     },
     {
         "code": "9781009199872",
