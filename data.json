@@ -41870,6 +41870,11 @@
         "setupdate": "2011-11-08"
     },
     {
+        "code": "9781107092723",
+        "description": "Mao Zedong",
+        "setupdate": "2026-05-25"
+    },
+    {
         "code": "9781843929383",
         "description": "Policing Scotland",
         "setupdate": "2011-01-14"
@@ -191670,6 +191675,11 @@
         "setupdate": "2016-11-01"
     },
     {
+        "code": "9781107116719",
+        "description": "Mozart in Vienna",
+        "setupdate": "2026-08-03"
+    },
+    {
         "code": "9780415479448",
         "description": "Breaking Barriers to Learning in Primary Schools",
         "setupdate": "2016-11-01"
@@ -192773,6 +192783,11 @@
         "code": "9781138243293",
         "description": "Digital Media Sport",
         "setupdate": "2016-11-07"
+    },
+    {
+        "code": "9781107196957",
+        "description": "Written Off",
+        "setupdate": "2026-06-29"
     },
     {
         "code": "9781138243323",
@@ -849095,6 +849110,11 @@
         "setupdate": "2025-10-20"
     },
     {
+        "code": "9789814241588",
+        "description": "Artificial Human Sensors",
+        "setupdate": "2026-11-09"
+    },
+    {
         "code": "9781032642437",
         "description": "The Politics of Repeal",
         "setupdate": "2025-10-20"
@@ -916480,11 +916500,6 @@
         "setupdate": "2026-05-25"
     },
     {
-        "code": "9781107092723",
-        "description": "Mao Zedong",
-        "setupdate": "2026-05-25"
-    },
-    {
         "code": "9781108429023",
         "description": "Evolution Ecology & Conservation of Lorises & Pottos",
         "setupdate": "2026-05-25"
@@ -937287,11 +937302,6 @@
     {
         "code": "9781009756600",
         "description": "Word Image & the Spiritual Life of the Poor Clares",
-        "setupdate": "2026-06-29"
-    },
-    {
-        "code": "9781107196957",
-        "description": "Written Off",
         "setupdate": "2026-06-29"
     },
     {
@@ -958357,11 +958367,6 @@
     {
         "code": "9781107194588",
         "description": "Seals & Sealing in the Ancient World",
-        "setupdate": "2026-08-03"
-    },
-    {
-        "code": "9781107116719",
-        "description": "Mozart in Vienna",
         "setupdate": "2026-08-03"
     },
     {
@@ -999115,6 +999120,26 @@
         "setupdate": "2026-11-03"
     },
     {
+        "code": "9781009750578",
+        "description": "The Cambridge Handbook of Competition Law & Antitrust Theo",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781009859394",
+        "description": "Balancing Institutional Power in European Policymaking",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781009859400",
+        "description": "Balancing Institutional Power in European Policymaking",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781107195424",
+        "description": "River Dynamics",
+        "setupdate": "2026-11-09"
+    },
+    {
         "code": "9781041449461",
         "description": "Innovations in Architecture Design Business Society La",
         "setupdate": "2026-11-03"
@@ -999298,6 +999323,16 @@
         "code": "9781009199872",
         "description": "Lifescapes",
         "setupdate": "2026-05-04"
+    },
+    {
+        "code": "9780367017774",
+        "description": "Eating Oil",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9789814241847",
+        "description": "From Small Fullerenes to Superlattices",
+        "setupdate": "2026-11-09"
     },
     {
         "code": "9781041364917",
@@ -999875,6 +999910,16 @@
         "setupdate": "2026-11-04"
     },
     {
+        "code": "9789814303002",
+        "description": "Self-Field Theory",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9789814241854",
+        "description": "Fullerene Nanowhiskers",
+        "setupdate": "2026-11-09"
+    },
+    {
         "code": "9781041359487",
         "description": "Eco-Design Circular Fashion & the EU",
         "setupdate": "2026-11-04"
@@ -1000095,6 +1000140,31 @@
         "setupdate": "2026-11-04"
     },
     {
+        "code": "9789814310024",
+        "description": "Nanotechnology in Australia",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781032742762",
+        "description": "Reforming & Refining General Education",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781032940564",
+        "description": "Israels Wars",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781032980140",
+        "description": "Beyond Poverty\u2019s Reach",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781041039099",
+        "description": "Streaming Factories",
+        "setupdate": "2026-11-09"
+    },
+    {
         "code": "9781041235972",
         "description": "Artificial Intelligence in Geospatial Technology",
         "setupdate": "2026-11-04"
@@ -1000215,6 +1000285,51 @@
         "setupdate": "2026-11-04"
     },
     {
+        "code": "9789814316309",
+        "description": "Rare Earth Nanotechnology",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781032877686",
+        "description": "Vital Literacies from the Clinic to the Classroom",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781041393634",
+        "description": "Sustainability-Driven Risk Management in Infrastructure Pr",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781032877693",
+        "description": "Vital Literacies from the Clinic to the Classroom",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781041338475",
+        "description": "European Union Encyclopedia & Directory 2027",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781041152859",
+        "description": "Contrastive Studies of English & Chinese Semantics",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781041326540",
+        "description": "Industry 5.0 & AI-Driven Circular Economy",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781032998664",
+        "description": "Economic Principles for the Hospitality Industry",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781032984551",
+        "description": "AI in the Fashion Business",
+        "setupdate": "2026-11-09"
+    },
+    {
         "code": "9781041364948",
         "description": "Leading Education Through Culture & Community in East Afri",
         "setupdate": "2026-11-04"
@@ -1000273,6 +1000388,31 @@
         "code": "9780754654391",
         "description": "Reforming the Art of Dying",
         "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781032940571",
+        "description": "Israels Wars",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781041241119",
+        "description": "Representing Lesbian Lives in Hungary",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781041174486",
+        "description": "Rethinking Social Movements & Territorial Struggles in Lat",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781041286707",
+        "description": "The New Teachers Guide to Overcoming Common Challenges",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781041111412",
+        "description": "Foundations of Care Coordination for Substance Use Disorde",
+        "setupdate": "2026-11-09"
     },
     {
         "code": "9781032892092",
@@ -1000355,6 +1000495,11 @@
         "setupdate": "2026-11-04"
     },
     {
+        "code": "9781041103950",
+        "description": "Building Risk Literacy",
+        "setupdate": "2026-11-09"
+    },
+    {
         "code": "9781032893150",
         "description": "Educational Game Design Fundamentals",
         "setupdate": "2026-11-04"
@@ -1000418,6 +1000563,26 @@
         "code": "9781848727465",
         "description": "40th Clinical Aphasiology Conference",
         "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041022305",
+        "description": "Rereading the Bible in the Wake of Colonisation",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781041138082",
+        "description": "Artificial Intelligence & Media",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781032984599",
+        "description": "AI in the Fashion Business",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781041372738",
+        "description": "States Matter",
+        "setupdate": "2026-11-09"
     },
     {
         "code": "9781032747309",
@@ -1000490,6 +1000655,11 @@
         "setupdate": "2026-11-04"
     },
     {
+        "code": "9781041103974",
+        "description": "Building Risk Literacy",
+        "setupdate": "2026-11-09"
+    },
+    {
         "code": "9780750979504",
         "description": "Female Tommies",
         "setupdate": "2026-11-04"
@@ -1000498,6 +1000668,26 @@
         "code": "9780750941501",
         "description": "Merlin",
         "setupdate": "2026-11-04"
+    },
+    {
+        "code": "9781041141099",
+        "description": "Dreaming Liberatory Futures for STEM Education",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781041092193",
+        "description": "Communication & Mental Health in Global Contexts",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781041139355",
+        "description": "Producing for TV & Emerging Media",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781032232607",
+        "description": "Growth Distribution & Effective Demand",
+        "setupdate": "2026-11-09"
     },
     {
         "code": "9781107412415",
@@ -1000535,6 +1000725,21 @@
         "setupdate": "2026-11-03"
     },
     {
+        "code": "9781041329671",
+        "description": "Language Translation & Technology",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781041394624",
+        "description": "Fictionalizing Israel in Jewish-American Literature 1948\u2013",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781041392200",
+        "description": "David Jones\u2019 Philosophy of Art in the Context of Catholic",
+        "setupdate": "2026-11-09"
+    },
+    {
         "code": "9781108003919",
         "description": "Journal",
         "setupdate": "2026-11-03"
@@ -1000568,6 +1000773,51 @@
         "code": "9781107480636",
         "description": "Stress & Accent",
         "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041071273",
+        "description": "Ecopolitics & the Making of Lisbon\u2019s Green Infrastructure",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781041372752",
+        "description": "States Matter",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781032831459",
+        "description": "Jewish Rescue across the Pyrenees during the Holocaust",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781041068358",
+        "description": "Margaret Meek Spencer",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781041076438",
+        "description": "AI & IoT in Engineering Life Science & Healthcare",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781041138273",
+        "description": "Artificial Intelligence & Media",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781041139331",
+        "description": "Producing for TV & Emerging Media",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781032899473",
+        "description": "Decolonising & Indigenising Music Education Volume II",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781032716671",
+        "description": "China\u2019s New Geography",
+        "setupdate": "2026-11-09"
     },
     {
         "code": "9781108414456",
@@ -1000615,6 +1000865,21 @@
         "setupdate": "2026-11-03"
     },
     {
+        "code": "9781041141082",
+        "description": "Dreaming Liberatory Futures for STEM Education",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781041303466",
+        "description": "The Sociological Cogito & the Hard Problems of Science",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781041297178",
+        "description": "Taiwan Studies Reconfigured",
+        "setupdate": "2026-11-09"
+    },
+    {
         "code": "9781107412392",
         "description": "Hist Carnegie Inst Washington v1",
         "setupdate": "2026-11-03"
@@ -1000655,6 +1000920,16 @@
         "setupdate": "2026-11-03"
     },
     {
+        "code": "9781032998657",
+        "description": "Economic Principles for the Hospitality Industry",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781032987644",
+        "description": "Next-Generation Electronics",
+        "setupdate": "2026-11-09"
+    },
+    {
         "code": "9781108843164",
         "description": "The Great War in History",
         "setupdate": "2026-11-03"
@@ -1000668,6 +1000943,16 @@
         "code": "9781316511626",
         "description": "Understanding Fertility",
         "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781041363088",
+        "description": "Handbook of Steel for Strategic Applications",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9789048572137",
+        "description": "Transmissions & Inventions in China\u2019s Middle Period Vol 2",
+        "setupdate": "2026-11-09"
     },
     {
         "code": "9781009562652",
@@ -1000815,9 +1001100,29 @@
         "setupdate": "2026-11-03"
     },
     {
+        "code": "9781032541662",
+        "description": "Plant Proteomics in Heavy Metal Remediation",
+        "setupdate": "2026-11-09"
+    },
+    {
         "code": "9781009621236",
         "description": "Against Managerialist Research",
         "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781032732220",
+        "description": "The Routledge Handbook of Forensic Anthropology",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781032730394",
+        "description": "Reforming & Refining General Education",
+        "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781032716688",
+        "description": "China\u2019s New Geography",
+        "setupdate": "2026-11-09"
     },
     {
         "code": "9781108836197",
