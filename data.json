@@ -589790,11 +589790,6 @@
         "setupdate": "2024-02-08"
     },
     {
-        "code": "9781032111322",
-        "description": "Unlocking Eu Law",
-        "setupdate": "2024-02-08"
-    },
-    {
         "code": "9781032263526",
         "description": "Medical Presentations",
         "setupdate": "2024-02-08"
@@ -916380,11 +916375,6 @@
         "setupdate": "2026-05-25"
     },
     {
-        "code": "9781108471657",
-        "description": "The Nanyang Revolution",
-        "setupdate": "2026-05-25"
-    },
-    {
         "code": "9781108485593",
         "description": "Genocide Never Sleeps",
         "setupdate": "2026-05-25"
@@ -937320,6 +937310,11 @@
         "setupdate": "2026-06-29"
     },
     {
+        "code": "9781041130727",
+        "description": "Body Business",
+        "setupdate": "2026-11-12"
+    },
+    {
         "code": "9780521141482",
         "description": "A Hist of Indian Phil 5 Vols set",
         "setupdate": "2026-06-29"
@@ -939033,6 +939028,11 @@
         "code": "9781108688994",
         "description": "The Cambridge History of Atheism 2 Vol  Set",
         "setupdate": "2026-07-06"
+    },
+    {
+        "code": "9781108471657",
+        "description": "The Nanyang Revolution",
+        "setupdate": "2026-05-25"
     },
     {
         "code": "9781032894171",
@@ -994775,6 +994775,11 @@
         "setupdate": "2026-10-28"
     },
     {
+        "code": "9781032131788",
+        "description": "Oman",
+        "setupdate": "2026-11-12"
+    },
+    {
         "code": "9781041068068",
         "description": "Re-Reading Pareto on Elite Power & Societal Bipolarisation",
         "setupdate": "2026-10-28"
@@ -1000755,6 +1000760,31 @@
         "setupdate": "2026-11-10"
     },
     {
+        "code": "9781041391098",
+        "description": "Intelligence & Crime Analysis Through Fictional Detectives",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041406280",
+        "description": "(Post)Truth & Democracy",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781779641526",
+        "description": "Intelligent Applications in Bioinformatics & Healthcare Te",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041369073",
+        "description": "Documentary Journalism",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781032131771",
+        "description": "Oman",
+        "setupdate": "2026-11-12"
+    },
+    {
         "code": "9781041329671",
         "description": "Language Translation & Technology",
         "setupdate": "2026-11-09"
@@ -1001045,6 +1001075,46 @@
         "setupdate": "2026-11-10"
     },
     {
+        "code": "9788743812524",
+        "description": "Information Processing & Optimization in Control Solutions",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9789048564491",
+        "description": "Maintaining Neutrality in Modern Europe",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041305583",
+        "description": "Lean Transformation",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041307174",
+        "description": "Game AI Uncovered Focus",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041368373",
+        "description": "Martingale Pricing",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9789815352429",
+        "description": "Electrospun Nanostructures in Drug Delivery",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9789815352375",
+        "description": "Gene Cloning in Plants",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041391074",
+        "description": "Intelligence & Crime Analysis Through Fictional Detectives",
+        "setupdate": "2026-11-12"
+    },
+    {
         "code": "9781009562652",
         "description": "The Amarna Letters & the Scribes Who Wrote Them",
         "setupdate": "2026-11-03"
@@ -1001200,9 +1001270,34 @@
         "setupdate": "2026-11-03"
     },
     {
+        "code": "9781041407706",
+        "description": "(Post)Truth & Democracy",
+        "setupdate": "2026-11-12"
+    },
+    {
         "code": "1472645922026",
         "description": "[2026] 3 FCR 6",
         "setupdate": "2026-11-09"
+    },
+    {
+        "code": "9781041413196",
+        "description": "Marketization & Party-State Transformation",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781779644824",
+        "description": "Handbook on IoT-Based Aquaculture & Fisheries",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781779642943",
+        "description": "Advancements in Sensor Technologies",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9789815352269",
+        "description": "Large Language Models for Email Forensics",
+        "setupdate": "2026-11-12"
     },
     {
         "code": "9781032732220",
@@ -1001225,6 +1001320,71 @@
         "setupdate": "2026-11-10"
     },
     {
+        "code": "9781041368212",
+        "description": "Martingale Pricing",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9789815352412",
+        "description": "Advances in Environmental Biotechnology",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041413059",
+        "description": "The Real Estate Analyst Handbook",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041390251",
+        "description": "Instituting Power",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041458876",
+        "description": "Innovations & Integrations for the Next Generation Librari",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781779644312",
+        "description": "Liposomes",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041329909",
+        "description": "Design Thinking & Artificial Intelligence",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041339205",
+        "description": "Conditional Content & Single-Sourcing in MS Word",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9789815352535",
+        "description": "Artificial Intelligence in Dermatological Disorders",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781779643124",
+        "description": "Smart Technologies in Agricultural Production",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041338567",
+        "description": "USA & Canada 2027",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781032718033",
+        "description": "Advances in Plant-Microbe Interaction for Restoring Enviro",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041441212",
+        "description": "Platform Governance & Human Rights",
+        "setupdate": "2026-11-12"
+    },
+    {
         "code": "9781108836197",
         "description": "The Cambridge Handbook of the Minimalist Program",
         "setupdate": "2026-11-03"
@@ -1001235,9 +1001395,169 @@
         "setupdate": "2026-11-03"
     },
     {
+        "code": "9781779643834",
+        "description": "Green Synthesis of Nanomaterials for Environmental Remedia",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041307105",
+        "description": "Game AI Uncovered Focus",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041401414",
+        "description": "The Real Estate Analyst Handbook",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041369103",
+        "description": "Documentary Journalism",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781779643858",
+        "description": "Sustainable Human Resource Management",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041360995",
+        "description": "Unintegrated Transformations",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041227113",
+        "description": "Green Chemical Engineering",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041117704",
+        "description": "Interdisciplinary Research on Real Estate",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041139089",
+        "description": "Generative AI & Journalism",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041265696",
+        "description": "Interpersonal Violence in Middle Byzantium",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041108191",
+        "description": "Accessible + Inclusive Design for Technical Communication",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781032054902",
+        "description": "Public Rituals in the Portuguese Empire 1498\u20131822",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781032935447",
+        "description": "The Post-Pandemic University",
+        "setupdate": "2026-11-12"
+    },
+    {
         "code": "9781009563116",
         "description": "A Practical Guide for Women in Physics",
         "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781032586700",
+        "description": "Sexual Diversity in Sinophone Cultures",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781032941547",
+        "description": "The Post-Pandemic University",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781032966694",
+        "description": "Mothering in the Colonies",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041129288",
+        "description": "Machine Learning in Health Care",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041024828",
+        "description": "Passive Heat Transfer Enhancement Techniques",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041169697",
+        "description": "Rosewood",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041274216",
+        "description": "The Role of High-Power Microwave Weapons in Modern Warfare",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781032896861",
+        "description": "The Sources of Medieval Canon Law",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781032875194",
+        "description": "NanoFarming",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781032591452",
+        "description": "GCSE Literature Boost Jekyll & Hyde",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781032403731",
+        "description": "Music Performers Lived Experiences",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041130741",
+        "description": "Body Business",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041220435",
+        "description": "Design",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041209577",
+        "description": "Making Radio & Podcasts",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041305569",
+        "description": "Lean Transformation",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041131663",
+        "description": "Machine Learning in Health Care",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041209539",
+        "description": "Making Radio & Podcasts",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781032781815",
+        "description": "Educational Finance in India",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041260370",
+        "description": "A Concise Guide to Continuity of Care in Midwifery",
+        "setupdate": "2026-11-12"
     },
     {
         "code": "9781009428767",
@@ -1001305,6 +1001625,41 @@
         "setupdate": "2026-11-03"
     },
     {
+        "code": "9781032784311",
+        "description": "Silent Mothers Invisible Fathers & Remembered Children",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041108221",
+        "description": "Accessible + Inclusive Design for Technical Communication",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781032895819",
+        "description": "A Primer on Post-Quantum Cryptography",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041053170",
+        "description": "Human-Centric Artificial Intelligence",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041125426",
+        "description": "Borders & Sanitation from the Seventeenth to the Twenty-Fi",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781032419879",
+        "description": "Introduction to Data Science",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041210757",
+        "description": "Sexuality & Chronic Illness",
+        "setupdate": "2026-11-12"
+    },
+    {
         "code": "9781009843065",
         "description": "Disclosure Laws in the Digital Era",
         "setupdate": "2026-11-03"
@@ -1001355,8 +1001710,143 @@
         "setupdate": "2026-11-03"
     },
     {
+        "code": "9781041228035",
+        "description": "Biohydrogen Technologies",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781032896878",
+        "description": "The Sources of Medieval Canon Law",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041028130",
+        "description": "The 55 Laws of Business Survival",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041059998",
+        "description": "Long-Term Care for Older Adults",
+        "setupdate": "2026-11-12"
+    },
+    {
         "code": "9781047762212",
         "description": "Emergence & Phase Transitions in Uniform Random Graphs",
         "setupdate": "2026-11-03"
+    },
+    {
+        "code": "9781032844671",
+        "description": "Pauline Tarnowskys Les Femmes Homicides",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041038801",
+        "description": "The Cities of Song China I",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041211211",
+        "description": "Sexuality & Chronic Illness",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781032997070",
+        "description": "Guide to the De-Identification of Personal Health Informat",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041274896",
+        "description": "Software Development",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781032517926",
+        "description": "Parliament & the Invention of Legislative Power",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781032591445",
+        "description": "GCSE Literature Boost Jekyll & Hyde",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041038092",
+        "description": "The 55 Laws of Business Survival",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041063261",
+        "description": "Third Space Approach to Media Literacy",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041125358",
+        "description": "Bioethics in & of the Archive",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041290247",
+        "description": "Economic Growth Social Equity & Sustainable Development",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781032512969",
+        "description": "New Critical Infrastructure Challenges & Solutions",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781032978253",
+        "description": "FIDIC Contracts in Asia Pacific",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041171270",
+        "description": "Generating Syntactic Categories",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781032894775",
+        "description": "A Primer on Post-Quantum Cryptography",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041046882",
+        "description": "Sport & the Environment",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041274889",
+        "description": "Software Development",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041060017",
+        "description": "Long-Term Care for Older Adults",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781032994123",
+        "description": "Guide to the De-Identification of Personal Health Informat",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781041260363",
+        "description": "A Concise Guide to Continuity of Care in Midwifery",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781032966687",
+        "description": "Mothering in the Colonies",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9780415449823",
+        "description": "Collected Works of William Morris",
+        "setupdate": "2026-11-12"
+    },
+    {
+        "code": "9781032111322",
+        "description": "Unlocking EU Law",
+        "setupdate": "2024-02-08"
     }
 ]
