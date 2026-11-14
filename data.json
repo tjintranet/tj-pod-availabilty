@@ -589885,6 +589885,11 @@
         "setupdate": "2024-02-12"
     },
     {
+        "code": "9781107024427",
+        "description": "The Shadow-Lin",
+        "setupdate": "2026-05-18"
+    },
+    {
         "code": "9781032206509",
         "description": "Foundations of Quantitative Finance Book V",
         "setupdate": "2024-02-08"
@@ -908015,11 +908020,6 @@
         "setupdate": "2026-05-22"
     },
     {
-        "code": "9781107024427",
-        "description": "The Shadow-Lin",
-        "setupdate": "2026-05-18"
-    },
-    {
         "code": "9780849311789",
         "description": "Run-to-Run Control in Semiconductor Manufacturing",
         "setupdate": "2026-05-19"
@@ -1001848,5 +1001848,10 @@
         "code": "9781032111322",
         "description": "Unlocking EU Law",
         "setupdate": "2024-02-08"
+    },
+    {
+        "code": "9780552158480",
+        "description": "THE SUMMER HOUSE (011)",
+        "setupdate": "2026-11-13"
     }
 ]
