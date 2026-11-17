@@ -42340,6 +42340,11 @@
         "setupdate": "2024-05-31"
     },
     {
+        "code": "9781041095187",
+        "description": "Human-Computer Interaction",
+        "setupdate": "2026-11-16"
+    },
+    {
         "code": "9780805858679",
         "description": "Applied Measurement",
         "setupdate": "2012-08-15"
@@ -615695,11 +615700,6 @@
         "setupdate": "2024-08-02"
     },
     {
-        "code": "9781032116556",
-        "description": "Introduction to Data Science",
-        "setupdate": "2024-08-02"
-    },
-    {
         "code": "9781032121123",
         "description": "Construction Company Management",
         "setupdate": "2024-08-02"
@@ -926805,16 +926805,6 @@
         "setupdate": "2026-06-15"
     },
     {
-        "code": "9781009206204",
-        "description": "The New Cambridge History of the English Language V6.1",
-        "setupdate": "2026-06-15"
-    },
-    {
-        "code": "9781009748179",
-        "description": "The New Cambridge History of the English Language V6.2",
-        "setupdate": "2026-06-15"
-    },
-    {
         "code": "9781041019008",
         "description": "Strategic Management in the Creative & Cultural Industries",
         "setupdate": "2026-06-23"
@@ -931872,11 +931862,6 @@
     {
         "code": "9781009589420",
         "description": "Theorizing Hedging",
-        "setupdate": "2026-06-22"
-    },
-    {
-        "code": "9781009545495",
-        "description": "Auerbach's Renaissance",
         "setupdate": "2026-06-22"
     },
     {
@@ -950257,11 +950242,6 @@
     {
         "code": "9781108491969",
         "description": "The Italian Idea",
-        "setupdate": "2026-07-27"
-    },
-    {
-        "code": "9781108495998",
-        "description": "Jan Tinbergen (1903-1994) & the Rise of Economic Expertise",
         "setupdate": "2026-07-27"
     },
     {
@@ -995235,11 +995215,6 @@
         "setupdate": "2026-10-29"
     },
     {
-        "code": "9781032419862",
-        "description": "Introduction to Data Science",
-        "setupdate": "2026-10-29"
-    },
-    {
         "code": "9781032961569",
         "description": "Bangladesh in Anglophone & Vernacular Literature",
         "setupdate": "2026-10-28"
@@ -995425,11 +995400,6 @@
         "setupdate": "2026-10-27"
     },
     {
-        "code": "9781108837354",
-        "description": "The Cambridge History of Rights",
-        "setupdate": "2026-10-27"
-    },
-    {
         "code": "9781107098633",
         "description": "Dickens & the Business of Death",
         "setupdate": "2026-10-27"
@@ -995453,11 +995423,6 @@
         "code": "9781041080145",
         "description": "West European Prime Ministers",
         "setupdate": "2026-10-28"
-    },
-    {
-        "code": "9781316513217",
-        "description": "The Roman Emperor & His Court c. 30 BC\u2013c. AD 300",
-        "setupdate": "2026-10-27"
     },
     {
         "code": "9781316519097",
@@ -1001858,5 +1001823,360 @@
         "code": "9780552158480",
         "description": "THE SUMMER HOUSE (011)",
         "setupdate": "2026-11-13"
+    },
+    {
+        "code": "9781108837354",
+        "description": "The Cambridge History of Rights",
+        "setupdate": "2026-10-27"
+    },
+    {
+        "code": "9781009206204",
+        "description": "The New Cambridge History of the English Language V6.1",
+        "setupdate": "2026-06-15"
+    },
+    {
+        "code": "9781009748179",
+        "description": "The New Cambridge History of the English Language V6.2",
+        "setupdate": "2026-06-15"
+    },
+    {
+        "code": "9781316513217",
+        "description": "The Roman Emperor & His Court c. 30 BC\u2013c. AD 300",
+        "setupdate": "2026-10-27"
+    },
+    {
+        "code": "9781009545495",
+        "description": "Auerbach's Renaissance",
+        "setupdate": "2026-06-22"
+    },
+    {
+        "code": "9781108495998",
+        "description": "Jan Tinbergen (1903-1994) & the Rise of Economic Expertise",
+        "setupdate": "2026-07-27"
+    },
+    {
+        "code": "9781032964140",
+        "description": "Understanding & Taking Control of Menopausal Symptoms",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781466571839",
+        "description": "Understanding Chemistry through Cars",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781032794877",
+        "description": "Working with Domestic Violence & Coercive Control in Clini",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781032788173",
+        "description": "Working with Domestic Violence & Coercive Control in Clini",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781779642349",
+        "description": "Natural Products to Emerging Technologies 2 Volume Set",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781779642516",
+        "description": "Nanotechnology in Fisheries and Aquaculture 2 Vol Set",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781779644473",
+        "description": "Biotechnological Approaches in Vegetable Crops 2 Vol Set",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781032519388",
+        "description": "Introduction to Data Science 2 Volume Set",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781032664415",
+        "description": "Critical Thinking & Creativity in Content & Language Integ",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041078746",
+        "description": "Vulnerability & Reliability of Hydraulic Structures",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041032786",
+        "description": "The Troublesome Dead",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041217534",
+        "description": "Neo-Calvinism & Capitalism",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041331940",
+        "description": "Building Fantasy Worlds",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041338079",
+        "description": "The Journey of the Alienated Child",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041385202",
+        "description": "Philosophy of Construction",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041388005",
+        "description": "Philosophy of Construction",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9789048562473",
+        "description": "The Rise of Private Museums & Heritage in East & Southeast",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041219613",
+        "description": "Ai Xiaoming",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041009887",
+        "description": "Reading Lacan\u2019s Autres \u00c9crits Sections I & II",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041382959",
+        "description": "Central & Eastern Europeans in North American Literature &",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041261407",
+        "description": "Mothers & Children",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041368557",
+        "description": "Managing Tourism Impacts",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781032414836",
+        "description": "Kabbalistic Psychology & the Shadow of the Western Mind",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041244097",
+        "description": "Reimagining Learning & Curriculum in the Face of Crisis",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041290148",
+        "description": "Why Are We Publishing & Who Are We Researching For",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041041719",
+        "description": "Becoming a Professional School Psychologist",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781032881294",
+        "description": "Experiencing Political Conflict",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781032457413",
+        "description": "Global Organized Crime",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781032729565",
+        "description": "Handbook of Human & Social Conditions in Assessment",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041041696",
+        "description": "Becoming a Professional School Psychologist",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781032959481",
+        "description": "Technology-Facilitated Sexual Violence in India",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781032716091",
+        "description": "The Politics of Bureaucracy",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041457206",
+        "description": "Recent Advances in Multidisciplinary Engineering",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041015833",
+        "description": "A Panda the Nation Could Not See",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041032755",
+        "description": "The Troublesome Dead",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041112594",
+        "description": "Nature Talks",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041034568",
+        "description": "Ending Violence against Women & Girls",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041288992",
+        "description": "Why Are We Publishing & Who Are We Researching For",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041261414",
+        "description": "Mothers & Children",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041312130",
+        "description": "Supporting Grieving Children & Young People",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041387688",
+        "description": "Vulnerability Unveiled",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041372998",
+        "description": "Teaching Literature",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041338062",
+        "description": "The Journey of the Alienated Child",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781032457437",
+        "description": "Global Organized Crime",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781032830940",
+        "description": "American Indian & Indigenous Rhetorics",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781032830964",
+        "description": "American Indian & Indigenous Rhetorics",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781032739151",
+        "description": "Handbook of Human & Social Conditions in Assessment",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781032818900",
+        "description": "Philhellenism & the Greek Revolution of 1821",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041323983",
+        "description": "Indonesia\u2019s Humanitarian Islam Movement",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041364979",
+        "description": "Reimagining Educational Leadership in East Africa",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041453239",
+        "description": "A Comparative Analysis of Classifier-Noun Structures in Ch",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781032414744",
+        "description": "Kabbalistic Psychology & the Shadow of the Western Mind",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781032906409",
+        "description": "Migrants in the Rise of Social Protection",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041332893",
+        "description": "Decarbonization That Works",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041002376",
+        "description": "Successful STEM Mentoring Initiatives",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041112587",
+        "description": "Nature Talks",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041215066",
+        "description": "Ai Xiaoming",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041244172",
+        "description": "Reimagining Learning & Curriculum in the Face of Crisis",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041403319",
+        "description": "Symbiotic Strategy & Organizational Growth in Complex Busi",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041396321",
+        "description": "Dark Side of Transnationalism",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041331957",
+        "description": "Building Fantasy Worlds",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9789048570843",
+        "description": "Resisting Settler Colonialism in Palestine",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781041368540",
+        "description": "Managing Tourism Impacts",
+        "setupdate": "2026-11-16"
+    },
+    {
+        "code": "9781032116556",
+        "description": "Introduction to Data Science Vol 1",
+        "setupdate": "2024-08-02"
+    },
+    {
+        "code": "9781032419862",
+        "description": "Introduction to Data Science Vol 2",
+        "setupdate": "2026-10-29"
     }
 ]
