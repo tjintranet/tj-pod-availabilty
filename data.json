@@ -615700,6 +615700,11 @@
         "setupdate": "2024-08-02"
     },
     {
+        "code": "9781108830935",
+        "description": "Human Salvage",
+        "setupdate": "2026-10-30"
+    },
+    {
         "code": "9781032121123",
         "description": "Construction Company Management",
         "setupdate": "2024-08-02"
@@ -926810,6 +926815,11 @@
         "setupdate": "2026-06-23"
     },
     {
+        "code": "9780224083171",
+        "description": "THE PHANTOM OF THE OPEN (014)",
+        "setupdate": "2026-11-17"
+    },
+    {
         "code": "9781041051596",
         "description": "Animal-Human Telepathic Connections",
         "setupdate": "2026-06-23"
@@ -998790,11 +998800,6 @@
         "setupdate": "2026-10-30"
     },
     {
-        "code": "9781108830935",
-        "description": "Human Salvage",
-        "setupdate": "2026-10-30"
-    },
-    {
         "code": "9780415278348",
         "description": "Essays on Contemporary Events",
         "setupdate": "2026-10-29"
@@ -1001890,6 +1001895,46 @@
         "setupdate": "2026-11-16"
     },
     {
+        "code": "9781784703370",
+        "description": "CHASING THE GHOST (002)",
+        "setupdate": "2026-11-17"
+    },
+    {
+        "code": "9780099485056",
+        "description": "THE POSITION (016)",
+        "setupdate": "2026-11-17"
+    },
+    {
+        "code": "9780099523284",
+        "description": "THE ASSOCIATION OF SMALL BOMBS (003)",
+        "setupdate": "2026-11-17"
+    },
+    {
+        "code": "9781845951610",
+        "description": "NANCY THE STORY OF LADY ASTOR (012)",
+        "setupdate": "2026-11-17"
+    },
+    {
+        "code": "9780099502692",
+        "description": "FRENCH WOMEN FOR ALL SEASONS (015)",
+        "setupdate": "2026-11-17"
+    },
+    {
+        "code": "9780099569978",
+        "description": "THE QUICK (006)",
+        "setupdate": "2026-11-17"
+    },
+    {
+        "code": "9780099839408",
+        "description": "BABEL TOWER (024)",
+        "setupdate": "2026-11-17"
+    },
+    {
+        "code": "9781784706630",
+        "description": "BLACK CAR BURNING (004)",
+        "setupdate": "2026-11-17"
+    },
+    {
         "code": "9781032519388",
         "description": "Introduction to Data Science 2 Volume Set",
         "setupdate": "2026-11-16"
@@ -1002145,6 +1002190,16 @@
         "setupdate": "2026-11-16"
     },
     {
+        "code": "9780099593140",
+        "description": "THE ALL-GIRL FILLING STATION'S LAST REUNION (012)",
+        "setupdate": "2026-11-17"
+    },
+    {
+        "code": "9781041358558",
+        "description": "The Autonomous Language Learning Toolkit",
+        "setupdate": "2026-11-17"
+    },
+    {
         "code": "9781041403319",
         "description": "Symbiotic Strategy & Organizational Growth in Complex Busi",
         "setupdate": "2026-11-16"
@@ -1002178,5 +1002233,20 @@
         "code": "9781032419862",
         "description": "Introduction to Data Science Vol 2",
         "setupdate": "2026-10-29"
+    },
+    {
+        "code": "9781041168348",
+        "description": "The Volunteer Fundraisers Handbook",
+        "setupdate": "2026-11-17"
+    },
+    {
+        "code": "2048713403026",
+        "description": "[2026] 3 COPLR 3",
+        "setupdate": "2026-11-17"
+    },
+    {
+        "code": "9781911623113",
+        "description": "Cambridge Textbook of Neuroscience for Psychiatrists",
+        "setupdate": "2026-11-17"
     }
 ]
