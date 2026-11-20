@@ -82510,6 +82510,11 @@
         "setupdate": "2026-08-18"
     },
     {
+        "code": "9781009573702",
+        "description": "Born Sick in the USA",
+        "setupdate": "2026-10-27"
+    },
+    {
         "code": "9780415842488",
         "description": "Inspiring the Secondary Curriculum with Technology",
         "setupdate": "2014-10-29"
@@ -261780,6 +261785,11 @@
         "setupdate": "2017-09-04"
     },
     {
+        "code": "9781316512975",
+        "description": "Uniting Nations",
+        "setupdate": "2026-05-18"
+    },
+    {
         "code": "9780415530781",
         "description": "Human Rights and Environment Vol IV",
         "setupdate": "2017-09-04"
@@ -261828,6 +261838,11 @@
         "code": "9781138055834",
         "description": "Teaching Students to Dig Deeper",
         "setupdate": "2017-09-04"
+    },
+    {
+        "code": "9781009535168",
+        "description": "The Cambridge Encyclopaedia of Late Antique Art & Archaeol",
+        "setupdate": "2026-10-27"
     },
     {
         "code": "9781138095687",
@@ -400820,6 +400835,16 @@
         "setupdate": "2022-01-20"
     },
     {
+        "code": "9781009535106",
+        "description": "The Cambridge Encyclopaedia of Late Antique Art & Archaeol",
+        "setupdate": "2026-10-27"
+    },
+    {
+        "code": "9781107151451",
+        "description": "George Herbert: 100 Poems",
+        "setupdate": "2026-10-27"
+    },
+    {
         "code": "9781032007304",
         "description": "Illiberal Constitutionalism in Poland",
         "setupdate": "2022-01-20"
@@ -401018,6 +401043,16 @@
         "code": "9780367362416",
         "description": "Behavioral Public Economics",
         "setupdate": "2022-01-20"
+    },
+    {
+        "code": "9781108834513",
+        "description": "The Cambridge Urban History of Europe",
+        "setupdate": "2026-10-27"
+    },
+    {
+        "code": "9781107080218",
+        "description": "George Frideric Handel",
+        "setupdate": "2026-05-18"
     },
     {
         "code": "9781032007366",
@@ -401868,6 +401903,11 @@
         "code": "9781032049670",
         "description": "Religion Politics and Social Protest",
         "setupdate": "2022-01-25"
+    },
+    {
+        "code": "9781784701918",
+        "description": "THAT'S NOT ENGLISH (012)",
+        "setupdate": "2026-11-19"
     },
     {
         "code": "9781138615700",
@@ -907870,11 +907910,6 @@
         "setupdate": "2026-05-18"
     },
     {
-        "code": "9781107080218",
-        "description": "George Frideric Handel",
-        "setupdate": "2026-05-18"
-    },
-    {
         "code": "9781107088108",
         "description": "Jewish Radical Ultra-Orthodoxy Confronts Modernity Zionism",
         "setupdate": "2026-05-18"
@@ -908252,11 +908287,6 @@
     {
         "code": "9781108491495",
         "description": "The Nero-Antichrist",
-        "setupdate": "2026-05-18"
-    },
-    {
-        "code": "9781316512975",
-        "description": "Uniting Nations",
         "setupdate": "2026-05-18"
     },
     {
@@ -995065,11 +995095,6 @@
         "setupdate": "2026-10-27"
     },
     {
-        "code": "9781107151451",
-        "description": "George Herbert: 100 Poems",
-        "setupdate": "2026-10-27"
-    },
-    {
         "code": "9781107186378",
         "description": "The Collapse of the Mycenaean Economy",
         "setupdate": "2026-10-27"
@@ -995342,11 +995367,6 @@
     {
         "code": "9781108427067",
         "description": "The Cambridge History of Nationhood & Nationalism",
-        "setupdate": "2026-10-27"
-    },
-    {
-        "code": "9781108834513",
-        "description": "The Cambridge Urban History of Europe",
         "setupdate": "2026-10-27"
     },
     {
@@ -996062,16 +996082,6 @@
     {
         "code": "9781107038578",
         "description": "The Stationers' Company & the Printers of London 1501\u20131557",
-        "setupdate": "2026-10-27"
-    },
-    {
-        "code": "9781009535106",
-        "description": "The Cambridge Encyclopaedia of Late Antique Art & Archaeol",
-        "setupdate": "2026-10-27"
-    },
-    {
-        "code": "9781009535168",
-        "description": "The Cambridge Encyclopaedia of Late Antique Art & Archaeol",
         "setupdate": "2026-10-27"
     },
     {
@@ -997332,11 +997342,6 @@
     {
         "code": "9781316606346",
         "description": "Civil Dispute Resolution",
-        "setupdate": "2026-10-27"
-    },
-    {
-        "code": "9781009573702",
-        "description": "Born Sick in the USA",
         "setupdate": "2026-10-27"
     },
     {
@@ -998745,11 +998750,6 @@
         "setupdate": "2026-10-30"
     },
     {
-        "code": "9781009841955",
-        "description": "A Right Not a Privilege",
-        "setupdate": "2026-10-30"
-    },
-    {
         "code": "9781009866705",
         "description": "How Propaganda Wins",
         "setupdate": "2026-10-30"
@@ -998777,6 +998777,11 @@
     {
         "code": "9781108493253",
         "description": "The Legal Mind",
+        "setupdate": "2026-10-30"
+    },
+    {
+        "code": "9781009841955",
+        "description": "A Right Not a Privilege",
         "setupdate": "2026-10-30"
     },
     {
