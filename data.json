@@ -356585,6 +356585,11 @@
         "setupdate": "2021-06-07"
     },
     {
+        "code": "9781108495929",
+        "description": "Family Power",
+        "setupdate": "2026-05-25"
+    },
+    {
         "code": "9780367367626",
         "description": "Political Ideologies",
         "setupdate": "2021-06-07"
@@ -907910,6 +907915,11 @@
         "setupdate": "2026-05-18"
     },
     {
+        "code": "9781009340236",
+        "description": "Dreams & Songs to Sing",
+        "setupdate": "2026-10-30"
+    },
+    {
         "code": "9781107088108",
         "description": "Jewish Radical Ultra-Orthodoxy Confronts Modernity Zionism",
         "setupdate": "2026-05-18"
@@ -908288,6 +908298,11 @@
         "code": "9781108491495",
         "description": "The Nero-Antichrist",
         "setupdate": "2026-05-18"
+    },
+    {
+        "code": "9781009350594",
+        "description": "The World of Leonard Cohen",
+        "setupdate": "2026-10-27"
     },
     {
         "code": "9781108487825",
@@ -916525,11 +916540,6 @@
         "setupdate": "2026-05-25"
     },
     {
-        "code": "9781108495929",
-        "description": "Family Power",
-        "setupdate": "2026-05-25"
-    },
-    {
         "code": "9781108422703",
         "description": "The Cambridge Companion to Apocalyptic Literature",
         "setupdate": "2026-05-25"
@@ -917127,11 +917137,6 @@
     {
         "code": "9781107434158",
         "description": "Sign Language Linguistics",
-        "setupdate": "2026-05-25"
-    },
-    {
-        "code": "9781009412650",
-        "description": "Enough",
         "setupdate": "2026-05-25"
     },
     {
@@ -970570,6 +970575,11 @@
         "setupdate": "2026-08-10"
     },
     {
+        "code": "9781009412650",
+        "description": "Enough",
+        "setupdate": "2026-05-25"
+    },
+    {
         "code": "9781107421523",
         "description": "Emerging Market Multinationals",
         "setupdate": "2026-08-10"
@@ -996950,11 +996960,6 @@
         "setupdate": "2026-10-27"
     },
     {
-        "code": "9781009350594",
-        "description": "The World of Leonard Cohen",
-        "setupdate": "2026-10-27"
-    },
-    {
         "code": "9781316644768",
         "description": "Plagues",
         "setupdate": "2026-10-27"
@@ -998982,11 +998987,6 @@
     {
         "code": "9781009840330",
         "description": "Becoming Agarwal",
-        "setupdate": "2026-10-30"
-    },
-    {
-        "code": "9781009340236",
-        "description": "Dreams & Songs to Sing",
         "setupdate": "2026-10-30"
     },
     {
