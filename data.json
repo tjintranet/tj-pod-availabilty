@@ -263250,6 +263250,11 @@
         "setupdate": "2017-09-11"
     },
     {
+        "code": "1472645923026",
+        "description": "[2026] 3 FCR 7",
+        "setupdate": "2026-11-24"
+    },
+    {
         "code": "9781138466609",
         "description": "Arctic Opening",
         "setupdate": "2017-09-11"
@@ -995745,6 +995750,11 @@
         "setupdate": "2026-10-28"
     },
     {
+        "code": "9780552151832",
+        "description": "ONE DAY AT A TIME (014)",
+        "setupdate": "2026-11-24"
+    },
+    {
         "code": "9789058091048",
         "description": "Characterization of Soft Marine Clays",
         "setupdate": "2026-10-29"
@@ -1003525,6 +1003535,16 @@
         "setupdate": "2026-11-23"
     },
     {
+        "code": "9780099594758",
+        "description": "NO-ONE EVER HAS SEX ON A TUESDAY (018)",
+        "setupdate": "2026-11-24"
+    },
+    {
+        "code": "9781138652910",
+        "description": "The History of Banking I 1650-1850 Vol X",
+        "setupdate": "2026-11-24"
+    },
+    {
         "code": "9781041100959",
         "description": "Social Connection through Film & Natural Environments",
         "setupdate": "2026-11-23"
@@ -1003573,6 +1003593,11 @@
         "code": "9781041141129",
         "description": "Lignin-Based Materials",
         "setupdate": "2026-11-23"
+    },
+    {
+        "code": "9781041361596",
+        "description": "The Legacy of China\u2019s Emperor for Life",
+        "setupdate": "2026-11-24"
     },
     {
         "code": "9781041019428",
@@ -1003975,6 +1004000,41 @@
         "setupdate": "2026-11-23"
     },
     {
+        "code": "9781041453468",
+        "description": "The Planet Doesnt Give a Damn",
+        "setupdate": "2026-11-24"
+    },
+    {
+        "code": "9781138652712",
+        "description": "The History of Banking I 1650-1850 Vol III",
+        "setupdate": "2026-11-24"
+    },
+    {
+        "code": "9781138652699",
+        "description": "The History of Banking I 1650-1850 Vol I",
+        "setupdate": "2026-11-24"
+    },
+    {
+        "code": "9781851961269",
+        "description": "The History of Banking I 1650-1850 \u2013 10 volume set",
+        "setupdate": "2026-11-24"
+    },
+    {
+        "code": "9781138652705",
+        "description": "The History of Banking I 1650-1850 Vol II",
+        "setupdate": "2026-11-24"
+    },
+    {
+        "code": "9781138652743",
+        "description": "The History of Banking I 1650-1850 Vol IV",
+        "setupdate": "2026-11-24"
+    },
+    {
+        "code": "9781138652750",
+        "description": "The History of Banking I 1650-1850 Vol V",
+        "setupdate": "2026-11-24"
+    },
+    {
         "code": "9781032183442",
         "description": "Medical English Core Course",
         "setupdate": "2026-11-23"
@@ -1004185,6 +1004245,21 @@
         "setupdate": "2026-11-23"
     },
     {
+        "code": "9781138652767",
+        "description": "The History of Banking I 1650-1850 Vol VI",
+        "setupdate": "2026-11-24"
+    },
+    {
+        "code": "9781138652781",
+        "description": "The History of Banking I 1650-1850 Vol VII",
+        "setupdate": "2026-11-24"
+    },
+    {
+        "code": "9781138652866",
+        "description": "The History of Banking I 1650-1850 Vol VIII",
+        "setupdate": "2026-11-24"
+    },
+    {
         "code": "9781032628912",
         "description": "Political Economy of Eco-sustainable Alternatives",
         "setupdate": "2026-11-23"
@@ -1004213,5 +1004288,10 @@
         "code": "9781041043881",
         "description": "The Routledge Handbook on Asia\u2013Africa Engagement",
         "setupdate": "2026-11-23"
+    },
+    {
+        "code": "9781138652903",
+        "description": "The History of Banking I 1650-1850 Vol IX",
+        "setupdate": "2026-11-24"
     }
 ]
