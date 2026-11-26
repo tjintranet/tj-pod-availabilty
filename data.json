@@ -43595,6 +43595,11 @@
         "setupdate": "2026-08-14"
     },
     {
+        "code": "9780415936873",
+        "description": "Deconstruction A Reader",
+        "setupdate": "2026-11-25"
+    },
+    {
         "code": "9781439876343",
         "description": "Physics of Coal and Mining Processes",
         "setupdate": "2012-05-01"
@@ -61828,6 +61833,11 @@
         "code": "9780415246323",
         "description": "Evidence-Based Patient Handling",
         "setupdate": "2014-03-21"
+    },
+    {
+        "code": "9781041334910",
+        "description": "Teaching in the Wobble",
+        "setupdate": "2026-11-25"
     },
     {
         "code": "9780415227100",
@@ -142617,11 +142627,6 @@
     {
         "code": "9781594516757",
         "description": "Protecting the Global Environment",
-        "setupdate": "2015-11-06"
-    },
-    {
-        "code": "9781594516924",
-        "description": "Sixties at 40",
         "setupdate": "2015-11-06"
     },
     {
@@ -284380,11 +284385,6 @@
         "setupdate": "2016-09-30"
     },
     {
-        "code": "9780415763493",
-        "description": "Forgiveness & Reconciliation",
-        "setupdate": "2014-08-28"
-    },
-    {
         "code": "9781138066571",
         "description": "Urban Climate Challenge",
         "setupdate": "2017-03-14"
@@ -383017,11 +383017,6 @@
     {
         "code": "9780367479299",
         "description": "Digital Cultures Lived Stories & Virtual Reality",
-        "setupdate": "2021-11-05"
-    },
-    {
-        "code": "9781032016283",
-        "description": "How Writing Works",
         "setupdate": "2021-11-05"
     },
     {
@@ -883645,11 +883640,6 @@
         "setupdate": "2026-03-18"
     },
     {
-        "code": "9781041196945",
-        "description": "Suck Less in the Classroom Tomorrow",
-        "setupdate": "2026-03-18"
-    },
-    {
         "code": "9781041231530",
         "description": "Writing COVID-19 Lives",
         "setupdate": "2026-03-18"
@@ -1003545,6 +1003535,71 @@
         "setupdate": "2026-11-24"
     },
     {
+        "code": "9781138135666",
+        "description": "How the Best Teachers Differentiate Instruction",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781420083446",
+        "description": "Extra-Solar Planets",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781138228795",
+        "description": "Family Self & Human Development Across Cultures",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781594516924",
+        "description": "Sixties at 40",
+        "setupdate": "2015-11-06"
+    },
+    {
+        "code": "9781041402244",
+        "description": "Anatomy & Dissection in Nineteenth-Century Britain - Vol 3",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041040477",
+        "description": "Uncertain Facts & Certain Fictions",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9780367276621",
+        "description": "Solution-Focused Therapy & Counseling with Children Young",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041116790",
+        "description": "Mentoring Instructional Designers in Higher Education",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041225676",
+        "description": "Hannah Arendt & Contemporary Crises in Education",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041254256",
+        "description": "Hegel on the Life of the Mind",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781032668697",
+        "description": "Nordic Variations of Protestant Governance",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781032952192",
+        "description": "Domain-Specific Computer Architectures for Emerging Applic",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041218142",
+        "description": "Monitoring Workloads in Team Sports",
+        "setupdate": "2026-11-25"
+    },
+    {
         "code": "9781041100959",
         "description": "Social Connection through Film & Natural Environments",
         "setupdate": "2026-11-23"
@@ -1003598,6 +1003653,36 @@
         "code": "9781041361596",
         "description": "The Legacy of China\u2019s Emperor for Life",
         "setupdate": "2026-11-24"
+    },
+    {
+        "code": "9781041550280",
+        "description": "US-Japan Human Rights Diplomacy Post 1945",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041550303",
+        "description": "US-Japan Human Rights Diplomacy Post 1945",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781859736883",
+        "description": "Wounded Cities",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041402237",
+        "description": "Anatomy & Dissection in Nineteenth-Century Britain - Vol 2",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041121596",
+        "description": "Advanced 2D Materials-based Solar Cells",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781032517889",
+        "description": "The World of Michael Jackson Followers",
+        "setupdate": "2026-11-25"
     },
     {
         "code": "9781041019428",
@@ -1004020,6 +1004105,16 @@
         "setupdate": "2026-11-24"
     },
     {
+        "code": "9781032750460",
+        "description": "Anatomy and Dissection in 19th-Century Britain Vol Set",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041402220",
+        "description": "Anatomy & Dissection in Nineteenth-Century Britain - Vol 1",
+        "setupdate": "2026-11-25"
+    },
+    {
         "code": "9781138652705",
         "description": "The History of Banking I 1650-1850 Vol II",
         "setupdate": "2026-11-24"
@@ -1004033,6 +1004128,76 @@
         "code": "9781138652750",
         "description": "The History of Banking I 1650-1850 Vol V",
         "setupdate": "2026-11-24"
+    },
+    {
+        "code": "9780750984478",
+        "description": "Blue Badge Guides Liverpool Quiz Books",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041135425",
+        "description": "South Sudanese Displacement & State-Making",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781032891330",
+        "description": "Documenting Family Information & the Curation of Life Hist",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041005674",
+        "description": "How to Build Accessible Games",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781032368610",
+        "description": "Social Justice Criminal Justice",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781032891552",
+        "description": "Introduction to Psychosexual Medicine",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041005667",
+        "description": "How to Build Accessible Games",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041209867",
+        "description": "The Unconscious & the Family",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781032518695",
+        "description": "Marine Meteorology",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041035244",
+        "description": "Public Spaces & the Politics of Citizen Participation",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041122333",
+        "description": "Beyond the Screen",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041305620",
+        "description": "Geospatial Intelligence in Disaster Management",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781032899091",
+        "description": "Changing the Record",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781032314075",
+        "description": "Medical Arthropodology",
+        "setupdate": "2026-11-25"
     },
     {
         "code": "9781032183442",
@@ -1004260,6 +1004425,31 @@
         "setupdate": "2026-11-24"
     },
     {
+        "code": "1746670902024",
+        "description": "Journal of Professional Negligence 40.2",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041407164",
+        "description": "The Planet Doesnt Give a Damn",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041439301",
+        "description": "Communism & Agrarian Reform in Iraq",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041308560",
+        "description": "Communication for Community Development in Africa\u2019s Extrac",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781032749358",
+        "description": "Evidence-Based Practice in Criminal Justice",
+        "setupdate": "2026-11-25"
+    },
+    {
         "code": "9781032628912",
         "description": "Political Economy of Eco-sustainable Alternatives",
         "setupdate": "2026-11-23"
@@ -1004293,5 +1004483,135 @@
         "code": "9781138652903",
         "description": "The History of Banking I 1650-1850 Vol IX",
         "setupdate": "2026-11-24"
+    },
+    {
+        "code": "1746670903024",
+        "description": "Journal of Professional Negligence 40.3",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "1746670904024",
+        "description": "Journal of Professional Negligence 40.4",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "1746670901024",
+        "description": "Journal of Professional Negligence 40.1",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041433453",
+        "description": "Teacher Inquiry & the Curriculum of the Self",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041031345",
+        "description": "Public Spaces & the Politics of Citizen Participation",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9780367276591",
+        "description": "Solution-Focused Therapy & Counseling with Adults",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781032021188",
+        "description": "The History of Technology in the Americas",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9780367276607",
+        "description": "Solution-Focused Therapy & Counseling with Adults",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781032515199",
+        "description": "What Do Teachers Need to Know About Child Mental Health?",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781032482613",
+        "description": "Chemo-Signals in the Rhizomicrobiome",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781032515205",
+        "description": "What Do Teachers Need to Know About Child Mental Health?",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041218159",
+        "description": "Monitoring Workloads in Team Sports",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041046042",
+        "description": "Dialogues in Jurisprudence",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041124863",
+        "description": "New Public Management & Service Delivery in Africa",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781032009063",
+        "description": "The History of Technology in the Americas",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781032749327",
+        "description": "Evidence-Based Practice in Criminal Justice",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781032891514",
+        "description": "Introduction to Psychosexual Medicine",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781032968865",
+        "description": "Ecosystem-Centred Accounting",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9780367276614",
+        "description": "Solution-Focused Therapy & Counseling with Children Young",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781032936505",
+        "description": "Documenting Family Information & the Curation of Life Hist",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041036067",
+        "description": "Energy & Geopolitics",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041169314",
+        "description": "A Beginner\u2019s Guide to Sustainable Energy Systems Modeling",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041440239",
+        "description": "Communist Propaganda Techniques",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041036043",
+        "description": "Energy & Geopolitics",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041209454",
+        "description": "The Unconscious & the Family",
+        "setupdate": "2026-11-25"
+    },
+    {
+        "code": "9781041205166",
+        "description": "The Challenge of American Democracy",
+        "setupdate": "2026-11-25"
     }
 ]
