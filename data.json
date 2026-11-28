@@ -878705,11 +878705,6 @@
         "setupdate": "2026-02-23"
     },
     {
-        "code": "9781108499231",
-        "description": "The Cambridge History of International Law Vol 10",
-        "setupdate": "2026-01-14"
-    },
-    {
         "code": "9789814463676",
         "description": "Carbonated Hydroxyapatite",
         "setupdate": "2026-02-25"
@@ -918322,11 +918317,6 @@
     {
         "code": "9780521191524",
         "description": "The African Methodist Episcopal Church",
-        "setupdate": "2026-06-01"
-    },
-    {
-        "code": "9781107035164",
-        "description": "The Cambridge Comparative History of Ancient Law",
         "setupdate": "2026-06-01"
     },
     {
@@ -996765,11 +996755,6 @@
         "setupdate": "2026-10-27"
     },
     {
-        "code": "9781009692182",
-        "description": "Renewal in Contemporary Islamic Thought & Society",
-        "setupdate": "2026-10-27"
-    },
-    {
         "code": "9781009696456",
         "description": "Imagining Transitional Justice",
         "setupdate": "2026-10-27"
@@ -996823,6 +996808,11 @@
         "code": "9781009718837",
         "description": "An Introduction to Computational Physics",
         "setupdate": "2026-10-27"
+    },
+    {
+        "code": "9781107035164",
+        "description": "The Cambridge Comparative History of Ancient Law",
+        "setupdate": "2026-06-01"
     },
     {
         "code": "9781107124134",
@@ -1004600,6 +1004590,11 @@
         "setupdate": "2026-11-25"
     },
     {
+        "code": "9781009692182",
+        "description": "Renewal in Contemporary Islamic Thought & Society",
+        "setupdate": "2026-10-27"
+    },
+    {
         "code": "9781041169314",
         "description": "A Beginner\u2019s Guide to Sustainable Energy Systems Modeling",
         "setupdate": "2026-11-25"
@@ -1004633,5 +1004628,705 @@
         "code": "9781032445861",
         "description": "Maps & Monsters in Medieval England",
         "setupdate": "2026-11-26"
+    },
+    {
+        "code": "9780521520720",
+        "description": "Boris Pasternak",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521558877",
+        "description": "The Correspondence of Alfred Marshall Economist",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521558884",
+        "description": "The Correspondence of Alfred Marshall Economist",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521572330",
+        "description": "The Cambridge History of Seventeenth-century Philosophy",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521298803",
+        "description": "The Plays of William Wycherley",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521743228",
+        "description": "William Wake v1",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521743273",
+        "description": "William Wake v2",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521318266",
+        "description": "Q. D. Leavis: Collected Essays",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521318259",
+        "description": "Leavis: Collected Essays v2",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521739030",
+        "description": "SAQs for the Final FRCA",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521721509",
+        "description": "Mismanagement of Marine Fisheries",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521689465",
+        "description": "Better Mental Health Care",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521641128",
+        "description": "Eruptions that Shook the World",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009279857",
+        "description": "Caring for the Female Cancer Patient",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521288798",
+        "description": "The Plays of George Etherege",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521295451",
+        "description": "The Selected Plays of John Ford",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521292474",
+        "description": "The Selected Plays of John Marston",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521292351",
+        "description": "The Plays of Cyril Tourneur",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521292436",
+        "description": "Selected Plays of Philip Massinger",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521292368",
+        "description": "The Selected Plays of Middleton",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521289320",
+        "description": "The Comedies of William Congreve",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521271035",
+        "description": "Selected Plays of John Webster",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521089944",
+        "description": "Composite Materials in Maritime Structures",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521100793",
+        "description": "Naturalism & Symbolism in European Theatre 1850\u20131918",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521276771",
+        "description": "Collected Essays v1",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009088374",
+        "description": "Collective Equality",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009586467",
+        "description": "My Own Past",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781108024235",
+        "description": "History of the War in the Peninsula & in the South of Fran",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781108430838",
+        "description": "An Introduction to Astrobiology",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009415293",
+        "description": "Introductory Quantum Optics",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009442985",
+        "description": "Disclosureland",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009513470",
+        "description": "Steven Weinberg: A Life in Physics",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009504799",
+        "description": "A History of East Asia",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009847919",
+        "description": "Trust Is Priceless",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781108824224",
+        "description": "Financial Econometrics",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781107621312",
+        "description": "The Native Languages of South America",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781107513624",
+        "description": "Communication Accommodation Theory",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781107496576",
+        "description": "Language & Complex Systems",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781107492547",
+        "description": "The Semantics of Compounding",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781107569669",
+        "description": "The Evolution of Pragmatic Markers in English",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781108499231",
+        "description": "The Cambridge History of International Law",
+        "setupdate": "2026-01-14"
+    },
+    {
+        "code": "9780521477451",
+        "description": "Statistics & Econometric Models",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521558860",
+        "description": "The Correspondence of Alfred Marshall Economist",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521468404",
+        "description": "An Introduction to Gauge Theories & Modern Particle Physic",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521499514",
+        "description": "An Introduction to Gauge Theories & Modern Particle Physic",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521307635",
+        "description": "The Cambridge History of Seventeenth-Century Philosophy",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521832762",
+        "description": "The Cambridge History of African & Caribbean Literature Vo",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521436014",
+        "description": "All You Wanted to Know about Mathematics but Were Afraid t",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521436007",
+        "description": "All You Wanted to Know about Mathematics but Were Afraid t",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521652049",
+        "description": "The Cambridge History of the Native Peoples of the America",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521351652",
+        "description": "The Cambridge History of the Native Peoples of the America",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521475648",
+        "description": "The Western Medical Tradition",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521292481",
+        "description": "The Selected Plays of Ben Jonson",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521318426",
+        "description": "The Selected Plays of Ben Jonson",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521063869",
+        "description": "Essays in Honor of Kenneth J. Arrow",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521100830",
+        "description": "German & Dutch Theatre 1600\u20131848",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521100878",
+        "description": "French Theatre in the Neo-classical Era 1550\u20131789",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521100854",
+        "description": "Romantic & Revolutionary Theatre 1789\u20131860",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521100861",
+        "description": "National Theatre in Northern & Eastern Europe 1746\u20131900",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521100816",
+        "description": "Restoration & Georgian England 1660-1788",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521100847",
+        "description": "The Medieval European Stage 500\u20131550",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521100823",
+        "description": "English Professional Theatre 1530\u20131660",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521102940",
+        "description": "Dramatic Works of Thomas Dekker v1",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521102957",
+        "description": "Dramatic Works of Thomas Dekker v2",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521102964",
+        "description": "Dramatic Works Thomas Dekker v3",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521102971",
+        "description": "Dramatic Works of Dekker v4",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521102988",
+        "description": "Intro Notes Commentaries Dekker v1",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521102995",
+        "description": "Intro Notes Commentaries Dekker v2",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521103008",
+        "description": "Intro Notes Commentaries Dekker v3",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781108024228",
+        "description": "History of the War in the Peninsula & in the South of Fran",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521196642",
+        "description": "Kant's Doctrine of Right",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521615198",
+        "description": "Earth",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781108437738",
+        "description": "The Cambridge Encyclopedia of the English Language",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781107122024",
+        "description": "Rethinking Human Rights & Global Constitutionalism",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781108496605",
+        "description": "Friends of the Emir",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781108492966",
+        "description": "The Political Lives of Victorian Animals",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781108841764",
+        "description": "Foundations of Modern Physics",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009048569",
+        "description": "Public Health",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781108833165",
+        "description": "Language Activism",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009594851",
+        "description": "Quantum Mechanics",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009656078",
+        "description": "Quantum Computing Unveiled",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781108481878",
+        "description": "The Archaeology of the Tibetan Plateau",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009589949",
+        "description": "Assisting at Surgical Operations",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009631631",
+        "description": "The Cambridge Handbook of Law & Responsible Business",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009694124",
+        "description": "Principles of Behavioral Neuroscience",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009631617",
+        "description": "The Cambridge Handbook of Law & Responsible Business",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009371049",
+        "description": "After the Spanish Civil War",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009694100",
+        "description": "Principles of Behavioral Neuroscience",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009590273",
+        "description": "Intercultural Interactions in Workplace Scholarship",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009535229",
+        "description": "Wall Painting Civic Ceremony & Sacred Space in Early Renai",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009277495",
+        "description": "Diodoros of Sicily: Bibliotheke Historike",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009460415",
+        "description": "How the World Became a Book in Shakespeare's England",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009502122",
+        "description": "The Art of Queenship in the Hellenistic World",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009595131",
+        "description": "Pay Up!",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009532167",
+        "description": "The Temple of Artemis at Sardis",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009594738",
+        "description": "Fluid Mechanics",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009530743",
+        "description": "The Myth of Rebirth in Fascist Ideology",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009530712",
+        "description": "The Myth of Rebirth in Fascist Ideology",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009512961",
+        "description": "Native-Speakerism & Trans-Speakerism",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009470636",
+        "description": "Inquiring into Empire",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009569231",
+        "description": "The Evolution of Jewish Monotheism",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009330435",
+        "description": "Making the World Safe for Investment",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009563864",
+        "description": "Cooperative Complexity",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009379601",
+        "description": "Cold War Asia",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009334662",
+        "description": "States Firms & Their Legal Fictions",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009436137",
+        "description": "The Art of Uncertainty",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009394802",
+        "description": "The Names of the Gods in Ancient Mediterranean Religions",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009257534",
+        "description": "Language Image Gesture",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781107455504",
+        "description": "The Cambridge Handbook of Child Language",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781107579026",
+        "description": "Royal Voices",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781107561007",
+        "description": "Sociolinguistics from the Periphery",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781316508831",
+        "description": "Mixed Methods",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521767224",
+        "description": "Aspect-Oriented Model-Driven Software Product Lines",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009466578",
+        "description": "Move Slow & Upgrade",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009471671",
+        "description": "Tensor Decompositions for Data Science",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009514729",
+        "description": "Quantum Information",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009580694",
+        "description": "Probability Theory for Quantitative Scientists",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009521499",
+        "description": "A Black Army",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009539227",
+        "description": "How to Read an EEG",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009224840",
+        "description": "Civil War & Intrastate Armed Conflict",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521765527",
+        "description": "A Social & Economic History of the Theatre to 300 BC",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009330053",
+        "description": "Assembling India's Constitution",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009526401",
+        "description": "The Cult of the Virgin Mary in Medieval Italy",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009497435",
+        "description": "Best Practice in Labour & Delivery",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009349949",
+        "description": "Introduction to Human Neuroimaging",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521874281",
+        "description": "The Cambridge History of War",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009426800",
+        "description": "The Desire for Syria in Medieval England",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009546539",
+        "description": "The Pattern of Change",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009533980",
+        "description": "The Changing Constitution",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521764421",
+        "description": "Synchronization in Wireless Sensor Networks",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521856614",
+        "description": "The Partition of India",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521857680",
+        "description": "Coexistence in Wireless Networks",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9780521509763",
+        "description": "Ultrasonography in Reproductive Medicine & Infertility",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009853477",
+        "description": "The Historical Epistemology of Economics",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009720175",
+        "description": "Shaftesbury God & Environmental Aesthetics",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009853514",
+        "description": "The Historical Epistemology of Economics",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009720205",
+        "description": "Shaftesbury God & Environmental Aesthetics",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009474245",
+        "description": "The Italian Renaissance",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781107184756",
+        "description": "Church State & Family",
+        "setupdate": "2026-11-27"
+    },
+    {
+        "code": "9781009237192",
+        "description": "The Cambridge History of Australian Poetry",
+        "setupdate": "2026-11-27"
     }
 ]
